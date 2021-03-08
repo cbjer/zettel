@@ -18,7 +18,7 @@ $R_{t+1} + \gamma \hat{v}(S_{t+1}, \mathbf{w})$ is dependent on $\mathbf{w}$ whi
 gradient was with respect to.
 
 <figure>
-  <img src="/Images/ReinforcementLearning/SemiGradientTDZeroV.png"
+  <img src="/zettel/Images/ReinforcementLearning/SemiGradientTDZeroV.png"
      alt="ALT"
      class="centerImage"
      style="width: 700px;" />

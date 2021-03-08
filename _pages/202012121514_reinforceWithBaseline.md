@@ -17,7 +17,7 @@ therefore learning a policy parameterised by $\boldsymbol{\theta}$ and a state-v
 parameterised by $\mathbf{w}$, with separate gradient methods applied. 
 
 <figure>
-  <img src="/Images/ReinforcementLearning/ReinforceBaselinePi.png"
+  <img src="/zettel/Images/ReinforcementLearning/ReinforceBaselinePi.png"
      alt="ALT"
      class="centerImage"
      style="width: 700px;" />

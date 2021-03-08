@@ -8,7 +8,7 @@ tags: #inverse #dataefficiency
 # Least Squares TD
 
 <figure>
-  <img src="/Images/ReinforcementLearning/LSTDVOdTwo.png"
+  <img src="/zettel/Images/ReinforcementLearning/LSTDVOdTwo.png"
      alt="ALT"
      class="centerImage"
      style="width: 700px;" />

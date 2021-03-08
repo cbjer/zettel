@@ -12,7 +12,7 @@ and then [greedy policy improvement](202011292245_greedyPolicy) to create a sequ
 of monotonically improving policies and value functions.
 
 <figure>
-  <img src="/Images/ReinforcementLearning/PolicyIteration.png"
+  <img src="/zettel/Images/ReinforcementLearning/PolicyIteration.png"
      alt="ALT"
      class="centerImage"
      style="width: 700px;" />

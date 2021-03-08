@@ -11,7 +11,7 @@ Monte Carlo Prediction is a technique used to estimate the [value function](2020
 for a given [policy](202011242107_rlPolicy) via [sampling](TODO) techniques. 
 
 <figure>
-  <img src="/Images/ReinforcementLearning/FirstVisitMCPrediction.png"
+  <img src="/zettel/Images/ReinforcementLearning/FirstVisitMCPrediction.png"
      alt="First Visit MC Prediction"
      class="centerImage"
      style="width: 700px;" />

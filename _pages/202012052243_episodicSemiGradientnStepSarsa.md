@@ -11,7 +11,7 @@ The [n-step](202011302230_nstepReturn) of [episodic semi-gradient n-step Sarsa](
 a [control method](TODO) used for episodic tasks with [function approximators](202012052211_rlFunctionApproximators).
 
 <figure>
-  <img src="/Images/ReinforcementLearning/EpisodicSemiGradientNStepSarsaQ.png"
+  <img src="/zettel/Images/ReinforcementLearning/EpisodicSemiGradientNStepSarsaQ.png"
      alt="ALT"
      class="centerImage"
      style="width: 700px;" />

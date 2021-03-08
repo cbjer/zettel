@@ -16,7 +16,7 @@ use an expectation at every step. By this we mean each action not taken at each 
 still contributes to the return target.
 
 <figure>
-  <img src="/Images/ReinforcementLearning/NStepTreeBackupQ.png"
+  <img src="/zettel/Images/ReinforcementLearning/NStepTreeBackupQ.png"
      alt="ALT"
      class="centerImage"
      style="width: 700px;" />

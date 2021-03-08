@@ -13,7 +13,7 @@ value function by the difference between our updated estimate of the return, hav
 one step with the reward $R$. This direction is called the [TD Error](202011302057_TDError).
 
 <figure>
-  <img src="/Images/ReinforcementLearning/TabularTDZeroV.png"
+  <img src="/zettel/Images/ReinforcementLearning/TabularTDZeroV.png"
      alt="ALT"
      class="centerImage"
      style="width: 700px;" />

@@ -12,7 +12,7 @@ formulation for the [lambda-return](202012061731_lambdaReturn) as
 compared to the usual [TD($\lambda$)](202012061731_tdLambda) algorithm.
 
 <figure>
-  <img src="/Images/ReinforcementLearning/TrueOnlineTDLambdaV.png"
+  <img src="/zettel/Images/ReinforcementLearning/TrueOnlineTDLambdaV.png"
      alt="ALT"
      class="centerImage"
      style="width: 700px;" />

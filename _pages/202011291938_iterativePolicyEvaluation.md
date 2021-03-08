@@ -11,7 +11,7 @@ Say we have a policy $\pi$ that we want to evaluate its value function. We
 can use the [bellman expecation equation for value functions](202011222150_bellmanEquationStateValues) 
 as an iterative update.
 
-<figure><img src="/Images/ReinforcementLearning/iterativePolicyEvaluation.png"
+<figure><img src="/zettel/Images/ReinforcementLearning/iterativePolicyEvaluation.png"
      alt="ALT"
      class="centerImage"
      style="width: 700px;" />

@@ -10,7 +10,7 @@ tags: #algorithm #advanced #[]
 Advanced algorithm
 
 <figure>
-  <img src="/Images/ReinforcementLearning/OffPolicyNStepQ.png"
+  <img src="/zettel/Images/ReinforcementLearning/OffPolicyNStepQ.png"
      alt="ALT"
      class="centerImage"
      style="width: 700px;" />

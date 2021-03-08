@@ -12,7 +12,7 @@ formulation for the [lambda-return](202012061731_lambdaReturn) for the
 as compared to the standard [Sarsa($\lambda$)](202012061732_sarsaLambda) algorithm.
 
 <figure>
-  <img src="/Images/ReinforcementLearning/TrueOnlineSarsaLambdaQ.png"
+  <img src="/zettel/Images/ReinforcementLearning/TrueOnlineSarsaLambdaQ.png"
      alt="ALT"
      class="centerImage"
      style="width: 700px;" />

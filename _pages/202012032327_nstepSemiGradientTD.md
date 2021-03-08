@@ -12,7 +12,7 @@ Generalisation of the [semi gradient TD(0)](202012032232_semigradientTDZero) to
 to the value function.
 
 <figure>
-  <img src="/Images/ReinforcementLearning/NStepSemiGradientTDV.png"
+  <img src="/zettel/Images/ReinforcementLearning/NStepSemiGradientTDV.png"
      alt="ALT"
      class="centerImage"
      style="width: 700px;" />

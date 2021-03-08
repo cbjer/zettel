@@ -12,7 +12,7 @@ except that we apply only one sweep of [policy evaluation](202011291938_iterativ
 rather than waiting for convergence.
 
 <figure>
-  <img src="/Images/ReinforcementLearning/ValueIteration.png"
+  <img src="/zettel/Images/ReinforcementLearning/ValueIteration.png"
      alt="ALT"
      class="centerImage"
      style="width: 700px;" />

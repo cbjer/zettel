@@ -10,7 +10,7 @@ tags: #averagereturn #control
 Using the [average return formulation](TODO)
 
 <figure>
-  <img src="/Images/ReinforcementLearning/DifferentialSemiGradientNStepSarsaQ.png"
+  <img src="/zettel/Images/ReinforcementLearning/DifferentialSemiGradientNStepSarsaQ.png"
      alt="ALT"
      class="centerImage"
      style="width: 700px;" />

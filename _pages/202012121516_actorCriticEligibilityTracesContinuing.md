@@ -10,7 +10,7 @@ tags: #gradient
 Here we use the definition of performance of [average rate of reward per timestep](TODO).
 
 <figure>
-  <img src="/Images/ReinforcementLearning/ActorCriticEligibilityTracesContinueingPi.png"
+  <img src="/zettel/Images/ReinforcementLearning/ActorCriticEligibilityTracesContinueingPi.png"
      alt="ALT"
      class="centerImage"
      style="width: 700px;" />

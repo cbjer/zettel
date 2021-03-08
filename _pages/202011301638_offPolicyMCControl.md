@@ -11,7 +11,7 @@ tags: #algorithm #importance #target
 Makes use of [importance sampling ratio](202101102040_importanceSampling).
 
 <figure>
-  <img src="/Images/ReinforcementLearning/OffPolicyMCControlPi.png"
+  <img src="/zettel/Images/ReinforcementLearning/OffPolicyMCControlPi.png"
      alt="Off Policy MC Control"
      class="centerImage"
      style="width: 700px;" />

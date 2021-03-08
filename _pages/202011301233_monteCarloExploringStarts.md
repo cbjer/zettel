@@ -20,7 +20,7 @@ then follow the policy to create and episode. Again we look at the first-visit t
 state-action pair in order to add it to our sampled returns list.
 
 <figure>
-  <img src="/Images/ReinforcementLearning/MCExploringStarts.png"
+  <img src="/zettel/Images/ReinforcementLearning/MCExploringStarts.png"
      alt="Monte Carlo Exploring Starts"
      class="centerImage"
      style="width: 700px;" />

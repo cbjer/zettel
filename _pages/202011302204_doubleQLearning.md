@@ -13,7 +13,7 @@ introduction of these two state-action value estimates appears
 to reduce the effect of [maximisation bias](202011302212_maximisationBias).
 
 <figure>
-  <img src="/Images/ReinforcementLearning/DoubleQLearningQ.png"
+  <img src="/zettel/Images/ReinforcementLearning/DoubleQLearningQ.png"
      alt="ALT"
      class="centerImage"
      style="width: 700px;" />

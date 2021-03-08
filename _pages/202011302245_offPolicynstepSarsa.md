@@ -10,7 +10,7 @@ tags: #offpolicy
 []
 
 <figure>
-  <img src="/Images/ReinforcementLearning/OffPolicyNStepSarsaQ.png"
+  <img src="/zettel/Images/ReinforcementLearning/OffPolicyNStepSarsaQ.png"
      alt="ALT"
      class="centerImage"
      style="width: 700px;" />

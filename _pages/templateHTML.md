@@ -11,7 +11,7 @@ layout: default
      style="width: 400px;" /></center>
 
 figure>
-  <img src="/Images/ReinforcementLearning/iterativePolicyEvaluation.png"
+  <img src="/zettel/Images/ReinforcementLearning/iterativePolicyEvaluation.png"
      alt="ALT"
      class="centerImage"
      style="width: 700px;" />

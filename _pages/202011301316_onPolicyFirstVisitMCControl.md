@@ -11,7 +11,7 @@ Very similiar to previous sampling based methods, except here we have added
 a [epsilon greedy policy](202011301251_epsilonGreedyPolicy) to maintain [exploration](TODO).
 
 <figure>
-  <img src="/Images/ReinforcementLearning/OnPolicyFirstVisitMC.png"
+  <img src="/zettel/Images/ReinforcementLearning/OnPolicyFirstVisitMC.png"
      alt="ALT"
      class="centerImage"
      style="width: 700px;" />

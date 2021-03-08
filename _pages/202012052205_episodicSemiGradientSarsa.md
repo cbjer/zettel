@@ -10,7 +10,7 @@ tags: #terminal #discounting
 A [control method](TODO) used for episodic tasks with [function approximators](202012052211_rlFunctionApproximators).
 
 <figure>
-  <img src="/Images/ReinforcementLearning/EpisodicSemiGradientSarsaQ.png"
+  <img src="/zettel/Images/ReinforcementLearning/EpisodicSemiGradientSarsaQ.png"
      alt="ALT"
      class="centerImage"
      style="width: 700px;" />

@@ -17,7 +17,7 @@ which state-action pairs would change drastically in value if the sampled
 state action pair were to change.
 
 <figure>
-  <img src="/Images/ReinforcementLearning/PrioritizedSweepingDeterministic.png"
+  <img src="/zettel/Images/ReinforcementLearning/PrioritizedSweepingDeterministic.png"
      alt="ALT"
      class="centerImage"
      style="width: 700px;" />

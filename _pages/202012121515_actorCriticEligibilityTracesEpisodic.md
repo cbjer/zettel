@@ -8,7 +8,7 @@ tags: #gradient
 # Actor-Critic with Eligibility Traces (Episodic Case)
 
 <figure>
-  <img src="/Images/ReinforcementLearning/ActorCriticEligibilityTracesPi.png"
+  <img src="/zettel/Images/ReinforcementLearning/ActorCriticEligibilityTracesPi.png"
      alt="ALT"
      class="centerImage"
      style="width: 700px;" />

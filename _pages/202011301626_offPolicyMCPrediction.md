@@ -11,7 +11,7 @@ tags: #evaluation #target #importance
 a given policy.
 
 <figure>
-  <img src="/Images/ReinforcementLearning/OffPolicyMCPredictionQ.png"
+  <img src="/zettel/Images/ReinforcementLearning/OffPolicyMCPredictionQ.png"
      alt="ALT"
      class="centerImage"
      style="width: 700px;" />

@@ -13,7 +13,7 @@ policy parameters for our parameterised policy. The update makes use of the
 [policy gradient theorem](202012141215_policyGradientTheorem).
 
 <figure>
-  <img src="/Images/ReinforcementLearning/ReinforceMCPolicyGradientControlPi.png"
+  <img src="/zettel/Images/ReinforcementLearning/ReinforceMCPolicyGradientControlPi.png"
      alt="ALT"
      class="centerImage"
      style="width: 700px;" />

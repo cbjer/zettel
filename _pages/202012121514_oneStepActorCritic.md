@@ -8,7 +8,7 @@ tags: #gradient
 # One-step Actor Critic
 
 <figure>
-  <img src="/Images/ReinforcementLearning/OneStepActorCriticPi.png"
+  <img src="/zettel/Images/ReinforcementLearning/OneStepActorCriticPi.png"
      alt="ALT"
      class="centerImage"
      style="width: 700px;" />

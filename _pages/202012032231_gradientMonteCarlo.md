@@ -18,7 +18,7 @@ being moved slightly in the direction which reduces the error between our
 previous estimated value and our sampled value $G_t$.
 
 <figure>
-  <img src="/Images/ReinforcementLearning/GradientMCV.png"
+  <img src="/zettel/Images/ReinforcementLearning/GradientMCV.png"
      alt="ALT"
      class="centerImage"
      style="width: 700px;" />
