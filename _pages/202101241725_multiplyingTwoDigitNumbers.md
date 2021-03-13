@@ -17,7 +17,7 @@ as the three parts, allowing any excess to carry over into the next
 
 Example
 
-- $38 \cdot 19$ -> $\big[ |3|27+8|72 \big]$ -> $\big[ |3|42|2 \big]$ -> $722$
+$$38 \cdot 19 \rightarrow \big[ | 3 | 27+8 | 72 \big] \rightarrow \big[ | 3 | 42 | 2 \big] \rightarrow 722$$
 
 Links: 
 

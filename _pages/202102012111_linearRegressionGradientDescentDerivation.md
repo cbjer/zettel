@@ -9,9 +9,9 @@ tags: #derivation
 
 For a [Linear Regression Model](TODO), we have the setup of
 
-Model : $f(\mathbf{x} | \mathbf{w}) = \mathbf{x}^T \mathbf{w}$
+Model : $f(\mathbf{x} \vert \mathbf{w}) = \mathbf{x}^T \mathbf{w}$
 
-Training set $\{ (\mathbf{x}_i, y_i ) \}_{i=1}^N$
+Training set $$ \{ (\mathbf{x}_i, y_i ) \}_{i=1}^N $$
 
 Parameters $\mathbf{w} \in \mathbb{R}^p$
 

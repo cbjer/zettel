@@ -7,7 +7,7 @@ tags: #definition
 
 # Conditional Density Definition
 
-We define the conditional density function $f_{X|Y}(x)$ as 
+We define the conditional density function $f_{X \vert Y}(x)$ as 
 
 $$
 f_{X|Y}(x) = \frac{f_{X Y}(x, y)}{f_Y(y)}

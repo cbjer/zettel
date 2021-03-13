@@ -32,7 +32,7 @@ $$
 \pi(\theta | x) = \frac{f(x|\theta) \pi(\theta)}{\int_{\theta} f(x | \tilde{\theta} ) \pi ( \tilde{\theta} ) d \tilde{\theta}}
 $$
 
-We often write this as $\pi(\theta | x ) \propto f(x | \theta) \pi(\theta)$. 
+We often write this as $\pi(\theta \vert x ) \propto f(x \vert \theta) \pi(\theta)$. 
 
 Ie **posterior $\propto$ likelyhood $\cdot$ prior**.
 

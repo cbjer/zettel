@@ -8,8 +8,8 @@ tags: #linear #algebra
 # Singular Values without taking Square Root of Operator
 
 If we have an [operator](202102082104_operatorDefinition) $T$, then the [singular values](202102201841_singularValuesDefinition) are the 
-non-negative square roots of the [eigenvalues](202102120912_eigenvalueDefinition) of $T^*T$, with each eigenvalue
-$\lambda$ repeated $\mathrm{dim} \, E(\lambda, T^*T)$ times.
+non-negative square roots of the [eigenvalues](202102120912_eigenvalueDefinition) of $T^{\ast}T$, with each eigenvalue
+$\lambda$ repeated $\mathrm{dim} \, E(\lambda, T^{\ast}T)$ times.
 
 - Since $T^*T$ is [a positive operator](202102201207_positiveOperatorDefinition) $\implies$ [has non-negative eigenvalues](202102201218_equivalencesPositiveOperator)
 - [Self-adjoint](202102162040_selfAdjointOperator) $\implies$ can use [real spectral theorem](202102191218_realSpectralTheorem) to get the orthonormal basis of eigenvectors
