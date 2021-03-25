@@ -2,6 +2,7 @@
 title: Zettels
 permalink: /zettel/202011221431_principalsOfZettelkasten
 layout: default
+tags: notetaking memory cognition
 ---
 tags: #notetaking #memory #cognition\
 
