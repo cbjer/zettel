@@ -32,6 +32,11 @@ $$
 \vdots \\
 \mathbf{x}_n^T \mathbf{w}
 \end{pmatrix}
+=\begin{pmatrix}
+\mathbf{w}^T \mathbf{x}_1 \\
+\vdots \\
+\mathbf{w}^T \mathbf{x}_n
+\end{pmatrix}
 $$
 
 Links: 

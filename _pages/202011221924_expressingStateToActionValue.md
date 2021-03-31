@@ -8,7 +8,7 @@ tags: #valuefunction #actionvaluefunction \
 # Expressing State Value Function in terms of State-Action Value Function 
 
 We can express the [state-value function](202011221845_valueFunctions) $V_{\pi}(s)$ in terms of the [state-action value function](202011221903_actionValueFunction) 
-$q_{\pi}(s, a)$ by using the [law of total expectation](TODO).
+$q_{\pi}(s, a)$ by using the [law of total expectation](202103141349_lawTotalExpectation).
 
 $$
 \begin{aligned}

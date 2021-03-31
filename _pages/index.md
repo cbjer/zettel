@@ -579,3 +579,35 @@ Styles:
 [Space Complexity TODO](202103061215_spaceComplexity)
 
 [Selection Sort Algorithm](202103061231_selectionSort)
+
+[Linear Regression Model](202103141139_linearRegressionModel)
+
+[Linear Regression Squared Loss Matrix Form](202103141145_linearRegressionSquaredLossMatrix)
+
+[Linear Regression Matrix Solution](202103141315_linearRegressionMatrixSolution)
+
+[Law of Total Expectation](202103141349_lawTotalExpectation)
+
+[Conditional Expectation Expression for Joint Distribution](202103141401_conditionalExpectationJointDistribution)
+
+[Conditional Expectation Solution to Squared Error Loss](202103271143_conditionalExpectationSolutionSquaredError)
+
+[Cross Entropy](202103271307_crossEntropy)
+
+[Entropy](202103271322_entropy)
+
+[Cross Entropy vs Negative Log-likelyhood](202103271848_crossEntropyVsNegativeLogLikelyhood)
+
+[Bias-Variance Tradeoff Derivation](202103281546_biasVarianceTradeoffDerivation)
+
+[Gauss-Markov Theorem for Linear Estimators](202103281726_gaussMarkovTheoremLinearEstimators)
+
+[Ridge Regression](202103281806_ridgeRegression)
+
+[Lasso Regression](202103281817_lassoRegression)
+
+[Elastic Net Model](202103281827_elasticNetModel)
+
+[Logistic Regression Gradient Descent Step Derivation](202103282246_logisticRegressionGradientDescentStepDerivation)
+
+[Gradient Descent Update TODO](202103282312_gradientDescentUpdate)

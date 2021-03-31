@@ -33,7 +33,15 @@ $$
 Remember, with a likelihood, we are making an assumption of the type of distribution the data is coming from 
 (eg a normal) with then unknown parameters.
 
-Links: 
+> Useful to think as likelyhood of observing the data given the model parameters
+
+In a machine learning classification setup, we are modeling 
+$$
+p(Y_i = y_i \vert X_i = x_i)
+$$
+So don't get confused between $x_i$ as an observed input in the ML framework, and as a sample in the classical statistics framework.
+
+Links: [Cross Entropy vs Negative Log Likelihood](202103271848_crossEntropyVsNegativeLogLikelyhood)
 
 References: 
 

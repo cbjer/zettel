@@ -16,18 +16,18 @@ T v = s_1 \langle v, e_1 \rangle f_1 + \cdots + s_n \langle v, e_n \rangle f_n \
 $$
 
 For the proof we note:
-- Since $\sqrt{T^*T}$ is [self-adjoint](202102162040_selfAdjointOperator) we can use the [spectral theorem](202102191218_realSpectralTheorem) 
-  to create an orthonormal basis of eigenvectors of $\sqrt{T^*T}$.
+- Since $\sqrt{T^{\ast} T}$ is [self-adjoint](202102162040_selfAdjointOperator) we can use the [spectral theorem](202102191218_realSpectralTheorem) 
+  to create an orthonormal basis of eigenvectors of $\sqrt{T^{\ast} T}$.
 $$
 \sqrt{T^*T} e_j = s_j e_j
 $$
 - These eigenvalues are exactly the singular values.
-- The [expression for v in terms of linear combination of orthonormal basis](202102142128_linearCombinationOrthonomalBasis). Apply $\sqrt{T^*T}$ to both sides.
+- The [expression for v in terms of linear combination of orthonormal basis](202102142128_linearCombinationOrthonomalBasis). Apply $\sqrt{T^{\ast} T}$ to both sides.
 $$
 v = \langle v, e_1 \rangle e_1 + \cdots + \langle v, e_n \rangle e_n
 $$
 - Use the [polar decomposition](202102201834_polarDecomposition) to get an [isometry](202102201248_isometryDefinition) such that 
-  we can write $T = S \sqrt{T^*T}$. We apply $S$ to each side.
+  we can write $T = S \sqrt{T^{\ast} T}$. We apply $S$ to each side.
 - Then using the [equivalences for an isometry](202102201252_equivalencesIsometries) to get the second orthonormal basis
 
 Links: 

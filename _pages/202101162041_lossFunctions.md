@@ -21,7 +21,7 @@ $$L(Y, f(X)) = \begin{cases}
 1 \quad f(X) \neq Y
 \end{cases}
 $$
-- Cross Entropy Loss / Negative Log Likelyhood
+- [Cross Entropy Loss / Negative Log Likelyhood](202103271848_crossEntropyVsNegativeLogLikelyhood)
 
 
 

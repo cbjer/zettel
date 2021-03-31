@@ -7,7 +7,6 @@ layout: default
 
 - Likelyhood
 - Markov Reward Process
-- Law of total expectation
 - Episode
 - Markov Decision Process
 - Sampling

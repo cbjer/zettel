@@ -8,8 +8,8 @@ tags: #linear #algebra
 # Singular Values Definition
 
 If we have an [operator](202102082104_operatorDefinition) $T$, the **singular values** of $T$ are the 
-[eigenvalues](202102120912_eigenvalueDefinition) of $\sqrt{T^* T}$, with each eigenvalue $\lambda$ repeated 
-$\mathrm{dim} \, E(\lambda, \sqrt{T^*T})$ times.
+[eigenvalues](202102120912_eigenvalueDefinition) of $\sqrt{T^{\ast} T}$, with each eigenvalue $\lambda$ repeated 
+$\mathrm{dim} \, E(\lambda, \sqrt{T^{\ast} T})$ times.
 
 We note that [all the eigenvalues are non-negative](202102201218_equivalencesPositiveOperator) since $\sqrt{T^* T}$ is 
 a [positive operator](202102201207_positiveOperatorDefinition)

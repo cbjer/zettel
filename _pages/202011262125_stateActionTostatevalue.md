@@ -8,7 +8,7 @@ tags: #recursive #expectation
 # Expressing State-Action Value function in terms of State value function
 
 We can express the [state-action value function](202011221903_actionValueFunction) $q_{\pi}(s, a)$ in terms of the [state value function](202011221845_valueFunctions) 
-$V_{\pi}$ by using the [law of total expectation](TODO), [recursive return relation](202011222109_recursiveReturns) 
+$V_{\pi}$ by using the [law of total expectation](202103141349_lawTotalExpectation), [recursive return relation](202011222109_recursiveReturns) 
 and [markov property](202011242210_markovStates).
 
 $$

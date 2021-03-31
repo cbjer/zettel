@@ -11,11 +11,11 @@ The Metropolis Hastings Algorithm is a form of [Markov Chain Monte Carlo](TODO) 
 It works by jumping through the sammple space to form a Markov Chain, either accepting or rejecting each new point.
 
 We also need to specify a **transition / proposal distribution** which will control how we jump to new points, starting at the most recently accepted point. This proposal distribution $q(y|x)$, will
-often be a $\mathcal{N}(x | 1)$ distribution. That is we form a random walk centred at the previously accepted point. The algorithm proceeds as
+often be a $\mathcal{N}(x \vert 1)$ distribution. That is we form a random walk centred at the previously accepted point. The algorithm proceeds as
 
 - Initialise a starting point $X_1 = x_1$
-- Sample a new point using the proposal distribution $x' \sim q(y|x_t)$. This is our proposal for $x_{t+1}$.
-- Compute the ratio $$r = \frac{p(x')q(x_t | x')}{p(x_t) q(x' | x_t)}$$
+- Sample a new point using the proposal distribution $x' \sim q(y \vert x_t)$. This is our proposal for $x_{t+1}$.
+- Compute the ratio $$r = \frac{p(x')q(x_t \vert x')}{p(x_t) q(x' \vert x_t)}$$
 - Sample $u \sim U(0,1)$
 - If $r > u$, then we accept our proposed sample $x_{t+1} = x'$. If not set $x_{t+1} = x_t$. Return to the second step to sample next point.
 

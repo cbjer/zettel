@@ -22,11 +22,11 @@ $$
 
 Our [likelihood](202101091603_probabilityLikelyhood) then becomes:
 
-$$ L ( \mathbf{w}, b )  = \prod_{i=0}^{N} f( \mathbf{x}_i )^{y_i} ( 1 - f ( \mathbf{x} ))^{ 1 - y_i} $$
+$$ L ( \mathbf{w}, b )  = \prod_{i=1}^{N} f( \mathbf{x}_i )^{y_i} ( 1 - f ( \mathbf{x}_i ))^{ 1 - y_i} $$
 
 where $\mathbf{w}$ and $b$ are the parameters within our logistic regression model. Taking logs, we get our log-likelihood:
 
-$$ l ( \mathbf{w}, b ) = \log ( L ( \mathbf{w}, b ) ) = \sum_{i=1}^{N} y_i \log ( f ( \mathbf{x_i} ) ) + ( 1 - y_i ) \log ( 1 - f ( \mathbf{x_i} ) ) $$
+$$ l ( \mathbf{w}, b ) = \log ( L ( \mathbf{w}, b ) ) = \sum_{i=1}^{N} y_i \log ( f ( \mathbf{x}_i ) ) + ( 1 - y_i ) \log ( 1 - f ( \mathbf{x}_i ) ) $$
 
 Links: []
 
