@@ -11,7 +11,7 @@ Given our functional approximator $\hat{v}(s, \mathbf{w})$ to the [value functio
 which depends on some weights vector $\mathbf{w}$, we aim to update this weight vector in 
 the direction which would reduce the observed [sample error](202012032202_meanSquaredValueError) between our current value function
 functional approximator and the true value function $v_{\pi}$. We do this through a 
-[stochastic gradient descent](TODO) based step.
+[stochastic gradient descent](202104051024_stochasticGradientDescent) based step.
 
 $$
 \begin{aligned}

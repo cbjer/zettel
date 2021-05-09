@@ -10,6 +10,11 @@ tags: #linear #algebra
 A [linear map](202102071416_linearMapDefinition) $T : V \rightarrow W$ is **surjective** if 
 its [range](202102071800_rangeDefinition) equals $W$.
 
+In other words:
+$$
+\forall w \in W, \,  \exists v \in V : T(v) = w
+$$
+
 Links: 
 
 References: 

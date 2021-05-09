@@ -8,7 +8,7 @@ tags: #gradient
 # REINFORCE Algorithm
 
 The REINFORCE Algorithm is a [policy gradient method](202012141139_policyGradientMethods) 
-which uses a [stochastic gradient ascent](TODO) based update to find optimal 
+which uses a [stochastic gradient ascent](202104051024_stochasticGradientDescent) based update to find optimal 
 policy parameters for our parameterised policy. The update makes use of the 
 [policy gradient theorem](202012141215_policyGradientTheorem).
 

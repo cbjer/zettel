@@ -20,7 +20,7 @@ We denote the inverse of $T$ as $T^{-1}$
 
 Ie $T T^{-1} = I$ and $T^{-1} T = I$
 
-Links: 
+Links: [Invertibility Equivalence to Injectivity and Surjectivity](202102081919_invertibilityInjectivitySurjectivity)
 
 References: 
 

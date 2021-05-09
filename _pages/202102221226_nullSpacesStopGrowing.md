@@ -17,6 +17,6 @@ Ie, all [null spaces](202102071742_nullSpaceDefinition) beyond the dimension of 
 
 Links: 
 
-References: 
+References: 8.4 Axler
 
 [Return to Index](index)

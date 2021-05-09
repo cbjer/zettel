@@ -574,9 +574,9 @@ Styles:
 
 [Quicksort Algorithm](202103042013_quickSortAlgorithm)
 
-[Time Complexity TODO](202103061211_timeComplexity)
+[Time Complexity](202103061211_timeComplexity)
 
-[Space Complexity TODO](202103061215_spaceComplexity)
+[Space Complexity](202103061215_spaceComplexity)
 
 [Selection Sort Algorithm](202103061231_selectionSort)
 
@@ -610,4 +610,144 @@ Styles:
 
 [Logistic Regression Gradient Descent Step Derivation](202103282246_logisticRegressionGradientDescentStepDerivation)
 
-[Gradient Descent Update TODO](202103282312_gradientDescentUpdate)
+[Gradient Descent Update](202103282312_gradientDescentUpdate)
+
+[Stochastic Gradient Descent](202104051024_stochasticGradientDescent)
+
+[Null space and Range of p(T) are invariant under T](202104241501_nullspaceRangePolynomialInvariant)
+
+[Description of Operators on complex vector spaces into Generalised Eigenspaces](202104241507_descriptionOperatorComplexSpaceGeneralisedEigenspace)
+
+[Basis of Generalised Eigenvectors](202104241516_basisGeneralisedEigenvectors)
+
+[Multiplicity Definition of an Eigenvalue](202104241520_multiplictyDefinitionEigenvalue)
+
+[Block Diagonal Matrix Definition](202104241535_blockDiagonalMatrixDefinition)
+
+[Block Diagonal Matrix with Upper-Triangular Blocks](202104241548_blockDiagonalUpperTriangularBlocks)
+
+[Identity plus Nilpotent has Square Root](202104241559_identityPlusNilpotentSquareRoot)
+
+[Invertible Operators on Complex Space have a Square Root](202104241601_invertibleOperatorsComplexSpaceSquareRoot)
+
+[Characteristic Polynomial Definition](202104241811_characteristicPolynomialDefinition)
+
+[Degrees and zeros of Characteristic Polynomial](202104241821_degreesZerosCharacteristicPolynomial)
+
+[Cayley-Hamilton Theorem](202104241825_cayleyHamiltonTheorem)
+
+[Monic Polynomial Definition](202104241842_monicPolynomialDefinition)
+
+[Minimal Polynomial Definition](202104241845_minimalPolynomialDefinition)
+
+[Existence Minimal Polynomial](202104241849_existenceMinimalPolynomial)
+
+[Zero Polynomial Implies Multiple Minimal Polynomial](202104241858_zeroPolynomialImpliesMultipleMinimalPolynomial)
+
+[Characteristic Polynomial is a multiple of Minimal Polynomial](202104241914_characteristicPolynomialMultipleMinimalPolynomial)
+
+[Polynomial Multiple Definition](202104241915_polynomialMultipleDefinition)
+
+[Eigenvalues are the zeros of the Minimal Polynomial](202104241920_eigenvaluesZerosMinimalPolynomial)
+
+[Basis Corresponding to a Nilpotent Operator](202104251002_basisCorrespondingNilpotentOperator)
+
+[Jordan Basis Definition](202104251012_jordanBasisDefinition)
+
+[Jordan Form](202104251017_jordanForm)
+
+[Complexification of V](202104251520_complexificationOfV)
+
+[Complexification of V is a complex vector space](202104251528_complexificationVComplexVectorSpace)
+
+[Basis of V is a basis of complexification of V](202104251529_basisVBasisComplexification)
+
+[Complexification of an Operator](202104251532_complexificationOperator)
+
+[Complexified Operator has same Matrix](202104262049_complexifiedOperatorSameMatrix)
+
+[Every Operator has Invariant Subspace of Dimension 1 or 2](202104262055_everyOperatorInvariantSubspaceOneTwo)
+
+[Complexified Operator has same Minimal Polynomial](202104262109_complexifiedOperatorSameMinimalPolynomial)
+
+[Real eigenvalues of complexified operator](202104262112_realEigenvaluesComplexifiedOperators)
+
+[Symetric Eigenvalue Result for Complexified Operator](202104262117_symetricEigenvalueComplexifiedOperator)
+
+[Nonreal eigenvalues of complexified operator come in pairs](202104262120_nonRealEigenvaluesComplexifiedOperatorPairs)
+
+[Multiplicity of Eigenvalue equals its Conjugate](202104262124_multiplicityEigenvalueEqualsConjugate)
+
+[Operator on odd-dimensional vector space has eigenvalue](202104262128_operatorOddDimensionalHasEigenvalue)
+
+[Sum Multiplicites Equals Dimension of Space](202104262136_sumMultiplicitesEqualsDimensionSpace)
+
+[Characteristic Polynomial for Complexified Operator](202104262154_characteristicPolynomialComplexifiedOperator)
+
+[Characteristic Polynomial For Real Operator Definition](202104262156_characteristicPolynomialRealOperatorDefinition)
+
+[Degree and Zeros of Characteristic Polynomial Real Operator](202104262158_degreeZerosCharacteristicPolynomialRealOperator)
+
+[Normal but not Self-Adjoint Operators](202104291930_normalButNotSelfAdjointOperators)
+
+[Normal Operators and Invariant Subspaces](202104292016_normalOperatorsInvariantSubspaces)
+
+[Characterisation of Normal Operators with Real Field](202104292022_characterisationNormalOperatorRealField)
+
+[Description of Isometries with Real Field](202104292026_descriptionIsometriesRealField)
+
+[Invertible Matrix Definition](202104292059_invertibleMatrixDefinition)
+
+[The Matrix of the Product of Linear Maps](202104292102_matrixProductLinearMaps)
+
+[Matrix of the Identity with respect to two Basis](202104292119_matrixIdentityRespectTwoBasis)
+
+[Change of basis formula](202104292126_changeBasisFormula)
+
+[Trace of an Operator Definition](202104292131_traceOperatorDefinition)
+
+[Trace and Characteristic Polynomial](202104292134_traceCharacteristicPolynomial)
+
+[Trace of a Matrix Definition](202104292137_traceMatrixDefinition)
+
+[Trace is symmetric](202104292138_traceSymmetric)
+
+[Trace of Matrix of Operator not dependent on Basis](202104292140_traceMatricOperatorNotBasisDependent)
+
+[Trace of an Operator equals trace of its matrix](202104292144_traceOperatorEqualsTraceMatrix)
+
+[Trace is Additive](202104292146_traceAdditive)
+
+[Identity not difference of $ST$ and $TS$](202104292148_identityNotDifferenceSTAndTS)
+
+[Determinant of an Operator Definition](202105091734_determinantOperatorDefinition)
+
+[Determinant and Constant Term in Characteristic Polynomial](202105091741_determinantConstantTermCharacteristicPolynomial)
+
+[Characteristic Polynomial, Trace and Determinant](202105091743_characteristicPolynomialTraceDeterminant)
+
+[Invertible is Equivalent to Nonzero Determinant](202105091747_invertibleEquivalentNonzeroDeterminant)
+
+[Characteristic Polynomial as a Determinant](202105091756_characteristicPolynomialDeterminant)
+
+[Permutation Definition](202105091800_permutationDefinition)
+
+[Sign of a Permutation Definition](202105091804_signPermutationDefinition)
+
+[Interchanging Two Entries in a Permutation](202105091816_interchangingTwoEntriesPermutation)
+
+[Determinant of a Matrix](202105091818_determinantMatrix)
+
+[Interchanging Two Columns Matrix Determinant](202105091825_interchangingTwoColumnsMatrixDeterminant)
+
+[Matrices with Two Equal Columns Determinant](202105091828_matricesTwoEqualColumnsDeterminant)
+
+[Permuting the Columns of a Matrix Determinant](202105091831_permutingColumnsDeterminant)
+
+[Determinant is Multiplicative](202105091843_determinantMultiplicative)
+
+[Determinant of Matrix of Operator does not depend on Basis](202105091846_determinantMatrixOperatorNotDependBasis)
+
+[Determinant Operator Equals Determinant of its Matrix](202105091856_determinantOperatorEqualsDeterminantMatrix)
+
+[Isometries have Determinant with absolute value 1](202105091902_isometriesDeterminant)

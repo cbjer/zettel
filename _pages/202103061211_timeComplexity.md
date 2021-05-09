@@ -7,9 +7,16 @@ tags: #
 
 # Time Complexity
 
-TODO
+Time complexity is the amount of time taken by an algorithm to run as a function of the size 
+of the input.
 
-Links: 
+We have:
+- Constant time $O(1)$
+- Linear time $O(n)$
+- Logarithmic time $O(\log n)$
+- Quadratic time $O(n^2)$
+
+Links: [Space Complexity](202103061215_spaceComplexity)
 
 References: 
 

@@ -19,7 +19,7 @@ $$
 \end{aligned}
 $$
 
-If we instead turn this into a [stochastic gradient ascent update](TODO) then we remove 
+If we instead turn this into a [stochastic gradient ascent update](202104051024_stochasticGradientDescent) then we remove 
 the expectation as are taking a sample from the true gradient.
 
 We can also add a function not dependent on $a$ as a baseline, as is used in [REINFORCE with Baseline](202012121514_reinforceWithBaseline). 
