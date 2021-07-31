@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Dimension of Subspace Result
 permalink: /zettel/202102062257_dimensionSubspaceResult
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

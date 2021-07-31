@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Zero polynomial implies multiple of Minimal Polynomial
 permalink: /zettel/202104241858_zeroPolynomialImpliesMultipleMinimalPolynomial
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

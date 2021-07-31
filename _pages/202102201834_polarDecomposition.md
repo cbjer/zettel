@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Polar Decomposition
 permalink: /zettel/202102201834_polarDecomposition
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

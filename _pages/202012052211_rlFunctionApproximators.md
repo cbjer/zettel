@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Function Approximators 
 permalink: /zettel/202012052211_rlFunctionApproximators
-layout: default
+layout: page
 ---
 tags: #value #actionvalue
 
@@ -28,7 +28,7 @@ We often look for differentiable families of approximators to allow for
 [stochastic gradient descent based methods](202012032217_sgdValueFunction).
 
 Examples of approximators include [linear functions](202012032318_linearValueFunctionApproximator), 
-[neural networks](TODO) and ...
+[neural networks](TODOs) and ...
 
 Links: []
 

@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Invertible Matrix Definition
 permalink: /zettel/202104292059_invertibleMatrixDefinition
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

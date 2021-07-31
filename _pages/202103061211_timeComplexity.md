@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Time Complexity
 permalink: /zettel/202103061211_timeComplexity
-layout: default
+layout: page
 ---
 tags: #
 

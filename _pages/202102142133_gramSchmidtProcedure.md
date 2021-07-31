@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Gram-Schmidt Procedure
 permalink: /zettel/202102142133_gramSchmidtProcedure
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

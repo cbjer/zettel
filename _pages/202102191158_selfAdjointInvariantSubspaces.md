@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Self-Adjoint Operators and Invariant Subspaces
 permalink: /zettel/202102191158_selfAdjointInvariantSubspaces
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

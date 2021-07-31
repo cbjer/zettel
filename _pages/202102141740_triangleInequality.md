@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Triangle Inequality
 permalink: /zettel/202102141740_triangleInequality
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Span Definition
 permalink: /zettel/202102062022_spanDefinition
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Diagonalizable Definition
 permalink: /zettel/202102141037_diagonalizableDefinition
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Determinant and Constant Term in Characteristic Polynomial
 permalink: /zettel/202105091741_determinantConstantTermCharacteristicPolynomial
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

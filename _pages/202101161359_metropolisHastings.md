@@ -1,13 +1,13 @@
 ---
-title: Zettels
+title: Metropolis Hastings Algorithm
 permalink: /zettel/202101161359_metropolisHastings
-layout: default
+layout: page
 ---
 tags: #sampling #posterior #intractable
 
 # Metropolis Hastings Algorithm
 
-The Metropolis Hastings Algorithm is a form of [Markov Chain Monte Carlo](TODO) used to sample from a, often intractable, density function called the **target distribution** $p(x)$.
+The Metropolis Hastings Algorithm is a form of [Markov Chain Monte Carlo](TODOs) used to sample from a, often intractable, density function called the **target distribution** $p(x)$.
 It works by jumping through the sammple space to form a Markov Chain, either accepting or rejecting each new point.
 
 We also need to specify a **transition / proposal distribution** which will control how we jump to new points, starting at the most recently accepted point. This proposal distribution $q(y|x)$, will
@@ -21,7 +21,7 @@ often be a $\mathcal{N}(x \vert 1)$ distribution. That is we form a random walk 
 
 Typically we also include a burn-in period whereby we only start using our samples after some period of time $t > T$.
 
-Metropolist Hastings is very useful in [Bayesian Inference](202101161711_bayesianInference) when trying to sample from an intractable [posterior distribution](TODO).
+Metropolist Hastings is very useful in [Bayesian Inference](202101161711_bayesianInference) when trying to sample from an intractable [posterior distribution](TODOs).
 
 
 Links: [Metropolis Hastings Five Minute Stats](https://stephens999.github.io/fiveMinuteStats/MH_intro.html)

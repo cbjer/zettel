@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Invertibility Equivalence to Injectivity and Surjectivity
 permalink: /zettel/202102081919_invertibilityInjectivitySurjectivity
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

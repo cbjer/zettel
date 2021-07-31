@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Linearly Independent Generalized Eigenvectors
 permalink: /zettel/202102221253_linearlyIndependentGeneralizedEigenvectors
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

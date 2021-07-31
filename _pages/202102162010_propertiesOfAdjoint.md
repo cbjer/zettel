@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Basic Properties of the Adjoint
 permalink: /zettel/202102162010_propertiesOfAdjoint
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

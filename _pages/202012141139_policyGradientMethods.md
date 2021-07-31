@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Policy Gradient Methods
 permalink: /zettel/202012141139_policyGradientMethods
-layout: default
+layout: page
 ---
 tags: #control #direct
 
@@ -14,7 +14,7 @@ a [policy](202011242107_rlPolicy), rather than determining the policy through a
 We will usually have a differentiable, parameterised policy function $\pi(a|s, \boldsymbol{\theta})$, 
 where the policy parameter vector $\boldsymbol{\theta}$ is what we are looking to optimise. 
 
-This optimisation is achieved through [gradient ascent](TODO) in the policy parameter space, with 
+This optimisation is achieved through [gradient ascent](TODOs) in the policy parameter space, with 
 $J(\boldsymbol{\theta})$ representing some performance measure we are looking to maximise. 
 
 $$

@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Variance Definition
 permalink: /zettel/202012241415_varianceDefinition
-layout: default
+layout: page
 ---
 tags: #definition
 

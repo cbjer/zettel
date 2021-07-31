@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Mental Multiplication with Bases Trick
 permalink: /zettel/202101241550_mentalMultiplicationUsingBases
-layout: default
+layout: page
 ---
 tags: #mental #maths #interview
 

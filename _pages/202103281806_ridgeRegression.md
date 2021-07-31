@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Ridge Regression
 permalink: /zettel/202103281806_ridgeRegression
-layout: default
+layout: page
 ---
 tags: #
 

@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Singular Values without taking Square Root of Operator
 permalink: /zettel/202102211507_singularValuesWithoutSquareRoot
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

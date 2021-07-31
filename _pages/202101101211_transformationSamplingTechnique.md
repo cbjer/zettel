@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Transformation Sampling Technique
 permalink: /zettel/202101101211_transformationSamplingTechnique
-layout: default
+layout: page
 ---
 tags: #sampling
 

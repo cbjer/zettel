@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Law of Total Expectation
 permalink: /zettel/202103141349_lawTotalExpectation
-layout: default
+layout: page
 ---
 tags: #conditional
 

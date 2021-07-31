@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Upper Triangular Matrix
 permalink: /zettel/202102131604_upperTriangularMatrix
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

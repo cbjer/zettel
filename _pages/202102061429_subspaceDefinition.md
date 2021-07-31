@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Subspace Definition
 permalink: /zettel/202102061429_subspaceDefinition
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Nilpotent Operator Raised to Power Dimension Space
 permalink: /zettel/202102221300_nilpotentOperatorRaisedPowerDimension
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

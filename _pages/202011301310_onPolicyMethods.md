@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: On-Policy Methods
 permalink: /zettel/202011301310_onPolicyMethods
-layout: default
+layout: page
 ---
 tags: #control
 

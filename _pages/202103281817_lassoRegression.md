@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Lasso Regression
 permalink: /zettel/202103281817_lassoRegression
-layout: default
+layout: page
 ---
 tags: #model
 

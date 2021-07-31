@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Eligibility Traces
 permalink: /zettel/202012061733_eligibilityTraces
-layout: default
+layout: page
 ---
 tags: #assignment #credit #lambda
 

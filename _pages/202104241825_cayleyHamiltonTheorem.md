@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Cayley-Hamilton Theorem
 permalink: /zettel/202104241825_cayleyHamiltonTheorem
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

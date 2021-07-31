@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Elastic Net Model
 permalink: /zettel/202103281827_elasticNetModel
-layout: default
+layout: page
 ---
 tags: #model
 

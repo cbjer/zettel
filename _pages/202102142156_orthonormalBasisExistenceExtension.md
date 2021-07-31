@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Orthonormal Basis Existence and Extension
 permalink: /zettel/202102142156_orthonormalBasisExistenceExtension
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

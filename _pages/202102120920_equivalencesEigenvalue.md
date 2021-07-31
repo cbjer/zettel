@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Equivalences for Eigenvalue
 permalink: /zettel/202102120920_equivalencesEigenvalue
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

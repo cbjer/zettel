@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: $T v$ Orthogonal to $v$
 permalink: /zettel/202102162149_tvOrthogonalv
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

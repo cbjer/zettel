@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Decision-time Planning
 permalink: /zettel/202012022346_decisionTimePlanning
-layout: default
+layout: page
 ---
 tags: #search #planning
 
@@ -16,7 +16,7 @@ pairs, instead it focuses on the selection of the subsequent action in the state
 Planning of this type is used in Chess for example, where we explore many trajectories ahead 
 before selecting the next action.
 
-Examples of these are [heuristic search](TODO), [rollout algorithms](202012031744_rolloutAlgorithm) and
+Examples of these are [heuristic search](TODOs), [rollout algorithms](202012031744_rolloutAlgorithm) and
 [Monte Carlo Tree Search](202012032005_monteCarloTreeSearch).
 
 Links: []

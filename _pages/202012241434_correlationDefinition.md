@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Correlation Definition
 permalink: /zettel/202012241434_correlationDefinition
-layout: default
+layout: page
 ---
 tags: #definition #probability
 

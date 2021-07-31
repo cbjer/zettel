@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Sorting Algorithms
 permalink: /zettel/202102281308_sortingAlgorithms
-layout: default
+layout: page
 ---
 tags: #
 

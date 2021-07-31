@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Description of Isometries when $\mathbf{F} = \mathbf{R}$
 permalink: /zettel/202104292026_descriptionIsometriesRealField
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

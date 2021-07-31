@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Bellman Equation for State-Action Values
 permalink: /zettel/202011242151_bellmanStateAction
-layout: default
+layout: page
 ---
 tags: #bellman #onestep \
 

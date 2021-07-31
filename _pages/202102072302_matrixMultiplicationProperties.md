@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Matrix Multiplication Properties
 permalink: /zettel/202102072302_matrixMultiplicationProperties
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

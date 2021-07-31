@@ -1,14 +1,14 @@
 ---
-title: Zettels
+title: n-step Tree Backup
 permalink: /zettel/202012012205_nstepTreeBackup
-layout: default
+layout: page
 ---
 tags: #expectation #algorithm
 
 # n-step Tree Backup
 
 The n-step Tree Backup algorithm is an [off-policy](202011301312_offPolicyMethods) method 
-used for [control](TODO), thus estimating the optimal [state-action value function](202011221903_actionValueFunction).
+used for [control](TODOs), thus estimating the optimal [state-action value function](202011221903_actionValueFunction).
 
 Whereas, in [expected Sarsa](202011302147_expectedSarsa) we use an expaction 
 step only at the final state-action choice, in n-step Tree Backup, we in some sense 

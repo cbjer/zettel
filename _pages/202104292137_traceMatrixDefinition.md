@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Trace of a Matrix Definition
 permalink: /zettel/202104292137_traceMatrixDefinition
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

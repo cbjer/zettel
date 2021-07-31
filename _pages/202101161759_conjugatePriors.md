@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Conjugate Priors
 permalink: /zettel/202101161759_conjugatePriors
-layout: default
+layout: page
 ---
 tags: #bayesian
 

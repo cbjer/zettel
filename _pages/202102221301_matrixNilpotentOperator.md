@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Matrix of a Nilpotent Operator
 permalink: /zettel/202102221301_matrixNilpotentOperator
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

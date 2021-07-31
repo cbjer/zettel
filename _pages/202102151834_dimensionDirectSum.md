@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Dimension of a Direct Sum
 permalink: /zettel/202102151834_dimensionDirectSum
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

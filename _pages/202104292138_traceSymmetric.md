@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Trace is Symmetric
 permalink: /zettel/202104292138_traceSymmetric
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

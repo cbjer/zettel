@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Polynomial Multiple Definition
 permalink: /zettel/202104241915_polynomialMultipleDefinition
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

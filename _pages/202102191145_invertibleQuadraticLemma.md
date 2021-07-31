@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Invertible Quadratic Lemma
 permalink: /zettel/202102191145_invertibleQuadraticLemma
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

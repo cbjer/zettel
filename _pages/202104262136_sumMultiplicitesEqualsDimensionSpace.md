@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Sum of Multiplicites Equals Dimension of V
 permalink: /zettel/202104262136_sumMultiplicitesEqualsDimensionSpace
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

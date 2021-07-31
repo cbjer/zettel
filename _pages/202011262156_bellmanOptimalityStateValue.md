@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Bellman Optimality Equation For State Values
 permalink: /zettel/202011262156_bellmanOptimalityStateValue
-layout: default
+layout: page
 ---
 tags: #optimality #onestep
 

@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Policy Iteration
 permalink: /zettel/202011292319_policyIteration
-layout: default
+layout: page
 ---
 tags: #iterative #improvement #algorithm
 

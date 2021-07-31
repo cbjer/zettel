@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Zettelkasten Repository
 permalink: /zettel/README
-layout: default
+layout: page
 ---
 # Zettelkasten Repository
 

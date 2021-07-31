@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Description of an Operator on a Complex Vector Space into Generalised Eigenspaces
 permalink: /zettel/202104241507_descriptionOperatorComplexSpaceGeneralisedEigenspace
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

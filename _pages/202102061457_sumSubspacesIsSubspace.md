@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Sum of Subspaces is a Subspace
 permalink: /zettel/202102061457_sumSubspacesIsSubspace
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

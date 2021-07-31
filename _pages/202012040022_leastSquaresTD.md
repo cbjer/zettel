@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Least Squares TD
 permalink: /zettel/202012040022_leastSquaresTD
-layout: default
+layout: page
 ---
 tags: #inverse #dataefficiency
 

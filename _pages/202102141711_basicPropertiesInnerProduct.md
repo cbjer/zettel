@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Basic Properties of an Inner Product
 permalink: /zettel/202102141711_basicPropertiesInnerProduct
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

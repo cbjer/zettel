@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Orthogonal Complement
 permalink: /zettel/202102151112_orthogonalComplementDefinition
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

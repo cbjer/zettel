@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Bias-Variance Tradeoff Derivation
 permalink: /zettel/202103281546_biasVarianceTradeoffDerivation
-layout: default
+layout: page
 ---
 tags: #
 

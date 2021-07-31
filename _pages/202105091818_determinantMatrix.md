@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Determinant of a Matrix
 permalink: /zettel/202105091818_determinantMatrix
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

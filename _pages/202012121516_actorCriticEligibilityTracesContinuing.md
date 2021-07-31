@@ -1,13 +1,13 @@
 ---
-title: Zettels
+title: Actor-Critic with Eligibility Traces (Continuing)
 permalink: /zettel/202012121516_actorCriticEligibilityTracesContinuing
-layout: default
+layout: page
 ---
 tags: #gradient
 
 # Actor-Critic with Eligibility Traces (Continuing)
 
-Here we use the definition of performance of [average rate of reward per timestep](TODO).
+Here we use the definition of performance of [average rate of reward per timestep](TODOs).
 
 <figure>
   <img src="/zettel/Images/ReinforcementLearning/ActorCriticEligibilityTracesContinueingPi.png"

@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Eigenvalues are the Zero's of the Minimal Polynomial
 permalink: /zettel/202104241920_eigenvaluesZerosMinimalPolynomial
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

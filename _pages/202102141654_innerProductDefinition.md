@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Inner Product Definition
 permalink: /zettel/202102141654_innerProductDefinition
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

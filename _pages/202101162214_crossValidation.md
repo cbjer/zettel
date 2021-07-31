@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Cross-Validation
 permalink: /zettel/202101162214_crossValidation
-layout: default
+layout: page
 ---
 tags: #overfitting #error #estimation 
 
@@ -16,7 +16,7 @@ of the data used to tune the hyperparameters of the model. The method proceeds a
 - Calculate a validation error on the fold $R_t$
 - Our Cross-validation score is then average of our validation errors on each fold $\frac{1}{T} \sum_{t=1}^T R_t$. This is an estimate for the true test error.
 
-By applying a [grid-search](TODO) and running cross-validation multiple times, we can select the hyperparameters with the highest cross-validation score. 
+By applying a [grid-search](TODOs) and running cross-validation multiple times, we can select the hyperparameters with the highest cross-validation score. 
 Once selected, we will then train the model on the entire training set. Then we apply on test set to estimate generalisation performance.
 
 

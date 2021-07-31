@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Finite Dimensional Vector Space
 permalink: /zettel/202102062028_finiteDimensionalVectorSpace
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

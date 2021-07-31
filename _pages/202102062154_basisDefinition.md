@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Basis Definition
 permalink: /zettel/202102062154_basisDefinition
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

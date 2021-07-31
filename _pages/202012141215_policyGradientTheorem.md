@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Policy Gradient Theorem
 permalink: /zettel/202012141215_policyGradientTheorem
-layout: default
+layout: page
 ---
 tags: #gradient
 

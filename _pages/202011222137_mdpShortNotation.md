@@ -1,13 +1,13 @@
 ---
-title: Zettels
+title: Markov Decision Process Short-hand notation
 permalink: /zettel/202011222137pShortNotation
-layout: default
+layout: page
 ---
 tags: p #markov #bellman \
 
 # Markov Decision Process Short-hand notation
 
-We occasionally use the following short hand notation, especially in the derivation of the [bellman equations](TODO).
+We occasionally use the following short hand notation, especially in the derivation of the [bellman equations](202011222150_bellmanEquationStateValues).
 
 $$
 \begin{aligned}
@@ -17,7 +17,7 @@ R_{s}^{a} &:= \mathbf{E} [ R_{t+1} | S_t = s, A_t = a ]
 \end{aligned}
 $$
 
-Links: [Bellman equation for state-values](202011222150_bellmanEquationStateValues), [Bellman equation for state-action values](TODO)
+Links: [Bellman equation for state-values](202011222150_bellmanEquationStateValues), [Bellman equation for state-action values](TODOs)
 
 References: Introduction to Reinforcement Learning - Sutton and Barto
 

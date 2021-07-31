@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Complexification of $V$ is a complex vector space
 permalink: /zettel/202104251528_complexificationVComplexVectorSpace
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

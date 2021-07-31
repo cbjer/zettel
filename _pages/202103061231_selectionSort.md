@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Selection Sort Algorithm
 permalink: /zettel/202103061231_selectionSort
-layout: default
+layout: page
 ---
 tags: #
 

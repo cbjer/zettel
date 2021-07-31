@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Trace of an Operator
 permalink: /zettel/202104292131_traceOperatorDefinition
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

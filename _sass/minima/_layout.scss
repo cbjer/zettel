@@ -28,6 +28,27 @@
   }
 }
 
+.post-nav {
+    display: flex;
+    border-top: 1px solid $border-color-01;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.post-nav p {
+    flex: 1 1 0;
+    width: 45%;
+}
+
+.post-nav p:first-child {
+    padding-right: 0.5em;
+}
+
+.post-nav p:last-child {
+    padding-left: 0.5em;
+    text-align: right;
+}
+
 .site-nav {
   position: absolute;
   top: 9px;

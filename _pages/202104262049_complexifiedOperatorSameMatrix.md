@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Complexified Operator has Same Matrix
 permalink: /zettel/202104262049_complexifiedOperatorSameMatrix
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

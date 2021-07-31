@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Sigmoid Function
 permalink: /zettel/202011221535_sigmoidFunction
-layout: default
+layout: page
 ---
 tags: #activationfunctions #logisticregression \
 

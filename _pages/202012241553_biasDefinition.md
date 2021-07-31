@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Bias Definition
 permalink: /zettel/202012241553_biasDefinition
-layout: default
+layout: page
 ---
 tags: #definition #statistics
 

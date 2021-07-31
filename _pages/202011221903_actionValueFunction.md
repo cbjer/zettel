@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: State-Action Value Function
 permalink: /zettel/202011221903_actionValueFunction
-layout: default
+layout: page
 ---
 tags: #reinforcementLearning #statevalue \
 

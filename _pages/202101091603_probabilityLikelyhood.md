@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Likelihood
 permalink: /zettel/202101091603_probabilityLikelyhood
-layout: default
+layout: page
 ---
 tags: #definition #statistics
 

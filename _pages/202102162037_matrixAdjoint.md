@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Matrix of the Adjoint
 permalink: /zettel/202102162037_matrixAdjoint
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

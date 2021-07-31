@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Conditions Equivalent to Diagonalizability
 permalink: /zettel/202102141040_conditionsDiagonalizablity
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

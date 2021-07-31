@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Generalized Eigenspace Definition
 permalink: /zettel/202102221242_generalizedEigenspaceDefinition
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

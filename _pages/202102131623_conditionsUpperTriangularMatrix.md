@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Conditions for Upper-Triangular Matrix
 permalink: /zettel/202102131623_conditionsUpperTriangularMatrix
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

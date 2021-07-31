@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Conditional Density Definition
 permalink: /zettel/202012241424_conditionalDensity
-layout: default
+layout: page
 ---
 tags: #definition
 

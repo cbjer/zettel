@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Gradient Descent for Linear Regression Derivation
 permalink: /zettel/202102012111_linearRegressionGradientDescentDerivation
-layout: default
+layout: page
 ---
 tags: #derivation
 

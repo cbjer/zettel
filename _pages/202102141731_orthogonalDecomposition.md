@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Orthogonal Decomposition
 permalink: /zettel/202102141731_orthogonalDecomposition
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

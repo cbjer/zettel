@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Linearly Dependent Definition
 permalink: /zettel/202102062038_linearlyDependentDefinition
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

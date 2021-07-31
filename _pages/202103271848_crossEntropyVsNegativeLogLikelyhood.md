@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Cross Entropy vs Negative Log-likelyhood
 permalink: /zettel/202103271848_crossEntropyVsNegativeLogLikelyhood
-layout: default
+layout: page
 ---
 tags: #loss
 

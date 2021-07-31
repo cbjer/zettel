@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Eigenvalues of Self-Adjoint Operator
 permalink: /zettel/202102162043_eigenvaluesSelfAdjointOperater
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

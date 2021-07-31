@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Conditional Expectation Solution to Squared Error Loss
 permalink: /zettel/202103271143_conditionalExpectationSolutionSquaredError
-layout: default
+layout: page
 ---
 tags: #decision #theory
 

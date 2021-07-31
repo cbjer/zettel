@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Eigenspace Definition
 permalink: /zettel/202102141026_eigenspaceDefinition
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

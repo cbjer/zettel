@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: NonReal Eigenvalues of $T_C$ come in Pairs
 permalink: /zettel/202104262120_nonRealEigenvaluesComplexifiedOperatorPairs
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

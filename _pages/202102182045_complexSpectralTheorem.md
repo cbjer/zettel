@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Complex Spectral Theorem
 permalink: /zettel/202102182045_complexSpectralTheorem
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

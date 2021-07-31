@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Complexified Operator has same Minimal Polynomial
 permalink: /zettel/202104262109_complexifiedOperatorSameMinimalPolynomial
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Off-Policy Methods
 permalink: /zettel/202011301312_offPolicyMethods
-layout: default
+layout: page
 ---
 tags: #control #decisions
 

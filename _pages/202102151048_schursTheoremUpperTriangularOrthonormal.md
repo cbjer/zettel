@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Schur's Theorem and Upper Triangular Matrix with Orthonormal Basis
 permalink: /zettel/202102151048_schursTheoremUpperTriangularOrthonormal
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

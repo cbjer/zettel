@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Probability Partition
 permalink: /zettel/202012221506_probabilityPartition
-layout: default
+layout: page
 ---
 tags: #events #conditional #conditioning
 

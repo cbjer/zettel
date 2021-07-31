@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Predictive Distribution
 permalink: /zettel/202101161857_predictiveDistribution
-layout: default
+layout: page
 ---
 tags: #bayesian #updating
 

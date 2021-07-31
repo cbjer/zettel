@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Equivalences of Positive Operators
 permalink: /zettel/202102201218_equivalencesPositiveOperator
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

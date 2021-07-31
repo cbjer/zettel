@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Vector Calculus Results
 permalink: /zettel/202101161942_vectorCalculusResults
-layout: default
+layout: page
 ---
 tags: #differentiation #vectors
 

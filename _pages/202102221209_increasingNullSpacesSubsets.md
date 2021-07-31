@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Increasing Null Spaces Subsets
 permalink: /zettel/202102221209_increasingNullSpacesSubsets
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

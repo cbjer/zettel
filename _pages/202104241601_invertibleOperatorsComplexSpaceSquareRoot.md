@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Invertible Operators on a Complex Space have a Square Root
 permalink: /zettel/202104241601_invertibleOperatorsComplexSpaceSquareRoot
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

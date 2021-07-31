@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Machine Learning Vector Summation Identities
 permalink: /zettel/202102012027_mlVectorSummationIdentities
-layout: default
+layout: page
 ---
 tags: #identity #matrix #sum
 

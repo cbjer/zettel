@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Spanning List of length Dim V is Basis
 permalink: /zettel/202102062308_spanningLengthBasis
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

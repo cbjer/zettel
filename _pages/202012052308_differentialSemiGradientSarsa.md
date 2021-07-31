@@ -1,13 +1,13 @@
 ---
-title: Zettels
+title: Differential semi-gradient Sarsa
 permalink: /zettel/202012052308_differentialSemiGradientSarsa
-layout: default
+layout: page
 ---
 tags: #averagereturn #control
 
 # Differential semi-gradient Sarsa
 
-Using the [average return formulation](TODO)
+Using the [average return formulation](TODOs)
 
 <figure>
   <img src="/zettel/Images/ReinforcementLearning/DifferentialSemiGradientSarsaQ.png"

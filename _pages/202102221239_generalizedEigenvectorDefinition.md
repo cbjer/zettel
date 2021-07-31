@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Generalized Eigenvector Definition
 permalink: /zettel/202102221239_generalizedEigenvectorDefinition
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

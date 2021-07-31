@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Orthogonal Definition
 permalink: /zettel/202102141725_orthogonalDefinition
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

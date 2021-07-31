@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Normal Operator Definition
 permalink: /zettel/202102162200_normalOperatorDefinition
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

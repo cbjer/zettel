@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Double Deep Q-Learning
 permalink: /zettel/202012202147_doubleDeepQLearning
-layout: default
+layout: page
 ---
 tags: #maximisation #implementation
 

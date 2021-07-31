@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Implementing Deep Q-Learning
 permalink: /zettel/202012202112_implementingDeepQLearning
-layout: default
+layout: page
 ---
 tags: #control #mnih
 

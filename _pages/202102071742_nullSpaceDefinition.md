@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Null Space Definition
 permalink: /zettel/202102071742_nullSpaceDefinition
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

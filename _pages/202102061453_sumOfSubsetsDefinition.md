@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Sum of Subsets Definition
 permalink: /zettel/202102061453_sumOfSubsetsDefinition
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

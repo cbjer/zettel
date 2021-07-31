@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Linear Regression Model
 permalink: /zettel/202103141139_linearRegressionModel
-layout: default
+layout: page
 ---
 tags: #machine #learning
 

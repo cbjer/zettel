@@ -1,14 +1,14 @@
 ---
-title: Zettels
+title: On-Policy First Visit Monte Carlo Control
 permalink: /zettel/202011301316_onPolicyFirstVisitMCControl
-layout: default
+layout: page
 ---
 tags: #control #exploration #epsilon
 
 # On-Policy First Visit Monte Carlo Control
 
 Very similiar to previous sampling based methods, except here we have added 
-a [epsilon greedy policy](202011301251_epsilonGreedyPolicy) to maintain [exploration](TODO).
+a [epsilon greedy policy](202011301251_epsilonGreedyPolicy) to maintain [exploration](TODOs).
 
 <figure>
   <img src="/zettel/Images/ReinforcementLearning/OnPolicyFirstVisitMC.png"

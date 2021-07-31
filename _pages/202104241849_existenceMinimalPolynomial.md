@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Existence Minimal Polynomial
 permalink: /zettel/202104241849_existenceMinimalPolynomial
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

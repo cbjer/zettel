@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Cauchy-Schwarz Inequality
 permalink: /zettel/202102141737_cauchySchwarzInequality
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

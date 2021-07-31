@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Linear Combination Definition
 permalink: /zettel/202102062020_linearCombinationDefinition
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

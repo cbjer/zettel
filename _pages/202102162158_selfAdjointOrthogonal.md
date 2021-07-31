@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Self-Adjoint and Orthogonal
 permalink: /zettel/202102162158_selfAdjointOrthogonal
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

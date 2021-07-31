@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Expected Sarsa
 permalink: /zettel/202011302147_expectedSarsa
-layout: default
+layout: page
 ---
 tags: #smoothening #update #expectation
 

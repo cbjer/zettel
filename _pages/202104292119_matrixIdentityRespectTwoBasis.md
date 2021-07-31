@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Matrix of the Identity with respect to two Basis
 permalink: /zettel/202104292119_matrixIdentityRespectTwoBasis
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

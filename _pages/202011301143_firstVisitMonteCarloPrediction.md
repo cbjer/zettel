@@ -1,14 +1,14 @@
 ---
-title: Zettels
+title: First Visit Monte Carlo Prediction
 permalink: /zettel/202011301143_firstVisitMonteCarloPrediction
-layout: default
+layout: page
 ---
 tags: #sampling #evaluation #episodic #algorithm
 
 # First Visit Monte Carlo Prediction
 
 Monte Carlo Prediction is a technique used to estimate the [value function](202011221845_valueFunctions) 
-for a given [policy](202011242107_rlPolicy) via [sampling](TODO) techniques. 
+for a given [policy](202011242107_rlPolicy) via [sampling](TODOs) techniques. 
 
 <figure>
   <img src="/zettel/Images/ReinforcementLearning/FirstVisitMCPrediction.png"
@@ -27,9 +27,9 @@ the average of our sampled returns which started in that state.
 A very simple tweak, removing the need for it to be the first-visit, gets us the **every-visit variation**, with 
 both variations converging to $V_{\pi}(s)$.
 
-To see convergence, note each return is an [i.i.d](202012241510_sampleDefinition) estimate of $V_{\pi}(s)$ with finite [variance](TODO). 
-Then by the [law of large numbers](TODO), the sequence of these estimates converges to its expected value. Each 
-average is an [unbiased estimate](TODO) and the [standard deviation](TODO) of its error falls as $\frac{1}{\sqrt{n}}$.
+To see convergence, note each return is an [i.i.d](202012241510_sampleDefinition) estimate of $V_{\pi}(s)$ with finite [variance](TODOs). 
+Then by the [law of large numbers](TODOs), the sequence of these estimates converges to its expected value. Each 
+average is an [unbiased estimate](TODOs) and the [standard deviation](TODOs) of its error falls as $\frac{1}{\sqrt{n}}$.
 
 Links: []
 

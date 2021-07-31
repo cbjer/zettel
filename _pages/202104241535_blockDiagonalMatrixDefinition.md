@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Block Diagonal Matrix Definition
 permalink: /zettel/202104241535_blockDiagonalMatrixDefinition
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

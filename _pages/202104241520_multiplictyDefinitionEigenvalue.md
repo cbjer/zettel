@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Multiplicity Definition of an Eigenvalue
 permalink: /zettel/202104241520_multiplictyDefinitionEigenvalue
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

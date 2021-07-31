@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Matrix Multiplication and Linear Maps
 permalink: /zettel/202102082057_matrixMultiplicationLinearMaps
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

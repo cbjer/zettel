@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Characteristic Polynomial for Complexified Operator
 permalink: /zettel/202104262154_characteristicPolynomialComplexifiedOperator
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

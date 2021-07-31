@@ -1,13 +1,13 @@
 ---
-title: Zettels
+title: Optimal Value Function
 permalink: /zettel/202011262033_optimalValueFunctions
-layout: default
+layout: page
 ---
 tags: #optimality #definition 
 
 # Optimal Value Function
 
-For a [Markov Decision Process](TODO), the **optimal state value function** 
+For a [Markov Decision Process](TODOs), the **optimal state value function** 
 is defined as value function which achieves the maximum expected return starting in all states. 
 $$
 V_{*} (s) := \max_{\pi} V_{\pi}(s)

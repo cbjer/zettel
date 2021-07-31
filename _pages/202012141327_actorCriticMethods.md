@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Actor-Critic Methods
 permalink: /zettel/202012141327_actorCriticMethods
-layout: default
+layout: page
 ---
 tags: #control #simultaneous
 

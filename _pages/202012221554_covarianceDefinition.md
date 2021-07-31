@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Covariance Definition
 permalink: /zettel/202012221554_covarianceDefinition
-layout: default
+layout: page
 ---
 tags: #definition
 

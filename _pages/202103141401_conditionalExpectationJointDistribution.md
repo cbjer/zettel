@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Conditional Expectation Expression for a Joint Distribution
 permalink: /zettel/202103141401_conditionalExpectationJointDistribution
-layout: default
+layout: page
 ---
 tags: #
 

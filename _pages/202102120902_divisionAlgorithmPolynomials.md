@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Division Algorithm for Polynomials
 permalink: /zettel/202102120902_divisionAlgorithmPolynomials
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

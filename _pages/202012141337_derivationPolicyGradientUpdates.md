@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Derivation of Policy Gradient Updates
 permalink: /zettel/202012141337_derivationPolicyGradientUpdates
-layout: default
+layout: page
 ---
 tags: #update #expectation
 

@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Dimension of the Orthogonal Complement
 permalink: /zettel/202102151825_dimensionOrthogonalComplement
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

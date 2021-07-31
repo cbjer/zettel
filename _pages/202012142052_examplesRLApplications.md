@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Examples of RL Applications
 permalink: /zettel/202012142052_examplesRLApplications
-layout: default
+layout: page
 ---
 tags: #alpha #strategy #games
 
@@ -9,7 +9,7 @@ tags: #alpha #strategy #games
 
 **TD Gammon**
 
-Used [TD($\lambda$)](202012061731_tdLambda) and [Artificial Neural Networks](TODO) to create 
+Used [TD($\lambda$)](202012061731_tdLambda) and [Artificial Neural Networks](TODOs) to create 
 strong Backgammon agent.
 
 **Samuel's Checkers Player**

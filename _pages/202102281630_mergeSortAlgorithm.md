@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Merge Sort Algorithm
 permalink: /zettel/202102281630_mergeSortAlgorithm
-layout: default
+layout: page
 ---
 tags: #
 

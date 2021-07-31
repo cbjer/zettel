@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Nilpotent Operator Definition
 permalink: /zettel/202102221258_nilpotentOperatorDefinition
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Characteristic Polynomial, Trace and Determinant
 permalink: /zettel/202105091743_characteristicPolynomialTraceDeterminant
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

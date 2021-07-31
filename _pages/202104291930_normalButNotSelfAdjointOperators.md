@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Normal but not Self-Adjoint Operators
 permalink: /zettel/202104291930_normalButNotSelfAdjointOperators
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

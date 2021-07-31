@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Gauss-Markov Theorem for Linear Estimators
 permalink: /zettel/202103281726_gaussMarkovTheoremLinearEstimators
-layout: default
+layout: page
 ---
 tags: #unbiased
 

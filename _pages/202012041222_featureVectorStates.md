@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Encoding our state space as feature vectors
 permalink: /zettel/202012041222_featureVectorStates
-layout: default
+layout: page
 ---
 tags: #encoding #basis
 

@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Null Space and the Adjoint
 permalink: /zettel/202102162025_nullspaceRangeAdjoint
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Reducing or Extending to a Basis
 permalink: /zettel/202102062204_reducingExtendingBasis
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Norm Definition
 permalink: /zettel/202102141717_normDefinition
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

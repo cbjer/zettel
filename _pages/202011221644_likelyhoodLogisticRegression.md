@@ -1,13 +1,14 @@
 ---
-title: Zettels
+title: Log-likelihood of a Logistic Regression Model
 permalink: /zettel/202011221644_likelyhoodLogisticRegression
-layout: default
+layout: page
 ---
 tags: #logisticregression #likelyhood \
 
 # Log-likelihood of a Logistic Regression Model
 
-For a given [logistic regression](202011221613_logisticRegression) model, assume have data entries $\{ \mathbf{x}_i, y_i \}^{N}_{i = 1}$ where
+For a given [logistic regression](202011221613_logisticRegression) model, assume have data entries 
+$[ \mathbf{x}_i, y_i ]^{N}_{i = 1}$ where
 each $y_i$ is either $1$ or $0$.
 
 Taking $f$ as our logistic regression model, we can express this in a probabilistic framework as:

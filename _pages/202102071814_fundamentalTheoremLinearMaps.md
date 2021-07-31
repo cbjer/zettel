@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Fundamental Theorem of Linear Maps
 permalink: /zettel/202102071814_fundamentalTheoremLinearMaps
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

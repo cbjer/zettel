@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Logistic Regression Gradient Descent Step Derivation
 permalink: /zettel/202103282246_logisticRegressionGradientDescentStepDerivation
-layout: default
+layout: page
 ---
 tags: #derivation
 

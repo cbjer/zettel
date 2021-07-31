@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Matrices with Two Equals Columns Determinant
 permalink: /zettel/202105091828_matricesTwoEqualColumnsDeterminant
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

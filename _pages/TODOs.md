@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: TODOs currently in Docs
 permalink: /zettel/TODOs
-layout: default
+layout: page
 ---
 # TODOs currently in Docs
 

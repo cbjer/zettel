@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Off-Policy Monte Carlo Control
 permalink: /zettel/202011301638_offPolicyMCControl
-layout: default
+layout: page
 ---
 tags: #algorithm #importance #target
 

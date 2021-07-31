@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Every Operator has an Invariant Subspace of Dimension One or Two
 permalink: /zettel/202104262055_everyOperatorInvariantSubspaceOneTwo
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

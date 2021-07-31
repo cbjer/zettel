@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Identity plus Nilpotent has a Square Root
 permalink: /zettel/202104241559_identityPlusNilpotentSquareRoot
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

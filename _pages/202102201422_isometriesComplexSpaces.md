@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Isometries for Complex Spaces
 permalink: /zettel/202102201422_isometriesComplexSpaces
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Direct Sum Intersection Condition
 permalink: /zettel/202102061544_directSumIntersectionCondition
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

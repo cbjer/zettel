@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Surjective Definition
 permalink: /zettel/202102071809_surjectiveDefinition
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

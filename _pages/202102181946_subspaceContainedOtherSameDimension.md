@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Subspace Contained Within Another with Same Dimension
 permalink: /zettel/202102181946_subspaceContainedOtherSameDimension
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

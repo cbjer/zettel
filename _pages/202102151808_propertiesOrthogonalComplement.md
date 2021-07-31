@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Basic Properties of the Orthogonal Complement
 permalink: /zettel/202102151808_propertiesOrthogonalComplement
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

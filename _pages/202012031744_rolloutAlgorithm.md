@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Rollout Algorithms
 permalink: /zettel/202012031744_rolloutAlgorithm
-layout: default
+layout: page
 ---
 tags: #search #control #mc
 

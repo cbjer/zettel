@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Permuting Columns in a Matrix Determinant
 permalink: /zettel/202105091831_permutingColumnsDeterminant
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

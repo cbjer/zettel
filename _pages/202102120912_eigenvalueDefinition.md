@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Eigenvalue Definition
 permalink: /zettel/202102120912_eigenvalueDefinition
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

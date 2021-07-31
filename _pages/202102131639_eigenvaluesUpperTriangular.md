@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Eigenvalues of an Upper Triangular Matrix
 permalink: /zettel/202102131639_eigenvaluesUpperTriangular
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Interchanging Two Entries in a Permutation
 permalink: /zettel/202105091816_interchangingTwoEntriesPermutation
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

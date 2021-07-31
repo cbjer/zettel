@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Invertability of Upper Triangular Matrix 
 permalink: /zettel/202102131636_invertabilityUpperTriangular
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

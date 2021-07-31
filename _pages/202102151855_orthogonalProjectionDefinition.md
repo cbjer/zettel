@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Orthogonal Projection Definition
 permalink: /zettel/202102151855_orthogonalProjectionDefinition
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

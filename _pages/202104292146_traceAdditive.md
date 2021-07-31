@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Trace is Additive
 permalink: /zettel/202104292146_traceAdditive
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

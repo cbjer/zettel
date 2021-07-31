@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Basic Properties of the Norm
 permalink: /zettel/202102141723_basicPropertiesNorm
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

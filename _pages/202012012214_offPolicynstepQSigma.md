@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Off-policy n-step Q($\sigma$)
 permalink: /zettel/202012012214_offPolicynstepQSigma
-layout: default
+layout: page
 ---
 tags: #algorithm #advanced #[]
 

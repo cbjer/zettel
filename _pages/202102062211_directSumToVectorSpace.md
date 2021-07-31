@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Every Subspace Has a Direct Sum Forming V
 permalink: /zettel/202102062211_directSumToVectorSpace
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

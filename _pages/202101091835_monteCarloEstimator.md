@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Monte Carlo Estimator
 permalink: /zettel/202101091835_monteCarloEstimator
-layout: default
+layout: page
 ---
 tags: #definition #sampling
 

@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Operator Definition
 permalink: /zettel/202102082104_operatorDefinition
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

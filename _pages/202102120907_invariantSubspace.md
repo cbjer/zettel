@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Invariant Subspace
 permalink: /zettel/202102120907_invariantSubspace
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

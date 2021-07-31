@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Complexification of an Operator
 permalink: /zettel/202104251532_complexificationOperator
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

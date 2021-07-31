@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Recursive relation for returns
 permalink: /zettel/202011222109_recursiveReturns
-layout: default
+layout: page
 ---
 tags: #reinforcementlearning #rewards #returns \
 

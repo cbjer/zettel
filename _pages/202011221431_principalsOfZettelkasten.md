@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Principals of Zettelkasten
 permalink: /zettel/202011221431_principalsOfZettelkasten
-layout: default
+layout: page
 ---
 tags: #notetaking #memory #cognition\
 

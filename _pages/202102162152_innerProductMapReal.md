@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Inner Product Real for Self Adjoing Operators
 permalink: /zettel/202102162152_innerProductMapReal
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

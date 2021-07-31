@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Linearly Independent List of right Length is Basis
 permalink: /zettel/202102062306_linearlyIndependentLengthBasis
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

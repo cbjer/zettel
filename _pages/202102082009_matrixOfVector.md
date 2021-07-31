@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Matrix of a Vector Definition
 permalink: /zettel/202102082009_matrixOfVector
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

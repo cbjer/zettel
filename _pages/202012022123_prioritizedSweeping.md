@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Prioritized Sweeping
 permalink: /zettel/202012022123_prioritizedSweeping
-layout: default
+layout: page
 ---
 tags: #focus #update
 

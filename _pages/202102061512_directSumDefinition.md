@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Direct Sum Definition
 permalink: /zettel/202102061512_directSumDefinition
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

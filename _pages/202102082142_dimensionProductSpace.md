@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Dimension of a Product Space
 permalink: /zettel/202102082142_dimensionProductSpace
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

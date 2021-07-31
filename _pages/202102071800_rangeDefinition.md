@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Range Definition
 permalink: /zettel/202102071800_rangeDefinition
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

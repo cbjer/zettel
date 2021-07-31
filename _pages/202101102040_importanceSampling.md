@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Importance Sampling
 permalink: /zettel/202101102040_importanceSampling
-layout: default
+layout: page
 ---
 tags: #sampling
 

@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Inversion Method Sampling
 permalink: /zettel/202101091857_inversionMethodSampling
-layout: default
+layout: page
 ---
 tags: #sampling #pmf
 

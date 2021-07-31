@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Parallelogram Equality
 permalink: /zettel/202102141750_parallelogramEquality
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

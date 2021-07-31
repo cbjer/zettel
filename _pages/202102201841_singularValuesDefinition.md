@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Singular Values Definition
 permalink: /zettel/202102201841_singularValuesDefinition
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

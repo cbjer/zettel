@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: True Online TD($\lambda$)
 permalink: /zettel/202012061731_trueLambdaTDLambda
-layout: default
+layout: page
 ---
 tags: #algorithm #bootstrapping
 

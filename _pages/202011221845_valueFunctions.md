@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Value Function
 permalink: /zettel/202011221845_valueFunctions
-layout: default
+layout: page
 ---
 tags: #reinforcementlearning #returns \
 

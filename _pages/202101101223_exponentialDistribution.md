@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Exponential Distribution
 permalink: /zettel/202101101223_exponentialDistribution
-layout: default
+layout: page
 ---
 tags: #distributions #pdf
 

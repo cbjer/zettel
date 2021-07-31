@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Characteristic Polynomial Definition
 permalink: /zettel/202104241811_characteristicPolynomialDefinition
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Basis of $V$ is a basis of complexification of $V$
 permalink: /zettel/202104251529_basisVBasisComplexification
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

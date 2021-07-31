@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Conditions for a Subspace
 permalink: /zettel/202102061434_conditionsSubspace
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

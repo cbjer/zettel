@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Determinant Operator Equals Determinant of its Matrix
 permalink: /zettel/202105091856_determinantOperatorEqualsDeterminantMatrix
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

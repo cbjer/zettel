@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Real Eigenvalues of Complexified Operator
 permalink: /zettel/202104262112_realEigenvaluesComplexifiedOperators
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Pythagorean Theorem Linear Algebra
 permalink: /zettel/202102141728_pythagoreanLinearAlgebra
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

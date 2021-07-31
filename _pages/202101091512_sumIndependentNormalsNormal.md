@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Sum of Independent Normals is Normal
 permalink: /zettel/202101091512_sumIndependentNormalsNormal
-layout: default
+layout: page
 ---
 tags: #identity #mgfs
 

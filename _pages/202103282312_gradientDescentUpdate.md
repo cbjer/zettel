@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Gradient Descent Update
 permalink: /zettel/202103282312_gradientDescentUpdate
-layout: default
+layout: page
 ---
 tags: #optimisation
 

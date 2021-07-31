@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: The Matrix of the Product of Linear Maps
 permalink: /zettel/202104292102_matrixProductLinearMaps
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

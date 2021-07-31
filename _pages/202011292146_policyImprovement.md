@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Policy Improvement Theorem
 permalink: /zettel/202011292146_policyImprovement
-layout: default
+layout: page
 ---
 tags: #improvement #telescoping
 

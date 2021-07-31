@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Bayesian Inference
 permalink: /zettel/202101161711_bayesianInference
-layout: default
+layout: page
 ---
 tags: #bayes
 

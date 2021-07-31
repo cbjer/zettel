@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Characteristic Polynomial is a multiple of Minimal Polynomial
 permalink: /zettel/202104241914_characteristicPolynomialMultipleMinimalPolynomial
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

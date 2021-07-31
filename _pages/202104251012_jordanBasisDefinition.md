@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Jordan Basis Definition
 permalink: /zettel/202104251012_jordanBasisDefinition
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

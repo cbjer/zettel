@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Box-Muller Method
 permalink: /zettel/202101101214_boxMullerMethod
-layout: default
+layout: page
 ---
 tags: #normal #sampling
 

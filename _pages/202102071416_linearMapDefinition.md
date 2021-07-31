@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Linear Map Definition
 permalink: /zettel/202102071416_linearMapDefinition
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

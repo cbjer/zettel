@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Central Limit Theorem
 permalink: /zettel/202012241602_centralLimitTheorem
-layout: default
+layout: page
 ---
 tags: #theorem # statistics
 

@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Maximisation Bias
 permalink: /zettel/202011302212_maximisationBias
-layout: default
+layout: page
 ---
 tags: #bias
 

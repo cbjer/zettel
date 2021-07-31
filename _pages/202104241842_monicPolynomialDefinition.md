@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Monic Polynomial Definition
 permalink: /zettel/202104241842_monicPolynomialDefinition
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

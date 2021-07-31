@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Dot Product Definition
 permalink: /zettel/202102141650_dotProductDefinition
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

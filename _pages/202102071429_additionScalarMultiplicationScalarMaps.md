@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Addition and Scalar Multiplication for Linear Maps
 permalink: /zettel/202102071429_additionScalarMultiplicationScalarMaps
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

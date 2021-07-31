@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Quicksort Algorithm
 permalink: /zettel/202103042013_quickSortAlgorithm
-layout: default
+layout: page
 ---
 tags: #
 

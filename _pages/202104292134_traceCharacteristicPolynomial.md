@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Trace and Characteristic Polynomial
 permalink: /zettel/202104292134_traceCharacteristicPolynomial
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

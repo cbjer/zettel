@@ -1,13 +1,13 @@
 ---
-title: Zettels
+title: Episodic Semi-Gradient Sarsa
 permalink: /zettel/202012052205_episodicSemiGradientSarsa
-layout: default
+layout: page
 ---
 tags: #terminal #discounting
 
 # Episodic Semi-Gradient Sarsa
 
-A [control method](TODO) used for episodic tasks with [function approximators](202012052211_rlFunctionApproximators).
+A [control method](TODOs) used for episodic tasks with [function approximators](202012052211_rlFunctionApproximators).
 
 <figure>
   <img src="/zettel/Images/ReinforcementLearning/EpisodicSemiGradientSarsaQ.png"

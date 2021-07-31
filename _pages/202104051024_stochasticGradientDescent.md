@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Stochastic Gradient Descent
 permalink: /zettel/202104051024_stochasticGradientDescent
-layout: default
+layout: page
 ---
 tags: #optimisation
 

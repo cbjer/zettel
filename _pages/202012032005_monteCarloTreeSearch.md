@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Monte Carlo Tree Search
 permalink: /zettel/202012032005_monteCarloTreeSearch
-layout: default
+layout: page
 ---
 tags: #search #games #rollout
 
@@ -15,13 +15,13 @@ We have an estimated value of each state also represented on the tree.
 First step is **selection**, which uses a tree policy to selects one of the leaf nodes in the tree. This 
 tree policy will often be [epsilon-greedy](202011301251_epsilonGreedyPolicy) in that 
 will want to further explore areas of the tree which offer higher expected return but 
-will also occassionally try out new unexplorered areas to balance the [exploration-exploitation tradeoff](TODO).
+will also occassionally try out new unexplorered areas to balance the [exploration-exploitation tradeoff](TODOs).
 
 Next we use **expansion** to add further leaf nodes which involve actions starting at unexplorered leaf 
 nodes. 
 
 Then we **simulate** trajectories starting in these leaf nodes until the terminal state to give us 
-a [Monte Carlo](TODO) estimate of the value of that state-action value. The number of trajectories simulated 
+a [Monte Carlo](TODOs) estimate of the value of that state-action value. The number of trajectories simulated 
 here can be as little as 1.
 
 Once we have this estimate, we **backup** this estimated value up the tree to update 

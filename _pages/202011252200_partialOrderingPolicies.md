@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Partial Ordering of Policies
 permalink: /zettel/202011252200_partialOrderingPolicies
-layout: default
+layout: page
 ---
 tags: #optimal #behaviour
 

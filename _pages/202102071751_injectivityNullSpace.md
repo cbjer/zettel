@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Injectivity and the Null Space
 permalink: /zettel/202102071751_injectivityNullSpace
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Products and Direct Sums
 permalink: /zettel/202102082147_productsDirectSums
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

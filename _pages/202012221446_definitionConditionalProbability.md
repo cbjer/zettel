@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Definition of Conditional Probability
 permalink: /zettel/202012221446_definitionConditionalProbability
-layout: default
+layout: page
 ---
 tags: #bayes
 

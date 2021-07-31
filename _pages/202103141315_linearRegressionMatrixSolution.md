@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Linear Regression Matrix Solution
 permalink: /zettel/202103141315_linearRegressionMatrixSolution
-layout: default
+layout: page
 ---
 tags: #
 

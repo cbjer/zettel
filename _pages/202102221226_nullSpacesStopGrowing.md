@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Null Spaces Stop Growing
 permalink: /zettel/202102221226_nullSpacesStopGrowing
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

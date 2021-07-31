@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Linear Dependence Lemma
 permalink: /zettel/202102062047_linearDependenceLemma
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

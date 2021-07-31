@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Rejection Sampling
 permalink: /zettel/202101101505_rejectionSampling
-layout: default
+layout: page
 ---
 tags: #sampling
 

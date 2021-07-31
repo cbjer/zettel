@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Multiplicity of Eigenvalue Equals Conjugate
 permalink: /zettel/202104262124_multiplicityEigenvalueEqualsConjugate
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

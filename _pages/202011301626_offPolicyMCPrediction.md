@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Off-Policy Monte Carlo Prediction
 permalink: /zettel/202011301626_offPolicyMCPrediction
-layout: default
+layout: page
 ---
 tags: #evaluation #target #importance
 

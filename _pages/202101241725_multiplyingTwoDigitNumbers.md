@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Multiplying Two 2-Digit Numbers Quickly
 permalink: /zettel/202101241725_multiplyingTwoDigitNumbers
-layout: default
+layout: page
 ---
 tags: #mental #maths
 

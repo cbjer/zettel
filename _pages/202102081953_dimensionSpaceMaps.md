@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Dimension of Space of Maps
 permalink: /zettel/202102081953_dimensionSpaceMaps
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: The Norm of an Orthonormal Linear Combination
 permalink: /zettel/202102142057_normOrthonormalLinearCombination
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

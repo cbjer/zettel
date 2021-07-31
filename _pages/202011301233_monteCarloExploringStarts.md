@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Monte Carlo with Exploring Starts
 permalink: /zettel/202011301233_monteCarloExploringStarts
-layout: default
+layout: page
 ---
 tags: #algorithm #sampling #control
 
@@ -30,7 +30,7 @@ state-action pair in order to add it to our sampled returns list.
 We see the policy is improved at each step by updating our policy to choose the action 
 with the highest state-action value.
 
-The [exploration](TODO) component is only introduced here via the choice of initial state-action pair.
+The [exploration](TODOs) component is only introduced here via the choice of initial state-action pair.
 
 []
 

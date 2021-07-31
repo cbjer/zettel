@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Square Root Operator
 permalink: /zettel/202102201216_squareRootOperator
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

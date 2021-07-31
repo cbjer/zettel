@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Characteristic Polynomial as a Determinant
 permalink: /zettel/202105091756_characteristicPolynomialDeterminant
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

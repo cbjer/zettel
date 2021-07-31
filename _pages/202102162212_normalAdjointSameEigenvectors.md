@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Normal then Adjoint have Same Eigenvectors
 permalink: /zettel/202102162212_normalAdjointSameEigenvectors
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

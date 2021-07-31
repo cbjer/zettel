@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Iterative Policy Evaluation for Estimating Value Function
 permalink: /zettel/202011291938_iterativePolicyEvaluation
-layout: default
+layout: page
 ---
 tags: #iterations #algorithms
 

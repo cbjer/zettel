@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Akaike Information Criterion (AIC)
 permalink: /zettel/202101021446_akaikeInformationCriterionAIC
-layout: default
+layout: page
 ---
 tags: #model #selection
 

@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Orthonormal List is Linearly Independent
 permalink: /zettel/202102142103_orthonormalLinearlyIndependent
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

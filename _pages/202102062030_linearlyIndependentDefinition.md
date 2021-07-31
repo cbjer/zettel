@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Linearly Independent Definition
 permalink: /zettel/202102062030_linearlyIndependentDefinition
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

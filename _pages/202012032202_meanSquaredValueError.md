@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Mean Squared Value Error
 permalink: /zettel/202012032202_meanSquaredValueError
-layout: default
+layout: page
 ---
 tags: #error #update #loss
 

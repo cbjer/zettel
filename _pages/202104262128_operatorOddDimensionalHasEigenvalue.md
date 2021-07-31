@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Operator on Odd-Dimensional Vector Space has Eigenvalue
 permalink: /zettel/202104262128_operatorOddDimensionalHasEigenvalue
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

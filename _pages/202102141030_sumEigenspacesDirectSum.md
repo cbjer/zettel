@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Sum of Eigenspaces is a Direct Sum
 permalink: /zettel/202102141030_sumEigenspacesDirectSum
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

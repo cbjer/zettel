@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Inserting HTML Image
 permalink: /zettel/templateHTML
-layout: default
+layout: page
 ---
 
 # Inserting HTML Image

@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Actor-Critic with Eligibility Traces (Episodic Case)
 permalink: /zettel/202012121515_actorCriticEligibilityTracesEpisodic
-layout: default
+layout: page
 ---
 tags: #gradient
 

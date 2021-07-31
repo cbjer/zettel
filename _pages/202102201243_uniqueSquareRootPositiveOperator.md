@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Unique Square Root Positive Operators
 permalink: /zettel/202102201243_uniqueSquareRootPositiveOperator
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

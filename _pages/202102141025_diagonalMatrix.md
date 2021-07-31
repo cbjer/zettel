@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Diagonal Matrix
 permalink: /zettel/202102141025_diagonalMatrix
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

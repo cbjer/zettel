@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Complexification of $V, V_C$
 permalink: /zettel/202104251520_complexificationOfV
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

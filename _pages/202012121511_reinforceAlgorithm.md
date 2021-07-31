@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: REINFORCE Algorithm
 permalink: /zettel/202012121511_reinforceAlgorithm
-layout: default
+layout: page
 ---
 tags: #gradient
 

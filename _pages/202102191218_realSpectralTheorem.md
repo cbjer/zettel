@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Real Spectral Theorem
 permalink: /zettel/202102191218_realSpectralTheorem
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

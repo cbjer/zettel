@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Linear Functional Definition
 permalink: /zettel/202102151052_linearFunctionalDefinition
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

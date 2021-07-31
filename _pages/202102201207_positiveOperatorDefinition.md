@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Positive Operator Definition
 permalink: /zettel/202102201207_positiveOperatorDefinition
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

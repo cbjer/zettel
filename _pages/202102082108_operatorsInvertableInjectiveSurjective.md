@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Equivalence of Invertability, Injectivity and Surjectivity for Operators
 permalink: /zettel/202102082108_operatorsInvertableInjectiveSurjective
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

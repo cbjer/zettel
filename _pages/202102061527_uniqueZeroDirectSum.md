@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Unique Zero for a Direct Sum Condition
 permalink: /zettel/202102061527_uniqueZeroDirectSum
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Minimal Polynomial Definition
 permalink: /zettel/202104241845_minimalPolynomialDefinition
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

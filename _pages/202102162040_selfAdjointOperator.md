@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Self Adjoint Operator
 permalink: /zettel/202102162040_selfAdjointOperator
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

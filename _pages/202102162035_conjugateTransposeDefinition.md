@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Conjugate Transpose Definition
 permalink: /zettel/202102162035_conjugateTransposeDefinition
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

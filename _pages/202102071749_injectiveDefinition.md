@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Injective Definition
 permalink: /zettel/202102071749_injectiveDefinition
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

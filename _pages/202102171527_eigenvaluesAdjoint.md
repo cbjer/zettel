@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Eigenvalues of the Adjoint
 permalink: /zettel/202102171527_eigenvaluesAdjoint
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

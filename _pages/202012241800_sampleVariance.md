@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Sample Variance
 permalink: /zettel/202012241800_sampleVariance
-layout: default
+layout: page
 ---
 tags: #definition # statistics
 

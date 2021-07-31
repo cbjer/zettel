@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Enough Eigenvalues Implies Diagonalizability
 permalink: /zettel/202102141049_enoughEigenvaluesDiagonalizability
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Space Complexity
 permalink: /zettel/202103061215_spaceComplexity
-layout: default
+layout: page
 ---
 tags: #
 

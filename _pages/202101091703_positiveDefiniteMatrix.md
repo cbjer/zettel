@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Positive Definite Matrix
 permalink: /zettel/202101091703_positiveDefiniteMatrix
-layout: default
+layout: page
 ---
 tags: #linear #algebra #definition
 

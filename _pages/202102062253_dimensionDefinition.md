@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Dimension Definition
 permalink: /zettel/202102062253_dimensionDefinition
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

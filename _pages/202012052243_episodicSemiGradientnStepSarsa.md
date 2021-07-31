@@ -1,14 +1,14 @@
 ---
-title: Zettels
+title: Episodic Semi-Gradient n-step Sarsa
 permalink: /zettel/202012052243_episodicSemiGradientnStepSarsa
-layout: default
+layout: page
 ---
 tags: #terminal #discounting #nstep
 
 # Episodic Semi-Gradient n-step Sarsa
 
 The [n-step](202011302230_nstepReturn) of [episodic semi-gradient n-step Sarsa](202012052205_episodicSemiGradientSarsa), 
-a [control method](TODO) used for episodic tasks with [function approximators](202012052211_rlFunctionApproximators).
+a [control method](TODOs) used for episodic tasks with [function approximators](202012052211_rlFunctionApproximators).
 
 <figure>
   <img src="/zettel/Images/ReinforcementLearning/EpisodicSemiGradientNStepSarsaQ.png"

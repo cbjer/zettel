@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Normal if Norm of Adjoint Equal
 permalink: /zettel/202102162206_normalNormAdjoint
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

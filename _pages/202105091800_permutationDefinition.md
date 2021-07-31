@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Permutation Definition
 permalink: /zettel/202105091800_permutationDefinition
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Existence of an Eigenvalue on a Complex Vector Space
 permalink: /zettel/202102131559_eigenvalueExistsComplexVectorSpace
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

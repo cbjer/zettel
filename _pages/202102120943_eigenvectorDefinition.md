@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Eigenvector Definition
 permalink: /zettel/202102120943_eigenvectorDefinition
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

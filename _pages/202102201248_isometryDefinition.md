@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Isometry Definition
 permalink: /zettel/202102201248_isometryDefinition
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

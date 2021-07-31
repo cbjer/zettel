@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Degree and Zeros of Characteristic Polynomial
 permalink: /zettel/202104241821_degreesZerosCharacteristicPolynomial
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

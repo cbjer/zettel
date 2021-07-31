@@ -2,13 +2,34 @@
 layout: default
 ---
 <article class="post">
-
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title | escape }}</h1>
-  </header>
-
   <div class="post-content">
     {{ content }}
   </div>
+
+<div class="post-nav">
+
+{% assign sortedPages = site.pages | sort:'order' %}
+
+{% for p in sortedPages %}
+    {% if p.url == page.url %}
+        {% if forloop.first == false %}
+            {% assign prevIndex = forloop.index0 | minus: 1 %}
+            <p>
+            <a href="{{site.baseurl}}{{sortedPages[prevIndex].url}}">
+                {{sortedPages[prevIndex].title}}
+            </a>
+            </p>
+        {% endif %}
+        {% if forloop.last == false %}
+            {% assign nextIndex = forloop.index0 | plus: 1 %}
+            <p>
+            <a href="{{site.baseurl}}{{sortedPages[nextIndex].url}}">
+                {{sortedPages[nextIndex].title}}
+            </a>
+            </p>
+        {% endif %}
+    {% endif %}
+{% endfor %}
+</div>
 
 </article>

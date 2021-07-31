@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Forward-view vs Backward-view
 permalink: /zettel/202012061733_forwardViewVsBackwardView
-layout: default
+layout: page
 ---
 tags: #lambda #traces
 

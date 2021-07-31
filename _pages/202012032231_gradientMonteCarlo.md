@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Gradient Monte Carlo
 permalink: /zettel/202012032231_gradientMonteCarlo
-layout: default
+layout: page
 ---
 tags: #simulations #episodes #prediction
 
@@ -13,7 +13,7 @@ policy.
 
 The episode [return](202011221815_returnsRL) is used as an estimate for the true 
 value function at $S_t$. The gradient update means our weights vector from 
-our [functional approximator](TODO) to the [value function](202011221845_valueFunctions) is 
+our [functional approximator](TODOs) to the [value function](202011221845_valueFunctions) is 
 being moved slightly in the direction which reduces the error between our 
 previous estimated value and our sampled value $G_t$.
 

@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Semi Gradient TD(0)
 permalink: /zettel/202012032232_semigradientTDZero
-layout: default
+layout: page
 ---
 tags: #update #evaluation #
 
@@ -9,7 +9,7 @@ tags: #update #evaluation #
 
 Semi-Gradient TD(0) uses the [stochastic gradient descent update for value functions](202012032217_sgdValueFunction) 
 with a normal [TD(0) update](202011302050_tabularTDZero). Here we are updating the 
-weights vector associated to our [approximal functional form](TODO) for our value function to move 
+weights vector associated to our [approximal functional form](TODOs) for our value function to move 
 our weights in the direction as to minimise the difference between our previous estimate for 
 the value of the state and the TD 1-step estimated value, which includes one step of actual observed reward.
 

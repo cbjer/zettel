@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Insertion Sort Algorithm
 permalink: /zettel/202102281125_insertionSortAlgorithm
-layout: default
+layout: page
 ---
 tags: #
 

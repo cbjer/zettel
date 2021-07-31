@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Stochastic Gradient Descent on Value Function Approximators
 permalink: /zettel/202012032217_sgdValueFunction
-layout: default
+layout: page
 ---
 tags: #descent #optimal #path
 

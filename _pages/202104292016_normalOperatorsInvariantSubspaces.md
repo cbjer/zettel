@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Normal Operators and Invariant Subspaces
 permalink: /zettel/202104292016_normalOperatorsInvariantSubspaces
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

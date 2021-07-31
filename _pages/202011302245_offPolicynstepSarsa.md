@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Off-Policy n-step Sarsa
 permalink: /zettel/202011302245_offPolicynstepSarsa
-layout: default
+layout: page
 ---
 tags: #offpolicy
 

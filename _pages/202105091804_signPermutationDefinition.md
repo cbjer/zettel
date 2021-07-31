@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Sign of a Permutation Definition
 permalink: /zettel/202105091804_signPermutationDefinition
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

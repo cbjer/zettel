@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Invertible Linear Map
 permalink: /zettel/202102081851_invertibleMap
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

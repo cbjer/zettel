@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Direct Sum of Subspace with Orthogonal Complement
 permalink: /zettel/202102151815_directSumOrthogonalComplement
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

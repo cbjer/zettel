@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Equivalences of Isometries 
 permalink: /zettel/202102201252_equivalencesIsometries
-layout: default
+layout: page
 ---
 tags: #linear #algebra
 

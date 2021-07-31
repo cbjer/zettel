@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Sample Mean Definition
 permalink: /zettel/202012241544_sampleMeanDefinition
-layout: default
+layout: page
 ---
 tags: #definition
 

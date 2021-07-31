@@ -1,7 +1,7 @@
 ---
-title: Zettels
+title: Expressing State Value Function in terms of State-Action Value Function 
 permalink: /zettel/202011221924_expressingStateToActionValue
-layout: default
+layout: page
 ---
 tags: #valuefunction #actionvaluefunction \
 
