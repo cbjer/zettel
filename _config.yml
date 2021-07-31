@@ -79,6 +79,9 @@ include:
 
 # Only want a few headers
 header_pages:
-  - about.md
   - _pages/index.md 
+  - tag_index.md
+  - tag_all_pages.md
+  - about.md
+
 

@@ -1,0 +1,18 @@
+{% assign rawtags = "" %}
+{% for page in site.pages %}
+  {% assign pageTags = page.tags | split: " " %}
+  {% assign ttags = pageTags | join:'|' | append:'|' %}
+  {% assign rawtags = rawtags | append:ttags %}
+{% endfor %}
+{% assign rawtags = rawtags | split:'|' | sort %}
+{% assign allGlobalTags = "" %}
+{% for tag in rawtags %}
+  {% if tag != "" %}
+    {% if allGlobalTags == "" %}
+      {% assign allGlobalTags = tag | split:'|' %}
+    {% endif %}
+    {% unless allGlobalTags contains tag %}
+      {% assign allGlobalTags = allGlobalTags | join:'|' | append:'|' | append:tag | split:'|' %}
+    {% endunless %}
+  {% endif %}
+{% endfor %}
