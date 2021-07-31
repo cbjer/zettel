@@ -2,9 +2,8 @@
 title: Matrix Multiplication Properties
 permalink: /zettel/202102072302_matrixMultiplicationProperties
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Matrix Multiplication Properties
 
 [Matrix](202102072233_matrixLinearMap) multiplication is defined, for a m-by-n matrix $A$ and a n-by-p matrix $C$ as 

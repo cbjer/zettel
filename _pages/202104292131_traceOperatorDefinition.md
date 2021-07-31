@@ -2,9 +2,8 @@
 title: Trace of an Operator
 permalink: /zettel/202104292131_traceOperatorDefinition
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Trace of an Operator
 
 Say $T$ is an operator, then we define the **trace** by:

@@ -2,9 +2,8 @@
 title: The Norm of an Orthonormal Linear Combination
 permalink: /zettel/202102142057_normOrthonormalLinearCombination
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # The Norm of an Orthonormal Linear Combination
 
 If we have $e_1, \ldots, e_m$ as an [orthonormal](202102142052_orthonormalDefinition) list of vectors in $V$ then 

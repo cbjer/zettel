@@ -2,9 +2,8 @@
 title: Log-likelihood of a Logistic Regression Model
 permalink: /zettel/202011221644_likelyhoodLogisticRegression
 layout: page
+tags: logisticregression likelyhood \
 ---
-tags: #logisticregression #likelyhood \
-
 # Log-likelihood of a Logistic Regression Model
 
 For a given [logistic regression](202011221613_logisticRegression) model, assume have data entries 

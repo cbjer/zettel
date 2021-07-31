@@ -2,9 +2,8 @@
 title: Basis Definition
 permalink: /zettel/202102062154_basisDefinition
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Basis Definition
 
 A **basis** of a [vector space](202102061359_vectorSpaceDefinition) is a list of vectors in $V$ that are

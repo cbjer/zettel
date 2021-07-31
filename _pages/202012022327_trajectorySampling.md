@@ -2,9 +2,8 @@
 title: Trajectory Sampling
 permalink: /zettel/202012022327_trajectorySampling
 layout: page
+tags: onpolicy
 ---
-tags: #onpolicy
-
 # Trajectory Sampling
 
 Trajectory Sampling is an alternative method of [planning](202012012357_rlPlanning) as 

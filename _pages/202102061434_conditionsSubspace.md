@@ -2,9 +2,8 @@
 title: Conditions for a Subspace
 permalink: /zettel/202102061434_conditionsSubspace
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Conditions for a Subspace
 
 A subset $U$ is a [subspace](202102061429_subspaceDefinition) if and only if the following 3 conditions hold:

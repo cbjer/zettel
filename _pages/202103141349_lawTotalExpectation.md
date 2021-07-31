@@ -2,9 +2,8 @@
 title: Law of Total Expectation
 permalink: /zettel/202103141349_lawTotalExpectation
 layout: page
+tags: conditional
 ---
-tags: #conditional
-
 # Law of Total Expectation
 
 Given a [partition](202012221506_probabilityPartition) $A_i$ we have that

@@ -2,9 +2,8 @@
 title: Equality of Generalized Eigenspace to Null Space
 permalink: /zettel/202102221250_equalityGeneralisedEigenspaceNullSpace
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Equality of Generalized Eigenspace to Null Space
 
 Equality between [generalized eigenspace](202102221242_generalizedEigenspaceDefinition) and [null space](202102071742_nullSpaceDefinition)

@@ -2,9 +2,8 @@
 title: Linear Regression Squared Loss Matrix Form
 permalink: /zettel/202103141145_linearRegressionSquaredLossMatrix
 layout: page
+tags: matrix form
 ---
-tags: #matrix #form
-
 # Linear Regression Squared Loss Matrix Form
 
 We can derive the following form for the [squared loss](202101162041_lossFunctions) of a 

@@ -2,9 +2,8 @@
 title: Conditional Expectation Solution to Squared Error Loss
 permalink: /zettel/202103271143_conditionalExpectationSolutionSquaredError
 layout: page
+tags: decision theory
 ---
-tags: #decision #theory
-
 # Conditional Expectation Solution to Squared Error Loss
 
 In the statistical decision theory setup, if we have a [squared loss function](202101162041_lossFunctions) we are 

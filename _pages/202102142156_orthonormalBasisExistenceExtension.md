@@ -2,9 +2,8 @@
 title: Orthonormal Basis Existence and Extension
 permalink: /zettel/202102142156_orthonormalBasisExistenceExtension
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Orthonormal Basis Existence and Extension
 
 Every finite-dimensional [inner product space](202102141708_innerProductSpace) has an [orthonormal basis](202102142105_orthonormalBasisDefinition)

@@ -2,9 +2,8 @@
 title: Exponential Distribution
 permalink: /zettel/202101101223_exponentialDistribution
 layout: page
+tags: distributions pdf
 ---
-tags: #distributions #pdf
-
 # Exponential Distribution
 
 The exponential distribution is defined by a positive parameter $\lambda$, with support in the region $[0, \infty)$. So if $X \sim \mathrm{Exp}(\lambda)$ then

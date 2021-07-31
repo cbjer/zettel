@@ -2,9 +2,8 @@
 title: Probability Partition
 permalink: /zettel/202012221506_probabilityPartition
 layout: page
+tags: events conditional conditioning
 ---
-tags: #events #conditional #conditioning
-
 # Probability Partition
 
 A partition in probability is simply a set of events such that they are pairwise disjoint and their

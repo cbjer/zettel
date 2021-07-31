@@ -2,9 +2,8 @@
 title: Semi Gradient TD(0)
 permalink: /zettel/202012032232_semigradientTDZero
 layout: page
+tags: update evaluation 
 ---
-tags: #update #evaluation #
-
 # Semi Gradient TD(0)
 
 Semi-Gradient TD(0) uses the [stochastic gradient descent update for value functions](202012032217_sgdValueFunction) 

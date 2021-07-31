@@ -2,9 +2,8 @@
 title: Operator Definition
 permalink: /zettel/202102082104_operatorDefinition
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Operator Definition
 
 An **operator** is a [linear map](202102071416_linearMapDefinition) from a vector space $V$ to itself.

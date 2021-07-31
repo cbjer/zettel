@@ -2,9 +2,8 @@
 title: Conjugate Priors
 permalink: /zettel/202101161759_conjugatePriors
 layout: page
+tags: bayesian
 ---
-tags: #bayesian
-
 # Conjugate Priors
 
 A Conjugate prior for a given [likelyhood](202101091603_probabilityLikelyhood) is one in which the prior and [posterior](202101161711_bayesianInference) 

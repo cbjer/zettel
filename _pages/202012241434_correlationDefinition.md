@@ -2,9 +2,8 @@
 title: Correlation Definition
 permalink: /zettel/202012241434_correlationDefinition
 layout: page
+tags: definition probability
 ---
-tags: #definition #probability
-
 # Correlation Definition
 
 We use correlation as a unitless measure of [covariance](202012221554_covarianceDefinition), restricted to the $[-1,1]$ interal.

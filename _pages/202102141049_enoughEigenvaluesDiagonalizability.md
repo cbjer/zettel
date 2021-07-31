@@ -2,9 +2,8 @@
 title: Enough Eigenvalues Implies Diagonalizability
 permalink: /zettel/202102141049_enoughEigenvaluesDiagonalizability
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Enough Eigenvalues Implies Diagonalizability
 
 For linear operator $T$, if it has $\mathrm{dim} \, V$ **distinct [eigenvalues](202102120912_eigenvalueDefinition)**, then it is 

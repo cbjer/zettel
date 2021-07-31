@@ -2,9 +2,8 @@
 title: Invariant Subspace
 permalink: /zettel/202102120907_invariantSubspace
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Invariant Subspace
 
 If we have [operator](202102082104_operatorDefinition) $T \in \mathcal{L}(V)$, then we say that a 

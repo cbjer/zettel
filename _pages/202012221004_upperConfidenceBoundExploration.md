@@ -2,9 +2,8 @@
 title: Upper Confidence Bound Exploration
 permalink: /zettel/202012221004_upperConfidenceBoundExploration
 layout: page
+tags: greedy exploration
 ---
-tags: #greedy #exploration
-
 # Upper Confidence Bound Exploration
 
 UCB or Upper Confidence Bounds are a method to be used to ensure short term exploration 

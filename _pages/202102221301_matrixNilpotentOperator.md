@@ -2,9 +2,8 @@
 title: Matrix of a Nilpotent Operator
 permalink: /zettel/202102221301_matrixNilpotentOperator
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Matrix of a Nilpotent Operator
 
 If we have $N$ a [nilpotent operator](202102221258_nilpotentOperatorDefinition) on $V$, then there is a [basis](202102062154_basisDefinition) 

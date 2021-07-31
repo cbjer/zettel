@@ -2,9 +2,8 @@
 title: Determinant and Constant Term in Characteristic Polynomial
 permalink: /zettel/202105091741_determinantConstantTermCharacteristicPolynomial
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Determinant and Constant Term in Characteristic Polynomial
 
 If we let $n = \textrm{dim} \, n$, then the [determinant](202105091734_determinantOperatorDefinition) of $T$

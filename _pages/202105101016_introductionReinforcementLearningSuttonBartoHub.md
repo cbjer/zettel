@@ -2,9 +2,8 @@
 title: Introduction to Reinforcement Learning - Sutton & Barto - Hub
 permalink: /zettel/202105101016_introductionReinforcementLearningSuttonBartoHub
 layout: page
+tags: reinfocement learning
 ---
-tags: #reinfocement #learning
-
 # Introduction to Reinforcement Learning - Sutton & Barto - Hub
 
 [Reinforcement Learning Returns](202011221815_returnsRL)
@@ -17,7 +16,7 @@ tags: #reinfocement #learning
 
 [Recursive relation for returns](202011222109_recursiveReturns)
 
-[MDP Short-hand notation](202011222137pShortNotation)
+[MDP Short-hand notation](202011222137_mdpShortNotation)
 
 [Bellman Equation for State-values](202011222150_bellmanEquationStateValues)
 

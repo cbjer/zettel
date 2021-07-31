@@ -2,9 +2,8 @@
 title: Cross-Validation
 permalink: /zettel/202101162214_crossValidation
 layout: page
+tags: overfitting error estimation 
 ---
-tags: #overfitting #error #estimation 
-
 # Cross-Validation
 
 Cross-Validation is a technique to avoid the requirement of a third split of our available data for a validation set. That is a set 

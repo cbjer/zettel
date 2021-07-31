@@ -2,9 +2,8 @@
 title: Increasing Null Spaces Subsets
 permalink: /zettel/202102221209_increasingNullSpacesSubsets
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Increasing Null Spaces Subsets
 
 If we have an [operator](202102082104_operatorDefinition) $T$, we can easily see that

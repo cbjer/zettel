@@ -2,9 +2,8 @@
 title: Decision-time Planning
 permalink: /zettel/202012022346_decisionTimePlanning
 layout: page
+tags: search planning
 ---
-tags: #search #planning
-
 # Decision-time Planning
 
 Decision-time planning is an alternative form of [planning](202012012357_rlPlanning), to the types used 

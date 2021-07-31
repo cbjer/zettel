@@ -2,9 +2,8 @@
 title: Implementing Deep Q-Learning
 permalink: /zettel/202012202112_implementingDeepQLearning
 layout: page
+tags: control mnih
 ---
-tags: #control #mnih
-
 # Implementing Deep Q-Learning
 
 We implemented a basic Deep Q-Network and some implementation ideas were:

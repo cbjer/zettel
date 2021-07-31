@@ -2,9 +2,8 @@
 title: Predictive Distribution
 permalink: /zettel/202101161857_predictiveDistribution
 layout: page
+tags: bayesian updating
 ---
-tags: #bayesian #updating
-
 # Predictive Distribution
 
 Say we have $X_1, \ldots, X_n$ independent observation from the distribution $f(x|\theta)$ and we want to find the 

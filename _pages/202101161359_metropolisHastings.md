@@ -2,9 +2,8 @@
 title: Metropolis Hastings Algorithm
 permalink: /zettel/202101161359_metropolisHastings
 layout: page
+tags: sampling posterior intractable
 ---
-tags: #sampling #posterior #intractable
-
 # Metropolis Hastings Algorithm
 
 The Metropolis Hastings Algorithm is a form of [Markov Chain Monte Carlo](TODOs) used to sample from a, often intractable, density function called the **target distribution** $p(x)$.

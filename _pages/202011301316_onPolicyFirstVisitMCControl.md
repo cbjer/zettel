@@ -2,9 +2,8 @@
 title: On-Policy First Visit Monte Carlo Control
 permalink: /zettel/202011301316_onPolicyFirstVisitMCControl
 layout: page
+tags: control exploration epsilon
 ---
-tags: #control #exploration #epsilon
-
 # On-Policy First Visit Monte Carlo Control
 
 Very similiar to previous sampling based methods, except here we have added 

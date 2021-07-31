@@ -2,9 +2,8 @@
 title: Complexification of $V, V_C$
 permalink: /zettel/202104251520_complexificationOfV
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Complexification of $V, V_C$
 
 Taking $V$ as a real [vector space](202102061359_vectorSpaceDefinition),

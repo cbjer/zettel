@@ -2,9 +2,8 @@
 title: Invertible Linear Map
 permalink: /zettel/202102081851_invertibleMap
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Invertible Linear Map
 
 A [linear map](202102071416_linearMapDefinition) $T \in \mathcal{L}(V,W)$ is called **invertible** if there exists a linear

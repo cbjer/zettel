@@ -2,9 +2,8 @@
 title: Gradient Descent Update
 permalink: /zettel/202103282312_gradientDescentUpdate
 layout: page
+tags: optimisation
 ---
-tags: #optimisation
-
 # Gradient Descent Update
 
 Gradient descent is an optimisation method to minimise some objective function $J(\theta)$ with

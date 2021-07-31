@@ -2,9 +2,8 @@
 title: Generalized Eigenspace Definition
 permalink: /zettel/202102221242_generalizedEigenspaceDefinition
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Generalized Eigenspace Definition
 
 If we have an [operator](202102082104_operatorDefinition) $T$ and $\lambda \in \mathbf{F}$, then the 

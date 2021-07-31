@@ -2,9 +2,8 @@
 title: Vector Calculus Results
 permalink: /zettel/202101161942_vectorCalculusResults
 layout: page
+tags: differentiation vectors
 ---
-tags: #differentiation #vectors
-
 # Vector Calculus Results
 
 $$

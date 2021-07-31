@@ -2,9 +2,8 @@
 title: Expected Sarsa
 permalink: /zettel/202011302147_expectedSarsa
 layout: page
+tags: smoothening update expectation
 ---
-tags: #smoothening #update #expectation
-
 # Expected Sarsa
 
 Expected Sarsa is an alternative [off-policy](202011301312_offPolicyMethods) update step to those found in [Sarsa](202011302117_sarsa) and 

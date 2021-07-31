@@ -2,9 +2,8 @@
 title: Epsilon Greedy Policy
 permalink: /zettel/202011301251_epsilonGreedyPolicy
 layout: page
+tags: exploration soft-policy
 ---
-tags: #exploration #soft-policy
-
 # Epsilon Greedy Policy
 
 An $\epsilon$-greedy policy is one which takes the greedy action (corresponding with highest 

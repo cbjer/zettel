@@ -2,9 +2,8 @@
 title: Policy Iteration
 permalink: /zettel/202011292319_policyIteration
 layout: page
+tags: iterative improvement algorithm
 ---
-tags: #iterative #improvement #algorithm
-
 # Policy Iteration
 
 Idea behind policy iteration is to repeatedly apply [policy evaluation](202011291938_iterativePolicyEvaluation) 

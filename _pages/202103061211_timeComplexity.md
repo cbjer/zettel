@@ -2,9 +2,8 @@
 title: Time Complexity
 permalink: /zettel/202103061211_timeComplexity
 layout: page
+tags: 
 ---
-tags: #
-
 # Time Complexity
 
 Time complexity is the amount of time taken by an algorithm to run as a function of the size 

@@ -2,9 +2,8 @@
 title: Machine Learning Vector Summation Identities
 permalink: /zettel/202102012027_mlVectorSummationIdentities
 layout: page
+tags: identity matrix sum
 ---
-tags: #identity #matrix #sum
-
 # Machine Learning Vector Summation Identities
 
 For a set of training examples $\{\mathbf{x}_i \}_{i=1}^n$, where each $\mathbf{x} \in \mathbb{R}^p$, we define the **data matrix** $\mathrm{X} \in \mathbb{R}^{n x p}$ as 

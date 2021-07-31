@@ -2,9 +2,8 @@
 title: Linear Regression Matrix Solution
 permalink: /zettel/202103141315_linearRegressionMatrixSolution
 layout: page
+tags: 
 ---
-tags: #
-
 # Linear Regression Matrix Solution
 
 If we have a [linear regression](202103141139_linearRegressionModel) model, using the [squared loss expression](202103141145_linearRegressionSquaredLossMatrix)

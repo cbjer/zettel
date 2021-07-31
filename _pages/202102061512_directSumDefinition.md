@@ -2,9 +2,8 @@
 title: Direct Sum Definition
 permalink: /zettel/202102061512_directSumDefinition
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Direct Sum Definition
 
 Say we have [subspaces](202102061429_subspaceDefinition) $U_1, \ldots, U_m$ of $V$. Then we call the [sum](202102061453_sumOfSubsetsDefinition)

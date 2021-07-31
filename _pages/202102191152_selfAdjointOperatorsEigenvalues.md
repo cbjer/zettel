@@ -2,9 +2,8 @@
 title: Self Adjoint Operators have Eigenvalues
 permalink: /zettel/202102191152_selfAdjointOperatorsEigenvalues
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Self Adjoint Operators have Eigenvalues
 
 If $T$ is a [self-adjoint](202102162040_selfAdjointOperator) [operator](202102082104_operatorDefinition), then $T$ has an

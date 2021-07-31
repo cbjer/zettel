@@ -2,9 +2,8 @@
 title: Direct Sum of Space with Power Map
 permalink: /zettel/202102221231_directSumPowerMap
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Direct Sum of Space with Power Map
 
 If we have $T \in \mathcal{L}(V)$, with $n = \mathrm{dim} \, V$, then

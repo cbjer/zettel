@@ -2,9 +2,8 @@
 title: Permuting Columns in a Matrix Determinant
 permalink: /zettel/202105091831_permutingColumnsDeterminant
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Permuting Columns in a Matrix Determinant
 
 If $A = (\, A_{\cdot, 1} \, \cdots \, A_{\cdot, n} \, )$, where $A_{\cdot, k}$ denotes the kth column of $A$, and taking 

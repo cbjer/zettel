@@ -2,9 +2,8 @@
 title: Characteristic Polynomial is a multiple of Minimal Polynomial
 permalink: /zettel/202104241914_characteristicPolynomialMultipleMinimalPolynomial
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Characteristic Polynomial is a multiple of Minimal Polynomial
 
 If we are in a complex field, with operator $T$, then the [characteristic polynomial](202104241811_characteristicPolynomialDefinition)

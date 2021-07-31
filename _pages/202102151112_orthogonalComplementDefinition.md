@@ -2,9 +2,8 @@
 title: Orthogonal Complement
 permalink: /zettel/202102151112_orthogonalComplementDefinition
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Orthogonal Complement
 
 If $U$ is a subset of $V$, then the **Orthogonal Complement** of $U$, $U^{\bot}$, is the set of all

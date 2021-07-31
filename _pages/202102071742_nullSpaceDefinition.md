@@ -2,9 +2,8 @@
 title: Null Space Definition
 permalink: /zettel/202102071742_nullSpaceDefinition
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Null Space Definition
 
 For a [linear map](202102071416_linearMapDefinition) $T \in \mathcal{L}(V,W)$, we define 

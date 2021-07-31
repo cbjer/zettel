@@ -2,9 +2,8 @@
 title: Isometry Definition
 permalink: /zettel/202102201248_isometryDefinition
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Isometry Definition
 
 An [operator](202102082104_operatorDefinition) $S$ is called an **isometry** if 

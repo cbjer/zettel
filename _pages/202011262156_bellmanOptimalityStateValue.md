@@ -2,9 +2,8 @@
 title: Bellman Optimality Equation For State Values
 permalink: /zettel/202011262156_bellmanOptimalityStateValue
 layout: page
+tags: optimality onestep
 ---
-tags: #optimality #onestep
-
 # Bellman Optimality Equation For State Values
 
 Using our previous [relationship between state-action and state value functions](202011262125_stateActionTostatevalue) 

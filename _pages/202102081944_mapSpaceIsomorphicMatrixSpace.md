@@ -2,9 +2,8 @@
 title: Linear Map Space is Isomorphic to Matrix Space
 permalink: /zettel/202102081944_mapSpaceIsomorphicMatrixSpace
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Linear Map Space is Isomorphic to Matrix Space
 
 If we have a [basis](202102062154_basisDefinition) $v_1, \ldots, v_n$ of $V$ and a basis $w_1, \ldots, w_m$ of $W$ 

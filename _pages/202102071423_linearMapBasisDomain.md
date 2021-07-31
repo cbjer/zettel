@@ -2,9 +2,8 @@
 title: Unique Linear Map from Basis of Domain
 permalink: /zettel/202102071423_linearMapBasisDomain
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Unique Linear Map from Basis of Domain
 
 If we have a [basis](202102062154_basisDefinition) $v_1, \ldots, v_n$ of $V$ and vectors $w_1, \ldots, w_m \in W$, then we have a

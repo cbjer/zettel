@@ -1,10 +1,9 @@
 ---
 title: Markov Decision Process Short-hand notation
-permalink: /zettel/202011222137pShortNotation
+permalink: /zettel/202011222137_mdpShortNotation
 layout: page
+tags: markov bellman mdp
 ---
-tags: p #markov #bellman \
-
 # Markov Decision Process Short-hand notation
 
 We occasionally use the following short hand notation, especially in the derivation of the [bellman equations](202011222150_bellmanEquationStateValues).

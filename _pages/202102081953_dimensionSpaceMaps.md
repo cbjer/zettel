@@ -2,9 +2,8 @@
 title: Dimension of Space of Maps
 permalink: /zettel/202102081953_dimensionSpaceMaps
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Dimension of Space of Maps
 
 For [finite dimensional](202102062028_finiteDimensionalVectorSpace) $V$ and $W$, the 

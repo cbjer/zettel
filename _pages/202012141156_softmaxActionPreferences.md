@@ -2,9 +2,8 @@
 title: Softmax in Action Preferences
 permalink: /zettel/202012141156_softmaxActionPreferences
 layout: page
+tags: policy
 ---
-tags: #policy
-
 # Softmax in Action Preferences
 
 Common parameterisation of the [policy](202011242107_rlPolicy) for [policy gradient methods](202012141139_policyGradientMethods)

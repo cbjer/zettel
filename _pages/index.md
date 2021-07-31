@@ -2,6 +2,7 @@
 title: Home
 permalink: /zettel/index
 layout: page
+
 ---
 # Home
 
@@ -34,7 +35,7 @@ Styles:
 
 [Recursive relation for returns](202011222109_recursiveReturns)
 
-[MDP Short-hand notation](202011222137pShortNotation)
+[MDP Short-hand notation](202011222137_mdpShortNotation)
 
 [Bellman Equation for State-values](202011222150_bellmanEquationStateValues)
 

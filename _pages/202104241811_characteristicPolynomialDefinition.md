@@ -2,9 +2,8 @@
 title: Characteristic Polynomial Definition
 permalink: /zettel/202104241811_characteristicPolynomialDefinition
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Characteristic Polynomial Definition
 
 If we have a complex vector space $V$ and operator $T$, with distinct [eigenvalues](202102120912_eigenvalueDefinition) 

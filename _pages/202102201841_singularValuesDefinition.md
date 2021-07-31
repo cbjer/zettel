@@ -2,9 +2,8 @@
 title: Singular Values Definition
 permalink: /zettel/202102201841_singularValuesDefinition
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Singular Values Definition
 
 If we have an [operator](202102082104_operatorDefinition) $T$, the **singular values** of $T$ are the 

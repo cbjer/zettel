@@ -2,9 +2,8 @@
 title: Orthonormal Definition
 permalink: /zettel/202102142052_orthonormalDefinition
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Orthonormal Definition
 
 A list of vectors is called **orthonormal** if each vector has [norm](202102141717_normDefinition) $1$ and is [orthogonal](202102141725_orthogonalDefinition)

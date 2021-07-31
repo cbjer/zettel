@@ -2,9 +2,8 @@
 title: Norm Definition
 permalink: /zettel/202102141717_normDefinition
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Norm Definition
 
 For a vector $v \in V$, we define the **norm** of $v$, denoted as $\Vert v \Vert$, as defined by:

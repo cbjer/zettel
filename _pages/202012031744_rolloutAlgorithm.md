@@ -2,9 +2,8 @@
 title: Rollout Algorithms
 permalink: /zettel/202012031744_rolloutAlgorithm
 layout: page
+tags: search control mc
 ---
-tags: #search #control #mc
-
 # Rollout Algorithms
 
 A rollout algorithm is a form of [decision time planning](202012022346_decisionTimePlanning), whereby 

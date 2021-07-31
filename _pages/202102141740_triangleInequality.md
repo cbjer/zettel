@@ -2,9 +2,8 @@
 title: Triangle Inequality
 permalink: /zettel/202102141740_triangleInequality
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Triangle Inequality
 
 For $u, v \in V$ then

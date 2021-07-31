@@ -2,9 +2,8 @@
 title: Bellman Equation for State-Action Values
 permalink: /zettel/202011242151_bellmanStateAction
 layout: page
+tags: bellman onestep \
 ---
-tags: #bellman #onestep \
-
 # Bellman Equation for State-Action Values
 
 Using the definition of the [action-value function](202011221903_actionValueFunction) and taking advantage 

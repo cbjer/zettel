@@ -2,9 +2,8 @@
 title: Off-Policy Methods
 permalink: /zettel/202011301312_offPolicyMethods
 layout: page
+tags: control decisions
 ---
-tags: #control #decisions
-
 # Off-Policy Methods
 
 Off-Policy methods are those where the policy being evaluated or improved 

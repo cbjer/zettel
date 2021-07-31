@@ -2,9 +2,8 @@
 title: Sigmoid Function
 permalink: /zettel/202011221535_sigmoidFunction
 layout: page
+tags: activationfunctions logisticregression \
 ---
-tags: #activationfunctions #logisticregression \
-
 # Sigmoid Function
 
 The sigmoid function is commonly used to map the real number line $(-\infty, \infty) \rightarrow (0, 1)$

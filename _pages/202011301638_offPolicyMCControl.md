@@ -2,9 +2,8 @@
 title: Off-Policy Monte Carlo Control
 permalink: /zettel/202011301638_offPolicyMCControl
 layout: page
+tags: algorithm importance target
 ---
-tags: #algorithm #importance #target
-
 # Off-Policy Monte Carlo Control
 
 [Off-policy](202011301312_offPolicyMethods) method for estimating the optimal value function.

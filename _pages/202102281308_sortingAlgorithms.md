@@ -2,9 +2,8 @@
 title: Sorting Algorithms
 permalink: /zettel/202102281308_sortingAlgorithms
 layout: page
+tags: 
 ---
-tags: #
-
 # Sorting Algorithms
 
 | Sorting Algorithm                                        | Time Complexity                         | Space Complexity |

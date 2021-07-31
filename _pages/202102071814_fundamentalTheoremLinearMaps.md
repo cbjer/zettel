@@ -2,9 +2,8 @@
 title: Fundamental Theorem of Linear Maps
 permalink: /zettel/202102071814_fundamentalTheoremLinearMaps
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Fundamental Theorem of Linear Maps
 
 Suppose $V$ is a [finite dimensional vector space](202102062028_finiteDimensionalVectorSpace) and 

@@ -2,9 +2,8 @@
 title: Lasso Regression
 permalink: /zettel/202103281817_lassoRegression
 layout: page
+tags: model
 ---
-tags: #model
-
 # Lasso Regression
 
 **Lasso regression** is a small modification from the standard [linear model](202103141139_linearRegressionModel) and [ridge regression model](202103281806_ridgeRegression),

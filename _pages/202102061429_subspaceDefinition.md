@@ -2,9 +2,8 @@
 title: Subspace Definition
 permalink: /zettel/202102061429_subspaceDefinition
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Subspace Definition
 
 A subset $U$ of a [vector space](202102061359_vectorSpaceDefinition) $V$ is a **subspace** of $V$ if

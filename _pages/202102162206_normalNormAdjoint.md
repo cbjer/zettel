@@ -2,9 +2,8 @@
 title: Normal if Norm of Adjoint Equal
 permalink: /zettel/202102162206_normalNormAdjoint
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Normal if Norm of Adjoint Equal
 
 An [operator](202102082104_operatorDefinition) $T$ is [normal](202102162200_normalOperatorDefinition) if and only if

@@ -2,9 +2,8 @@
 title: First Visit Monte Carlo Prediction
 permalink: /zettel/202011301143_firstVisitMonteCarloPrediction
 layout: page
+tags: sampling evaluation episodic algorithm
 ---
-tags: #sampling #evaluation #episodic #algorithm
-
 # First Visit Monte Carlo Prediction
 
 Monte Carlo Prediction is a technique used to estimate the [value function](202011221845_valueFunctions) 

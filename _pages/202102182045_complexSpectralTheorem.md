@@ -2,9 +2,8 @@
 title: Complex Spectral Theorem
 permalink: /zettel/202102182045_complexSpectralTheorem
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Complex Spectral Theorem
 
 If we have $\mathbf{F} = \mathbf{C}$ and $T$ an [operator](202102082104_operatorDefinition), then the following are equivalent:

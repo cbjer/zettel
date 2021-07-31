@@ -2,9 +2,8 @@
 title: Gauss-Markov Theorem for Linear Estimators
 permalink: /zettel/202103281726_gaussMarkovTheoremLinearEstimators
 layout: page
+tags: unbiased
 ---
-tags: #unbiased
-
 # Gauss-Markov Theorem for Linear Estimators
 
 States that the least squares [estimator](202012241539_estimatorDefinition) has the smallest [mean squared error](202101162041_lossFunctions) 

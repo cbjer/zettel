@@ -2,9 +2,8 @@
 title: Reinforcement Learning as a Supervised Learning Problem
 permalink: /zettel/202012041144_rlAsSupervisedLearning
 layout: page
+tags: dataset error loss
 ---
-tags: #dataset #error #loss
-
 # Reinforcement Learning as a Supervised Learning Problem
 
 Using the definition for [mean squared value error](202012032202_meanSquaredValueError) we can see

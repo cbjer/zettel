@@ -2,9 +2,8 @@
 title: Playing Atari with Deep Reinforcment Learning
 permalink: /zettel/202012142134_playingAtariWithDeepReinforcementLearning
 layout: page
+tags: learning reinforcementlearning
 ---
-tags: #learning #reinforcementlearning
-
 # Playing Atari with Deep Reinforcment Learning
 
 Paper authored by Mnih et al, 2013.

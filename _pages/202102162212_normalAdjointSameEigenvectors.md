@@ -2,9 +2,8 @@
 title: Normal then Adjoint have Same Eigenvectors
 permalink: /zettel/202102162212_normalAdjointSameEigenvectors
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Normal then Adjoint have Same Eigenvectors
 
 if $T$ is [normal](202102162200_normalOperatorDefinition) and $v \in V$ is an [eigenvector](202102120943_eigenvectorDefinition) of $T$ with

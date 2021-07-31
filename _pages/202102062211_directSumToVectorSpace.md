@@ -2,9 +2,8 @@
 title: Every Subspace Has a Direct Sum Forming V
 permalink: /zettel/202102062211_directSumToVectorSpace
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Every Subspace Has a Direct Sum Forming V
 
 If $U$ is a [subspace](202102061429_subspaceDefinition) of the [vector space](202102061359_vectorSpaceDefinition) $V$, then there

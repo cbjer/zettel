@@ -2,9 +2,8 @@
 title: Iterative Policy Evaluation for Estimating Value Function
 permalink: /zettel/202011291938_iterativePolicyEvaluation
 layout: page
+tags: iterations algorithms
 ---
-tags: #iterations #algorithms
-
 # Iterative Policy Evaluation for Estimating Value Function
 
 Say we have a policy $\pi$ that we want to evaluate its value function. We 

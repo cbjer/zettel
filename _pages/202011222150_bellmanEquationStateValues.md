@@ -2,9 +2,8 @@
 title: Bellman Equation for State-Values
 permalink: /zettel/202011222150_bellmanEquationStateValues
 layout: page
+tags: bellman reinforcementlearning onestep \
 ---
-tags: #bellman #reinforcementlearning #onestep \
-
 # Bellman Equation for State-Values
 
 Using the definition of the [value function](202011221845_valueFunctions) and the 
@@ -22,7 +21,7 @@ V_{\pi}(s) &= \sum_a \pi(a|s) \sum_{s'} P_{s, s'}^{a} ( R_{s,s'}^{a} + \gamma V_
 \end{aligned}
 $$
 
-Where we have used the [short-hand notation](202011222137pShortNotation) and the [Markov property](202011242218_markovProcess) of the MDP.
+Where we have used the [short-hand notation](202011222137_mdpShortNotation) and the [Markov property](202011242218_markovProcess) of the MDP.
 
 Intuitively we are averaging over which action we will take, as is chosen by our policy, and which state we will 
 end up in $s'$. Then our expected return is the expected reward we will gain by going into the new state plus the expected return 

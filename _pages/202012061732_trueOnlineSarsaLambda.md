@@ -2,9 +2,8 @@
 title: True Online Sarsa($\lambda$)
 permalink: /zettel/202012061732_trueOnlineSarsaLambda
 layout: page
+tags: algorithm bootstrapping
 ---
-tags: #algorithm #bootstrapping
-
 # True Online Sarsa($\lambda$)
 
 Can be shown to be the exact same as the [forward-view](202012061733_forwardViewVsBackwardView) 

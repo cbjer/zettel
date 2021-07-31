@@ -2,9 +2,8 @@
 title: Products and Direct Sums
 permalink: /zettel/202102082147_productsDirectSums
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Products and Direct Sums
 
 If we have [subspaces](202102061429_subspaceDefinition) $U_1, \ldots, U_m$ of $V$ and we define the [linear map](202102071416_linearMapDefinition)

@@ -2,9 +2,8 @@
 title: True Online TD($\lambda$)
 permalink: /zettel/202012061731_trueLambdaTDLambda
 layout: page
+tags: algorithm bootstrapping
 ---
-tags: #algorithm #bootstrapping
-
 # True Online TD($\lambda$)
 
 Can be shown to be the exact same as the [forward-view](202012061733_forwardViewVsBackwardView) 

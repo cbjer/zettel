@@ -2,9 +2,8 @@
 title: Logistic Regression Gradient Descent Step Derivation
 permalink: /zettel/202103282246_logisticRegressionGradientDescentStepDerivation
 layout: page
+tags: derivation
 ---
-tags: #derivation
-
 # Logistic Regression Gradient Descent Step Derivation
 
 If we have a [logistic regression](202011221613_logisticRegression) model $f(\mathbf{x}) = \sigma(\mathbf{w}^T \mathbf{x})$, 

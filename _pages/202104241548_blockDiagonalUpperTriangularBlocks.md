@@ -2,9 +2,8 @@
 title: Block Diagonal Matrix with Upper-Triangular Blocks
 permalink: /zettel/202104241548_blockDiagonalUpperTriangularBlocks
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Block Diagonal Matrix with Upper-Triangular Blocks
 
 If we have a complex vector space $V$ with operator $T$ and $\lambda_1, \ldots, \lambda_m$ the distinct

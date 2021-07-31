@@ -2,9 +2,8 @@
 title: Determinant is Multiplicative
 permalink: /zettel/202105091859_determinantMultiplicative
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Determinant is Multiplicative
 
 

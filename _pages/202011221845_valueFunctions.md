@@ -2,9 +2,8 @@
 title: Value Function
 permalink: /zettel/202011221845_valueFunctions
 layout: page
+tags: reinforcementlearning returns \
 ---
-tags: #reinforcementlearning #returns \
-
 # Value Function
 
 The value function of a state $s$ under a [policy](202011242107_rlPolicy) $\pi$, $ V_{\pi}(s) $, is your expected [return](202011221815_returnsRL) from 

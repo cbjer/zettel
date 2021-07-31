@@ -2,9 +2,8 @@
 title: Likelihood
 permalink: /zettel/202101091603_probabilityLikelyhood
 layout: page
+tags: definition statistics
 ---
-tags: #definition #statistics
-
 # Likelihood
 
 If we have a joint probability density function $f$ which is parameterised by $\theta$, then the **likelihood function** is 

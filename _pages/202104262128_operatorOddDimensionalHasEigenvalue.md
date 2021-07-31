@@ -2,9 +2,8 @@
 title: Operator on Odd-Dimensional Vector Space has Eigenvalue
 permalink: /zettel/202104262128_operatorOddDimensionalHasEigenvalue
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Operator on Odd-Dimensional Vector Space has Eigenvalue
 
 Every operator on an odd-dimensional real vector space has an [eigenvalue](202102120912_eigenvalueDefinition)

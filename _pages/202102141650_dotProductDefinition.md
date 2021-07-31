@@ -2,9 +2,8 @@
 title: Dot Product Definition
 permalink: /zettel/202102141650_dotProductDefinition
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Dot Product Definition
 
 If we have $x, y \in \mathbf{R}^n$, then the **dot product** of $x$ and $y$, denoted $x \cdot y$ is 

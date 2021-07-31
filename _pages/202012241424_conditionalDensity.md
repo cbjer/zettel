@@ -2,9 +2,8 @@
 title: Conditional Density Definition
 permalink: /zettel/202012241424_conditionalDensity
 layout: page
+tags: definition
 ---
-tags: #definition
-
 # Conditional Density Definition
 
 We define the conditional density function $f_{X \vert Y}(x)$ as 

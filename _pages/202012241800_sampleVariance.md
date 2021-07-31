@@ -2,9 +2,8 @@
 title: Sample Variance
 permalink: /zettel/202012241800_sampleVariance
 layout: page
+tags: definition  statistics
 ---
-tags: #definition # statistics
-
 # Sample Variance
 
 The sample variance is an [estimator](202012241539_estimatorDefinition) for the true [variance](202012241415_varianceDefinition) $\sigma^2$. 

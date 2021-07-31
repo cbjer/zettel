@@ -2,9 +2,8 @@
 title: Minimising the Distance to a Subspace
 permalink: /zettel/202102151948_minimisingDistanceSubspace
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Minimising the Distance to a Subspace
 
 If we have $U$ a finite dimensional subspace of $V$, with $v \in V$ and $u \in U$ then

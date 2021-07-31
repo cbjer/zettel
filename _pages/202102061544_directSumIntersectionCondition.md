@@ -2,9 +2,8 @@
 title: Direct Sum Intersection Condition
 permalink: /zettel/202102061544_directSumIntersectionCondition
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Direct Sum Intersection Condition
 
 If we have [subspaces](202102061429_subspaceDefinition) $U$ and $W$ of $V$ then $U + W$ is a [direct sum](202102061512_directSumDefinition) 

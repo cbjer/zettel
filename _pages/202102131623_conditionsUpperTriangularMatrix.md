@@ -2,9 +2,8 @@
 title: Conditions for Upper-Triangular Matrix
 permalink: /zettel/202102131623_conditionsUpperTriangularMatrix
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Conditions for Upper-Triangular Matrix
 
 If we have an [operator](202102082104_operatorDefinition) $T$ and $v_1, \ldots, v_n$ a [basis](202102062154_basisDefinition) 

@@ -2,9 +2,8 @@
 title: Matrix of a Linear Map
 permalink: /zettel/202102072233_matrixLinearMap
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Matrix of a Linear Map
 
 For a [linear map](202102071416_linearMapDefinition) $T \in \mathcal{L}(V,W)$ with a [basis](202102062154_basisDefinition) 

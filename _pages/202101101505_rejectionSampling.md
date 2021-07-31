@@ -2,9 +2,8 @@
 title: Rejection Sampling
 permalink: /zettel/202101101505_rejectionSampling
 layout: page
+tags: sampling
 ---
-tags: #sampling
-
 # Rejection Sampling
 
 The rejection sampling method is used to sample from a target distribution which is otherwise difficult to sample from, but which we have another

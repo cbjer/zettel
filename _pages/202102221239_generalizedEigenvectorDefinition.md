@@ -2,9 +2,8 @@
 title: Generalized Eigenvector Definition
 permalink: /zettel/202102221239_generalizedEigenvectorDefinition
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Generalized Eigenvector Definition
 
 If we have an [operator](202102082104_operatorDefinition) $T$ with a [eigenvalue](202102120912_eigenvalueDefinition) $\lambda$, then

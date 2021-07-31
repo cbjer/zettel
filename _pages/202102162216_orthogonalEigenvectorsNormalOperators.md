@@ -2,9 +2,8 @@
 title: Orthogonal Eigenvectors for Normal Operators
 permalink: /zettel/202102162216_orthogonalEigenvectorsNormalOperators
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Orthogonal Eigenvectors for Normal Operators
 
 If we have $T$ [normal](202102162200_normalOperatorDefinition) then the [eigenvectors](202102120943_eigenvectorDefinition)

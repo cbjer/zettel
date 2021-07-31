@@ -2,9 +2,8 @@
 title: Principals of Zettelkasten
 permalink: /zettel/202011221431_principalsOfZettelkasten
 layout: page
+tags: notetaking memory cognition\
 ---
-tags: #notetaking #memory #cognition\
-
 # Principals of Zettelkasten
 
 - Create small notes with each node having exactly 1 idea on it.

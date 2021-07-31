@@ -2,9 +2,8 @@
 title: Monte Carlo with Exploring Starts
 permalink: /zettel/202011301233_monteCarloExploringStarts
 layout: page
+tags: algorithm sampling control
 ---
-tags: #algorithm #sampling #control
-
 # Monte Carlo with Exploring Starts
 
 Although [First Visit Monte Carlo Prediction](202011301143_firstVisitMonteCarloPrediction) allows us to 

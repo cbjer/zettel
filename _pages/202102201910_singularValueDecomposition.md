@@ -2,9 +2,8 @@
 title: Singular Value Decomposition
 permalink: /zettel/202102201910_singularValueDecomposition
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Singular Value Decomposition
 
 If we have an [operator](202102082104_operatorDefinition) $T$, with [singular values](202102201841_singularValuesDefinition) $s_1, \ldots, s_n$,

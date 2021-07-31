@@ -2,9 +2,8 @@
 title: Sum of Multiplicites Equals Dimension of V
 permalink: /zettel/202104262136_sumMultiplicitesEqualsDimensionSpace
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Sum of Multiplicites Equals Dimension of V
 
 If we have complex vector space $V$, then the sum of the [multiplicities](202104241520_multiplictyDefinitionEigenvalue) of 

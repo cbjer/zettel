@@ -2,9 +2,8 @@
 title: Optimal Value Function
 permalink: /zettel/202011262033_optimalValueFunctions
 layout: page
+tags: optimality definition 
 ---
-tags: #optimality #definition 
-
 # Optimal Value Function
 
 For a [Markov Decision Process](TODOs), the **optimal state value function** 

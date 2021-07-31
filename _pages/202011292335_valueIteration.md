@@ -2,9 +2,8 @@
 title: Value Iteration
 permalink: /zettel/202011292335_valueIteration
 layout: page
+tags: update algorithm improvement
 ---
-tags: #update #algorithm #improvement
-
 # Value Iteration
 
 Value iteration is very similiar to [policy iteration](202011292319_policyIteration) 

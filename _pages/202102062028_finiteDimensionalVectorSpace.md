@@ -2,9 +2,8 @@
 title: Finite Dimensional Vector Space
 permalink: /zettel/202102062028_finiteDimensionalVectorSpace
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Finite Dimensional Vector Space
 
 We say a [vector space](202102061359_vectorSpaceDefinition) is **finite dimensional** if some

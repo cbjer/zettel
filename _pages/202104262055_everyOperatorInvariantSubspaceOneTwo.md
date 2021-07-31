@@ -2,9 +2,8 @@
 title: Every Operator has an Invariant Subspace of Dimension One or Two
 permalink: /zettel/202104262055_everyOperatorInvariantSubspaceOneTwo
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Every Operator has an Invariant Subspace of Dimension One or Two
 
  If we have an [operator](202102082104_operatorDefinition) on a non-zero finite dimensional vector space, then it

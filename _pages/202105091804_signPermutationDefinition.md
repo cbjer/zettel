@@ -2,9 +2,8 @@
 title: Sign of a Permutation Definition
 permalink: /zettel/202105091804_signPermutationDefinition
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Sign of a Permutation Definition
 
 The **sign** of a [permutation](202105091800_permutationDefinition) $(m_1, \ldots, m_n)$ is defined to be 

@@ -2,9 +2,8 @@
 title: Importance Sampling
 permalink: /zettel/202101102040_importanceSampling
 layout: page
+tags: sampling
 ---
-tags: #sampling
-
 # Importance Sampling
 
 Importance Sampling is a sampling method where we wish to calculate a mean $\mathrm{E}_p[\phi(X)]$ from a target distribution $X \sim p$, but where

@@ -2,9 +2,8 @@
 title: Sample Mean Definition
 permalink: /zettel/202012241544_sampleMeanDefinition
 layout: page
+tags: definition
 ---
-tags: #definition
-
 # Sample Mean Definition
 
 The sample mean is an [estimator](202012241539_estimatorDefinition) for the true mean of $X$, using a 

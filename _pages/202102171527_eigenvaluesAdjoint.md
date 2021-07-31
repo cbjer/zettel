@@ -2,9 +2,8 @@
 title: Eigenvalues of the Adjoint
 permalink: /zettel/202102171527_eigenvaluesAdjoint
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Eigenvalues of the Adjoint
 
 If we want the [eigenvalues](202102120912_eigenvalueDefinition) of the [adjoint](202102161843_adjointDefinition) [operator](202102082104_operatorDefinition):

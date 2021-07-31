@@ -2,9 +2,8 @@
 title: Function Approximators 
 permalink: /zettel/202012052211_rlFunctionApproximators
 layout: page
+tags: value actionvalue
 ---
-tags: #value #actionvalue
-
 # Function Approximators 
 
 Domains with large numbers of states / state-action pairs can no longer be 

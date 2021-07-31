@@ -2,9 +2,8 @@
 title: Self-Adjoint Operators and Invariant Subspaces
 permalink: /zettel/202102191158_selfAdjointInvariantSubspaces
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Self-Adjoint Operators and Invariant Subspaces
 
 If we have $T$ [self-adjoint](202102162040_selfAdjointOperator) and $U$ a [subspace](202102061429_subspaceDefinition) which is 

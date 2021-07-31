@@ -2,9 +2,8 @@
 title: Equivalence of Invertability, Injectivity and Surjectivity for Operators
 permalink: /zettel/202102082108_operatorsInvertableInjectiveSurjective
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Equivalence of Invertability, Injectivity and Surjectivity for Operators
 
 Suppose $V$ is [finite dimensional](202102062028_finiteDimensionalVectorSpace) and $T \in \mathcal{L}(V)$ an [operator](202102082104_operatorDefinition) 

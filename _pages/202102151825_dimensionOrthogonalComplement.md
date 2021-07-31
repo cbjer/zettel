@@ -2,9 +2,8 @@
 title: Dimension of the Orthogonal Complement
 permalink: /zettel/202102151825_dimensionOrthogonalComplement
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Dimension of the Orthogonal Complement
 
 If we want the [dimension](202102062253_dimensionDefinition) of the [orthogonal complement](202102151112_orthogonalComplementDefinition) of $U$,

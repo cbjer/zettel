@@ -2,9 +2,8 @@
 title: Policy Improvement Theorem
 permalink: /zettel/202011292146_policyImprovement
 layout: page
+tags: improvement telescoping
 ---
-tags: #improvement #telescoping
-
 # Policy Improvement Theorem
 
 The policy improvement theorems says that say we have two deterministic [policies](202011242107_rlPolicy) 

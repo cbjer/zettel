@@ -2,9 +2,8 @@
 title: Sum of Eigenspaces is a Direct Sum
 permalink: /zettel/202102141030_sumEigenspacesDirectSum
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Sum of Eigenspaces is a Direct Sum
 
 For finite dimensional $V$ and operator $T$, with $\lambda_1, \ldots, \lambda_m$ being

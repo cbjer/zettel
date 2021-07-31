@@ -2,9 +2,8 @@
 title: Basic Properties of an Inner Product
 permalink: /zettel/202102141711_basicPropertiesInnerProduct
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Basic Properties of an Inner Product
 
 An [inner product](202102141654_innerProductDefinition) has the following properties:

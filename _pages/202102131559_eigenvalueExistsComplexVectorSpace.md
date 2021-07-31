@@ -2,9 +2,8 @@
 title: Existence of an Eigenvalue on a Complex Vector Space
 permalink: /zettel/202102131559_eigenvalueExistsComplexVectorSpace
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Existence of an Eigenvalue on a Complex Vector Space
 
 Every [operator](202102082104_operatorDefinition) on a finite [dimensional](202102062253_dimensionDefinition), non-zero, 

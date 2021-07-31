@@ -2,9 +2,8 @@
 title: Interchanging Two Entries in a Permutation
 permalink: /zettel/202105091816_interchangingTwoEntriesPermutation
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Interchanging Two Entries in a Permutation
 
 Interchanging two entries in a [permutation](202105091800_permutationDefinition) multiplies the 

@@ -2,9 +2,8 @@
 title: Eigenvalues of an Upper Triangular Matrix
 permalink: /zettel/202102131639_eigenvaluesUpperTriangular
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Eigenvalues of an Upper Triangular Matrix
 
 Suppose the [operator](202102082104_operatorDefinition) has an [upper-triangular](202102131604_upperTriangularMatrix) with respect 

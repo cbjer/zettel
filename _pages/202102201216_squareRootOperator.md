@@ -2,9 +2,8 @@
 title: Square Root Operator
 permalink: /zettel/202102201216_squareRootOperator
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Square Root Operator
 
 An [operator](202102082104_operatorDefinition) $R$ is called a **square root** of an operator $T$

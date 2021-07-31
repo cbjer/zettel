@@ -2,9 +2,8 @@
 title: Double Q-Learning
 permalink: /zettel/202011302204_doubleQLearning
 layout: page
+tags: alternate algorithm
 ---
-tags: #alternate #algorithm
-
 # Double Q-Learning
 
 A tweaked version of [Q-Learning](202011302128_qLearning) involving 

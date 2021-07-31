@@ -2,9 +2,8 @@
 title: Linear Regression Model
 permalink: /zettel/202103141139_linearRegressionModel
 layout: page
+tags: machine learning
 ---
-tags: #machine #learning
-
 # Linear Regression Model
 
 For a **Linear Regression Model**, we have the setup of

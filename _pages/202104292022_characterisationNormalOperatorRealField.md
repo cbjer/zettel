@@ -2,9 +2,8 @@
 title: Characterisation of Normal Operators when $\mathbf{F} = \mathbf{R}$
 permalink: /zettel/202104292022_characterisationNormalOperatorRealField
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Characterisation of Normal Operators when $\mathbf{F} = \mathbf{R}$
 
 If we have $V$ a real [inner product space](202102141708_innerProductSpace) and $T$ an operator, then the following 

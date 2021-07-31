@@ -2,9 +2,8 @@
 title: Change of Basis Formula
 permalink: /zettel/202104292126_changeBasisFormula
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Change of Basis Formula
 
 If we have an operator $T$, let $u_1, \ldots, u_n$ and $v_1, \ldots, v_n$ be bases of $V$. Let 

@@ -2,9 +2,8 @@
 title: Markov Process
 permalink: /zettel/202011242218_markovProcess
 layout: page
+tags: markov memoryless \
 ---
-tags: #markov #memoryless \
-
 # Markov Process
 
 A Markov Process is a memoryless random process composing of a set of states $S$ 

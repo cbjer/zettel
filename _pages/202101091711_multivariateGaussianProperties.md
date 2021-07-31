@@ -2,9 +2,8 @@
 title: Multivariate Gaussian Properties
 permalink: /zettel/202101091711_multivariateGaussianProperties
 layout: page
+tags: multivariate normal
 ---
-tags: #multivariate #normal
-
 # Multivariate Gaussian Properties
 
 Some useful properties of [Gaussians](202101091649_multivariateNormalDistribution) which make them

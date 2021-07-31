@@ -2,9 +2,8 @@
 title: Logistic Regression
 permalink: /zettel/202011221613_logisticRegression
 layout: page
+tags: classification linearmodels \
 ---
-tags: #classification #linearmodels \
-
 # Logistic Regression
 
 A very simple binary classification model which composes a regular [linear regression](202011221622_linearRegression) with the [sigmoid function](202011221535_sigmoidFunction) 

@@ -2,9 +2,8 @@
 title: Ridge Regression
 permalink: /zettel/202103281806_ridgeRegression
 layout: page
+tags: 
 ---
-tags: #
-
 # Ridge Regression
 
 **Ridge regression** is a modification on the [linear regression](202011221622_linearRegression) model where instead of

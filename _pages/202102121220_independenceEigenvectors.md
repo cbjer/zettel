@@ -2,9 +2,8 @@
 title: Linearly Independent Eigenvectors
 permalink: /zettel/202102121220_independenceEigenvectors
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Linearly Independent Eigenvectors
 
 If we have a [operator](202102082104_operatorDefinition) $T$ with **distinct** [eigenvalues](202102120912_eigenvalueDefinition) 

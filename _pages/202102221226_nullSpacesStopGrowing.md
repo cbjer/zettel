@@ -2,9 +2,8 @@
 title: Null Spaces Stop Growing
 permalink: /zettel/202102221226_nullSpacesStopGrowing
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Null Spaces Stop Growing
 
 If we have an [operator](202102082104_operatorDefinition) $T$ and $n = \textrm{dim} \, V$ is the [dimension](202102062253_dimensionDefinition)

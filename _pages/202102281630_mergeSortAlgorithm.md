@@ -2,9 +2,8 @@
 title: Merge Sort Algorithm
 permalink: /zettel/202102281630_mergeSortAlgorithm
 layout: page
+tags: 
 ---
-tags: #
-
 # Merge Sort Algorithm
 
 **Merge Sort** is a [sorting algorithm](202102281308_sortingAlgorithms) which sorts an unordered array

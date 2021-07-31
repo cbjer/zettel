@@ -2,9 +2,8 @@
 title: Transformation Sampling Technique
 permalink: /zettel/202101101211_transformationSamplingTechnique
 layout: page
+tags: sampling
 ---
-tags: #sampling
-
 # Transformation Sampling Technique
 
 Technique simply says that we can simulate from a random variable $Y$ if we can find a function

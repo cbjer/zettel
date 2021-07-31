@@ -2,9 +2,8 @@
 title: Characteristic Polynomial, Trace and Determinant
 permalink: /zettel/202105091743_characteristicPolynomialTraceDeterminant
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Characteristic Polynomial, Trace and Determinant
 
 We can write the [characteristic polynomial](202104241811_characteristicPolynomialDefinition) as 

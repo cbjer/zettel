@@ -2,9 +2,8 @@
 title: Vector as a Linear Combination of an Orthonormal Basis
 permalink: /zettel/202102142128_linearCombinationOrthonomalBasis
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Vector as a Linear Combination of an Orthonormal Basis
 
 Suppose $e_1, \ldots, e_n$ is an [orthonormal basis](202102142105_orthonormalBasisDefinition) of $V$ and $v \in V$ then

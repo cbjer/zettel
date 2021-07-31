@@ -2,9 +2,8 @@
 title: Cayley-Hamilton Theorem for Real Operator
 permalink: /zettel/202104262203_cayleyHamiltonRealOperator
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Cayley-Hamilton Theorem for Real Operator
 
 

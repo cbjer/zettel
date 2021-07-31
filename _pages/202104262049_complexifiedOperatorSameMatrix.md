@@ -2,9 +2,8 @@
 title: Complexified Operator has Same Matrix
 permalink: /zettel/202104262049_complexifiedOperatorSameMatrix
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Complexified Operator has Same Matrix
 
 If we have a [complexified operator](202104251532_complexificationOperator) $T_C$ and a basis $v_1, \ldots, v_n$ for the

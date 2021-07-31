@@ -2,9 +2,8 @@
 title: Eigenvalue Definition
 permalink: /zettel/202102120912_eigenvalueDefinition
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Eigenvalue Definition
 
 If we have [operator](202102082104_operatorDefinition) $T \in \mathcal{L}(V)$, then we say that the number

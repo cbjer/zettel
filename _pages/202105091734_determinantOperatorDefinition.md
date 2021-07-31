@@ -2,9 +2,8 @@
 title: Determinant of an Operator Definition
 permalink: /zettel/202105091734_determinantOperatorDefinition
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Determinant of an Operator Definition
 
 If we have an operator $T$, we define the **determinant** of $T$, $\mathrm{det} \, T$ as:

@@ -2,9 +2,8 @@
 title: Basic Properties of the Adjoint
 permalink: /zettel/202102162010_propertiesOfAdjoint
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Basic Properties of the Adjoint
 
 The [adjoint](202102161843_adjointDefinition) has the following properties:

@@ -2,9 +2,8 @@
 title: Trace and Characteristic Polynomial
 permalink: /zettel/202104292134_traceCharacteristicPolynomial
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Trace and Characteristic Polynomial
 
 Suppose operator $T$ and $n = \mathrm{dim} \, V$, then the [trace](202104292131_traceOperatorDefinition) equals the negative

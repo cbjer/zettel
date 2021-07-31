@@ -2,9 +2,8 @@
 title: Equivalences of Positive Operators
 permalink: /zettel/202102201218_equivalencesPositiveOperator
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Equivalences of Positive Operators
 
 If we have [operator](202102082104_operatorDefinition) $T$, then the following are equivalent:

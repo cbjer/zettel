@@ -2,9 +2,8 @@
 title: Episodic Semi-Gradient Sarsa
 permalink: /zettel/202012052205_episodicSemiGradientSarsa
 layout: page
+tags: terminal discounting
 ---
-tags: #terminal #discounting
-
 # Episodic Semi-Gradient Sarsa
 
 A [control method](TODOs) used for episodic tasks with [function approximators](202012052211_rlFunctionApproximators).

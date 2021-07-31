@@ -2,9 +2,8 @@
 title: Determinant of a Matrix
 permalink: /zettel/202105091818_determinantMatrix
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Determinant of a Matrix
 
 If we have a n-by-n matrix:

@@ -2,9 +2,8 @@
 title: Monic Polynomial Definition
 permalink: /zettel/202104241842_monicPolynomialDefinition
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Monic Polynomial Definition
 
 A **monic polynomial** is a polynomial whose highest degree coefficient equals 1.

@@ -2,9 +2,8 @@
 title: Permutation Definition
 permalink: /zettel/202105091800_permutationDefinition
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Permutation Definition
 
 A **permutation** of $(1, \ldots, n)$ is a list $(m_1, \ldots, m_n)$ that contains each of the numbers

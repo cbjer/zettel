@@ -2,9 +2,8 @@
 title: Multiplicity Definition of an Eigenvalue
 permalink: /zettel/202104241520_multiplictyDefinitionEigenvalue
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Multiplicity Definition of an Eigenvalue
 
 If we have an operator $T$, then the **multiplicity** of an [eigenvalue](202102120912_eigenvalueDefinition) 

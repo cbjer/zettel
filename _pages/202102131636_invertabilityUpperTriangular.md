@@ -2,9 +2,8 @@
 title: Invertability of Upper Triangular Matrix 
 permalink: /zettel/202102131636_invertabilityUpperTriangular
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Invertability of Upper Triangular Matrix 
 
 If the [operator](202102082104_operatorDefinition) $T$ has an [upper-triangular](202102131604_upperTriangularMatrix) matrix 

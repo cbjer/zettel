@@ -2,9 +2,8 @@
 title: Basis of Generalised Eigenvectors
 permalink: /zettel/202104241516_basisGeneralisedEigenvectors
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Basis of Generalised Eigenvectors
 
 If we have a complex vector space $V$ with [operator](202102082104_operatorDefinition) $T$, then there is 

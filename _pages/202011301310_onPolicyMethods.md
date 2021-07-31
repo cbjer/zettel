@@ -2,9 +2,8 @@
 title: On-Policy Methods
 permalink: /zettel/202011301310_onPolicyMethods
 layout: page
+tags: control
 ---
-tags: #control
-
 # On-Policy Methods
 
 On-Policy methods are those in which the policy $\pi$ which is being evaluated or improved is also the policy 

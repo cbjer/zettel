@@ -2,9 +2,8 @@
 title: Trace of an Operator Equals Trace of its Matrix
 permalink: /zettel/202104292144_traceOperatorEqualsTraceMatrix
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Trace of an Operator Equals Trace of its Matrix
 
 If we have an operator $T$, then $\mathrm{trace} \, T = \mathrm{trace} \, \mathcal{M} (T)$.

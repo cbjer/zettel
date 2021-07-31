@@ -2,9 +2,8 @@
 title: Sum of Subsets Definition
 permalink: /zettel/202102061453_sumOfSubsetsDefinition
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Sum of Subsets Definition
 
 The sum of subsets of $V$ denoted $U_1 + \ldots + U_m$ is the set of all possible sums of elements in $U_1, \ldots U_m$.

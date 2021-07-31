@@ -2,9 +2,8 @@
 title: Linearly Dependent Definition
 permalink: /zettel/202102062038_linearlyDependentDefinition
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Linearly Dependent Definition
 
 A list of vectors is linearly dependent if it is not [linearly independent](202102062030_linearlyIndependentDefinition).

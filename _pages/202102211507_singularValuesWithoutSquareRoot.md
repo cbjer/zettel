@@ -2,9 +2,8 @@
 title: Singular Values without taking Square Root of Operator
 permalink: /zettel/202102211507_singularValuesWithoutSquareRoot
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Singular Values without taking Square Root of Operator
 
 If we have an [operator](202102082104_operatorDefinition) $T$, then the [singular values](202102201841_singularValuesDefinition) are the 

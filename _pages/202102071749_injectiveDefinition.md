@@ -2,9 +2,8 @@
 title: Injective Definition
 permalink: /zettel/202102071749_injectiveDefinition
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Injective Definition
 
 A [linear map](202102071416_linearMapDefinition) is called **injective** if distinct inputs map to 

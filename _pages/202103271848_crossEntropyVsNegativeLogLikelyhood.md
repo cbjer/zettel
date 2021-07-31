@@ -2,9 +2,8 @@
 title: Cross Entropy vs Negative Log-likelyhood
 permalink: /zettel/202103271848_crossEntropyVsNegativeLogLikelyhood
 layout: page
+tags: loss
 ---
-tags: #loss
-
 # Cross Entropy vs Negative Log-likelyhood
 
 If we have a multi-class classification problem, we can think of our model $\hat{f}$ as outputting a vector

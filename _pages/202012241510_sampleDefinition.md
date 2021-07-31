@@ -2,9 +2,8 @@
 title: Random Sample Definition
 permalink: /zettel/202012241510_sampleDefinition
 layout: page
+tags: definition statistics
 ---
-tags: #definition #statistics
-
 # Random Sample Definition
 
 A random sample is a collection of $n$ random variables \{ $X_1, X_2, \dots, X_n$ \} which are [independent](202012241408_independence)

@@ -2,9 +2,8 @@
 title: REINFORCE Algorithm
 permalink: /zettel/202012121511_reinforceAlgorithm
 layout: page
+tags: gradient
 ---
-tags: #gradient
-
 # REINFORCE Algorithm
 
 The REINFORCE Algorithm is a [policy gradient method](202012141139_policyGradientMethods) 

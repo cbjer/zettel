@@ -2,9 +2,8 @@
 title: Vector Space Definition
 permalink: /zettel/202102061359_vectorSpaceDefinition
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Vector Space Definition
 
 A vector space is a set $V$ along with a addition on $V$ and a scalar multiplication on $V$ such that

@@ -2,9 +2,8 @@
 title: Sum of Independent Normals is Normal
 permalink: /zettel/202101091512_sumIndependentNormalsNormal
 layout: page
+tags: identity mgfs
 ---
-tags: #identity #mgfs
-
 # Sum of Independent Normals is Normal
 
 Identity that a sum of [independent](202012241408_independence) normals is also normal. Specifically if 

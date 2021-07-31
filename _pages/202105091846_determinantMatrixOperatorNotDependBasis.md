@@ -2,9 +2,8 @@
 title: Determinant of Matrix of Operator does not depend on Basis
 permalink: /zettel/202105091846_determinantMatrixOperatorNotDependBasis
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Determinant of Matrix of Operator does not depend on Basis
 
 If we have $u_1, \ldots, u_n$ and $v_1, \ldots, v_n$ as [bases](202102062154_basisDefinition) of $V$, then

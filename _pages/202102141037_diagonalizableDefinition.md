@@ -2,9 +2,8 @@
 title: Diagonalizable Definition
 permalink: /zettel/202102141037_diagonalizableDefinition
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Diagonalizable Definition
 
 An operator $T$ is called **diagonalizable** if the operator has a diagonal matrix [with respect to some basis](202102072233_matrixLinearMap)

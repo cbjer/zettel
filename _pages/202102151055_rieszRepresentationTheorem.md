@@ -2,9 +2,8 @@
 title: Riesz Representation Theorem
 permalink: /zettel/202102151055_rieszRepresentationTheorem
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Riesz Representation Theorem
 
 **Riesz Representation Theorem** says that if we have a finite dimensional space $V$ with a 

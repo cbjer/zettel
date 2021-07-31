@@ -2,9 +2,8 @@
 title: Isometries have Determinant with Absolute Value 1
 permalink: /zettel/202105091902_isometriesDeterminant
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Isometries have Determinant with Absolute Value 1
 
 If we have an [inner product space](202102141708_innerProductSpace) and $S$ is an [isometry](202102201248_isometryDefinition), then

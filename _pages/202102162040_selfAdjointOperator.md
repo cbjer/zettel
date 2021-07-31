@@ -2,9 +2,8 @@
 title: Self Adjoint Operator
 permalink: /zettel/202102162040_selfAdjointOperator
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Self Adjoint Operator
 
 If we have an [operator](202102082104_operatorDefinition) $T \in \mathcal{L}(V)$, we call it **self-adjoint** 

@@ -2,9 +2,8 @@
 title: Equivalences for Eigenvalue
 permalink: /zettel/202102120920_equivalencesEigenvalue
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Equivalences for Eigenvalue
 
 For an [operator](202102082104_operatorDefinition) $T \in \mathcal{L}(V)$ and $\lambda \in \mathbf{F}$, then the following are

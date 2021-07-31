@@ -2,9 +2,8 @@
 title: Determinant is Multiplicative
 permalink: /zettel/202105091843_determinantMultiplicative
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Determinant is Multiplicative
 
 If we have square matrices of the same size, then 

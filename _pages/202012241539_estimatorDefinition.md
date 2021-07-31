@@ -2,9 +2,8 @@
 title: Estimator Definition
 permalink: /zettel/202012241539_estimatorDefinition
 layout: page
+tags: definition  statistics
 ---
-tags: #definition # statistics
-
 # Estimator Definition
 
 An estimator is a function of a [random sample](202012241510_sampleDefinition) which is used to used 

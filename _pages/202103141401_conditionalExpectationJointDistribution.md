@@ -2,9 +2,8 @@
 title: Conditional Expectation Expression for a Joint Distribution
 permalink: /zettel/202103141401_conditionalExpectationJointDistribution
 layout: page
+tags: 
 ---
-tags: #
-
 # Conditional Expectation Expression for a Joint Distribution
 
 Say we have a function of two random variables $g(X, Y)$, we have the expression

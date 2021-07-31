@@ -2,9 +2,8 @@
 title: Parallelogram Equality
 permalink: /zettel/202102141750_parallelogramEquality
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Parallelogram Equality
 
 $$

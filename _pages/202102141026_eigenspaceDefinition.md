@@ -2,9 +2,8 @@
 title: Eigenspace Definition
 permalink: /zettel/202102141026_eigenspaceDefinition
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Eigenspace Definition
 
 For operator $T$ and scalar $\lambda$, the **eigenspace** of $T$ corresponding to $\lambda$ is defined as

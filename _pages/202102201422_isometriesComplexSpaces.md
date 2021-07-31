@@ -2,9 +2,8 @@
 title: Isometries for Complex Spaces
 permalink: /zettel/202102201422_isometriesComplexSpaces
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Isometries for Complex Spaces
 
 If we have $V$ as a complex [inner product space](202102141708_innerProductSpace) and $S \in \mathcal{L}(V)$, then the following 

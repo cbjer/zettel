@@ -2,8 +2,8 @@
 title: Inserting HTML Image
 permalink: /zettel/templateHTML
 layout: page
----
 
+---
 # Inserting HTML Image
 <center><img src="URL"
      alt="ALT"

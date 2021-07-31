@@ -2,9 +2,8 @@
 title: Basic Properties of the Orthogonal Complement
 permalink: /zettel/202102151808_propertiesOrthogonalComplement
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Basic Properties of the Orthogonal Complement
 
 The [orthogonal complement](202102151112_orthogonalComplementDefinition) has the following properties:

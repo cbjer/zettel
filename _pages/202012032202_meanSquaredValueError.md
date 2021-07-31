@@ -2,9 +2,8 @@
 title: Mean Squared Value Error
 permalink: /zettel/202012032202_meanSquaredValueError
 layout: page
+tags: error update loss
 ---
-tags: #error #update #loss
-
 # Mean Squared Value Error
 
 Using functional approximations for reinforcement learning, the mean squared value error 

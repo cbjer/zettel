@@ -2,9 +2,8 @@
 title: Cauchy-Schwarz Inequality
 permalink: /zettel/202102141737_cauchySchwarzInequality
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Cauchy-Schwarz Inequality
 
 For $u, v \in V$ we have

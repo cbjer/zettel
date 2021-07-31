@@ -2,9 +2,8 @@
 title: Off-Policy n-step Sarsa
 permalink: /zettel/202011302245_offPolicynstepSarsa
 layout: page
+tags: offpolicy
 ---
-tags: #offpolicy
-
 # Off-Policy n-step Sarsa
 
 []

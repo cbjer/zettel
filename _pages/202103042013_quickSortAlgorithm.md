@@ -2,9 +2,8 @@
 title: Quicksort Algorithm
 permalink: /zettel/202103042013_quickSortAlgorithm
 layout: page
+tags: 
 ---
-tags: #
-
 # Quicksort Algorithm
 
 The **quicksort algorithm** is a [sorting algorithm](202102281308_sortingAlgorithms) for an unordered array 

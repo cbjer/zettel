@@ -2,9 +2,8 @@
 title: Variance Definition
 permalink: /zettel/202012241415_varianceDefinition
 layout: page
+tags: definition
 ---
-tags: #definition
-
 # Variance Definition
 
 Variance is a measure of spread of a random variable. We can think of it as a distance measure showing

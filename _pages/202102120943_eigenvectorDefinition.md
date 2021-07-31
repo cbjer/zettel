@@ -2,9 +2,8 @@
 title: Eigenvector Definition
 permalink: /zettel/202102120943_eigenvectorDefinition
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Eigenvector Definition
 
 If we have a [operator](202102082104_operatorDefinition) $T \in \mathcal{L}(V)$ with an [eigenvalue](202102120912_eigenvalueDefinition) 

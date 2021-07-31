@@ -2,9 +2,8 @@
 title: Double Deep Q-Learning
 permalink: /zettel/202012202147_doubleDeepQLearning
 layout: page
+tags: maximisation implementation
 ---
-tags: #maximisation #implementation
-
 # Double Deep Q-Learning
 
 Modification to the standard [Deep Q-Learning](202012202112_implementingDeepQLearning) algorithm which 

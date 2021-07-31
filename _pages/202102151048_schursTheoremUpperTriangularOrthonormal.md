@@ -2,9 +2,8 @@
 title: Schur's Theorem and Upper Triangular Matrix with Orthonormal Basis
 permalink: /zettel/202102151048_schursTheoremUpperTriangularOrthonormal
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Schur's Theorem and Upper Triangular Matrix with Orthonormal Basis
 
 If we have an [upper triangular](202102131604_upperTriangularMatrix) with respect to some 

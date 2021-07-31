@@ -2,9 +2,8 @@
 title: Monte Carlo Estimator
 permalink: /zettel/202101091835_monteCarloEstimator
 layout: page
+tags: definition sampling
 ---
-tags: #definition #sampling
-
 # Monte Carlo Estimator
 
 Say we have a random variable $X$ with probability mass function / probability density function $f_{X}(x)$ and we want to 

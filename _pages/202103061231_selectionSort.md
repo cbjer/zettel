@@ -2,9 +2,8 @@
 title: Selection Sort Algorithm
 permalink: /zettel/202103061231_selectionSort
 layout: page
+tags: 
 ---
-tags: #
-
 # Selection Sort Algorithm
 
 The **selection sort** algorithm is used to order an unordered array of numbers.

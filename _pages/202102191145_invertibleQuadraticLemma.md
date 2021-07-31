@@ -2,9 +2,8 @@
 title: Invertible Quadratic Lemma
 permalink: /zettel/202102191145_invertibleQuadraticLemma
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Invertible Quadratic Lemma
 
 If we have an [operator](202102082104_operatorDefinition) $T$ which is [self-adjoint](202102162040_selfAdjointOperator),

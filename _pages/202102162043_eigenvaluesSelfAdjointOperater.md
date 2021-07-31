@@ -2,9 +2,8 @@
 title: Eigenvalues of Self-Adjoint Operator
 permalink: /zettel/202102162043_eigenvaluesSelfAdjointOperater
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Eigenvalues of Self-Adjoint Operator
 
 The [eigenvalues](202102120912_eigenvalueDefinition) of a [self-adjoint](202102162040_selfAdjointOperator) [operator](202102082104_operatorDefinition)

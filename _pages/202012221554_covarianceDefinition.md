@@ -2,9 +2,8 @@
 title: Covariance Definition
 permalink: /zettel/202012221554_covarianceDefinition
 layout: page
+tags: definition
 ---
-tags: #definition
-
 # Covariance Definition
 
 Covariance describes the joint variability of two random variables. We can think of it as when one

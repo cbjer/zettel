@@ -2,9 +2,8 @@
 title: Episodic Semi-Gradient n-step Sarsa
 permalink: /zettel/202012052243_episodicSemiGradientnStepSarsa
 layout: page
+tags: terminal discounting nstep
 ---
-tags: #terminal #discounting #nstep
-
 # Episodic Semi-Gradient n-step Sarsa
 
 The [n-step](202011302230_nstepReturn) of [episodic semi-gradient n-step Sarsa](202012052205_episodicSemiGradientSarsa), 

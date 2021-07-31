@@ -2,9 +2,8 @@
 title: Mental Multiplication with Bases Trick
 permalink: /zettel/202101241550_mentalMultiplicationUsingBases
 layout: page
+tags: mental maths interview
 ---
-tags: #mental #maths #interview
-
 # Mental Multiplication with Bases Trick
 
 Say we are trying to multiply two numbers together $x$ and $y$.

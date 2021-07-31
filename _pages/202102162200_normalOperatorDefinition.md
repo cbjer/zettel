@@ -2,9 +2,8 @@
 title: Normal Operator Definition
 permalink: /zettel/202102162200_normalOperatorDefinition
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Normal Operator Definition
 
 An [operator](202102082104_operatorDefinition) on an [inner product space](202102141708_innerProductSpace) is called **normal** 

@@ -2,9 +2,8 @@
 title: Definition of Conditional Probability
 permalink: /zettel/202012221446_definitionConditionalProbability
 layout: page
+tags: bayes
 ---
-tags: #bayes
-
 # Definition of Conditional Probability
 
 The definition of conditional probability. It says what is the probability of event A

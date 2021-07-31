@@ -2,9 +2,8 @@
 title: Linearly Independent Definition
 permalink: /zettel/202102062030_linearlyIndependentDefinition
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Linearly Independent Definition
 
 A list of vectors $v_1, \ldots, v_m$ is **linearly independent** if the only choice of values for

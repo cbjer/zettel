@@ -2,9 +2,8 @@
 title: Bias-Variance Tradeoff Derivation
 permalink: /zettel/202103281546_biasVarianceTradeoffDerivation
 layout: page
+tags: 
 ---
-tags: #
-
 # Bias-Variance Tradeoff Derivation
 
 Assume we have the data arise from a model

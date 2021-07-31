@@ -2,9 +2,8 @@
 title: Policy Gradient Methods
 permalink: /zettel/202012141139_policyGradientMethods
 layout: page
+tags: control direct
 ---
-tags: #control #direct
-
 # Policy Gradient Methods
 
 Policy Gradient Methods are a class of methods which directly learn 

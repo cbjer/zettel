@@ -2,9 +2,8 @@
 title: Bayesian Inference
 permalink: /zettel/202101161711_bayesianInference
 layout: page
+tags: bayes
 ---
-tags: #bayes
-
 # Bayesian Inference
 
 In Bayesian Inference we treat probabilities as a subjective degree of belief, rather than as a long run frequency (Frequentist).

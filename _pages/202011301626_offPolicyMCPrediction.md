@@ -2,9 +2,8 @@
 title: Off-Policy Monte Carlo Prediction
 permalink: /zettel/202011301626_offPolicyMCPrediction
 layout: page
+tags: evaluation target importance
 ---
-tags: #evaluation #target #importance
-
 # Off-Policy Monte Carlo Prediction
 
 [Off-policy method](202011301312_offPolicyMethods) used for policy evaluation, where we aim to find the action-value function for 

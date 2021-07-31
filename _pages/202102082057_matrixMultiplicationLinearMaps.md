@@ -2,9 +2,8 @@
 title: Matrix Multiplication and Linear Maps
 permalink: /zettel/202102082057_matrixMultiplicationLinearMaps
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Matrix Multiplication and Linear Maps
 
 Suppose we have a [linear map](202102071416_linearMapDefinition) $T \in \mathcal{L}(V,W)$ and a vector $v \in V$, then 

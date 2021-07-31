@@ -2,9 +2,8 @@
 title: Jordan Basis Definition
 permalink: /zettel/202104251012_jordanBasisDefinition
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Jordan Basis Definition
 
 Suppose have operator $T$. A [basis](202102072233_matrixLinearMap) of $V$ is called a 

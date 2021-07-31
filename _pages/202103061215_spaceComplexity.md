@@ -2,9 +2,8 @@
 title: Space Complexity
 permalink: /zettel/202103061215_spaceComplexity
 layout: page
+tags: 
 ---
-tags: #
-
 # Space Complexity
 
 Space Complexity is a measure of how much working storage / memory an algorithm needs as a function 

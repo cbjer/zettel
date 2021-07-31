@@ -2,9 +2,8 @@
 title: Tabular TD(0)
 permalink: /zettel/202011302050_tabularTDZero
 layout: page
+tags: bootstrap temporaldifference prediction
 ---
-tags: #bootstrap #temporaldifference #prediction
-
 # Tabular TD(0)
 
 Tabular TD(0) is a method of [prediction](TODOs) for estimating $v_{\pi}$ for a given [policy](202011242107_rlPolicy) 

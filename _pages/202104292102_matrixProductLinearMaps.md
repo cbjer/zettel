@@ -2,9 +2,8 @@
 title: The Matrix of the Product of Linear Maps
 permalink: /zettel/202104292102_matrixProductLinearMaps
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # The Matrix of the Product of Linear Maps
 
 If we have $u_1, \ldots, u_n$ and $v_1, \ldots, v_n$ and $w_1, \ldots, w_n$ are all bases of $V$. Then if we have

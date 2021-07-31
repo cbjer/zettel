@@ -2,9 +2,8 @@
 title: Addition and Scalar Multiplication for Linear Maps
 permalink: /zettel/202102071429_additionScalarMultiplicationScalarMaps
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Addition and Scalar Multiplication for Linear Maps
 
 We define for [linear maps](202102071416_linearMapDefinition) $S, T \in \mathcal{L}(V, W)$ and $\lambda \in \mathcal{F}$ the sum and scalar product

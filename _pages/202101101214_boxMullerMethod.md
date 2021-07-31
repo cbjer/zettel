@@ -2,9 +2,8 @@
 title: Box-Muller Method
 permalink: /zettel/202101101214_boxMullerMethod
 layout: page
+tags: normal sampling
 ---
-tags: #normal #sampling
-
 # Box-Muller Method
 
 The Box-Muller Method is a form of [transformation sampling](202101101211_transformationSamplingTechnique) used to sample from a standard 

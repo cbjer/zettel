@@ -2,9 +2,8 @@
 title: Expressing State-Action Value function in terms of State value function
 permalink: /zettel/202011262125_stateActionTostatevalue
 layout: page
+tags: recursive expectation
 ---
-tags: #recursive #expectation
-
 # Expressing State-Action Value function in terms of State value function
 
 We can express the [state-action value function](202011221903_actionValueFunction) $q_{\pi}(s, a)$ in terms of the [state value function](202011221845_valueFunctions) 

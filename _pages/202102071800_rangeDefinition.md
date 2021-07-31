@@ -2,9 +2,8 @@
 title: Range Definition
 permalink: /zettel/202102071800_rangeDefinition
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Range Definition
 
 For a [linear map](202102071416_linearMapDefinition) $T : V \rightarrow W$, the **range** of $T$ is the subset of $W$ 

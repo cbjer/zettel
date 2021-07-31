@@ -2,9 +2,8 @@
 title: Dimension of Subspace Result
 permalink: /zettel/202102062257_dimensionSubspaceResult
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Dimension of Subspace Result
 
 If $V$ is a [finite dimensional vector space](202102062028_finiteDimensionalVectorSpace) and $U$ is a [subspace](202102061429_subspaceDefinition) 

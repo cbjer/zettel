@@ -2,9 +2,8 @@
 title: Linear Dependence Lemma
 permalink: /zettel/202102062047_linearDependenceLemma
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Linear Dependence Lemma
 
 If we have a [linearly dependent](202102062038_linearlyDependentDefinition) list in V then there exists

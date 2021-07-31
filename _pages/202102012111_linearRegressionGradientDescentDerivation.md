@@ -2,9 +2,8 @@
 title: Gradient Descent for Linear Regression Derivation
 permalink: /zettel/202102012111_linearRegressionGradientDescentDerivation
 layout: page
+tags: derivation
 ---
-tags: #derivation
-
 # Gradient Descent for Linear Regression Derivation
 
 Using a [Linear Regression Model](202103141139_linearRegressionModel) and the 

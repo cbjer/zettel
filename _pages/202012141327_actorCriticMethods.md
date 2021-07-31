@@ -2,9 +2,8 @@
 title: Actor-Critic Methods
 permalink: /zettel/202012141327_actorCriticMethods
 layout: page
+tags: control simultaneous
 ---
-tags: #control #simultaneous
-
 # Actor-Critic Methods
 
 In Actor-Critic methods we have two components. A Critic which is estimating the value of a 

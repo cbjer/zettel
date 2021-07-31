@@ -2,9 +2,8 @@
 title: Gram-Schmidt Procedure
 permalink: /zettel/202102142133_gramSchmidtProcedure
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Gram-Schmidt Procedure
 
 The **Gram-Schmidt Procedure** is a iterative process to form an [orthonormal](202102142052_orthonormalDefinition) list 

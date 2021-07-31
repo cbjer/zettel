@@ -2,9 +2,8 @@
 title: Policy Gradient Theorem
 permalink: /zettel/202012141215_policyGradientTheorem
 layout: page
+tags: gradient
 ---
-tags: #gradient
-
 # Policy Gradient Theorem
 
 The policy gradient theorem gives us a way to evaluate the gradient

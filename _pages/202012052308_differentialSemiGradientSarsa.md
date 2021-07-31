@@ -2,9 +2,8 @@
 title: Differential semi-gradient Sarsa
 permalink: /zettel/202012052308_differentialSemiGradientSarsa
 layout: page
+tags: averagereturn control
 ---
-tags: #averagereturn #control
-
 # Differential semi-gradient Sarsa
 
 Using the [average return formulation](TODOs)

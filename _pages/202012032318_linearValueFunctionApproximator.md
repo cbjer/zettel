@@ -2,9 +2,8 @@
 title: Linear Value Function Approximator
 permalink: /zettel/202012032318_linearValueFunctionApproximator
 layout: page
+tags: simple approximation
 ---
-tags: #simple #approximation
-
 # Linear Value Function Approximator
 
 A very simple case of [value function approximation](TODOs) is that of using a linear function.

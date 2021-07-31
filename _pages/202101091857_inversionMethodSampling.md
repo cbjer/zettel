@@ -2,9 +2,8 @@
 title: Inversion Method Sampling
 permalink: /zettel/202101091857_inversionMethodSampling
 layout: page
+tags: sampling pmf
 ---
-tags: #sampling #pmf
-
 # Inversion Method Sampling
 
 The inversion method is a sampling method used to generate [i.i.d](202012241510_sampleDefinition) samples for a given

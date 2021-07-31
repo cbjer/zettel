@@ -2,9 +2,8 @@
 title: Invertible Operators on a Complex Space have a Square Root
 permalink: /zettel/202104241601_invertibleOperatorsComplexSpaceSquareRoot
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Invertible Operators on a Complex Space have a Square Root
 
 If we have complex space $V$ and $T$ an [invertible](202102081851_invertibleMap) operator, then 

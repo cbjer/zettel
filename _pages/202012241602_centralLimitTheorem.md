@@ -2,9 +2,8 @@
 title: Central Limit Theorem
 permalink: /zettel/202012241602_centralLimitTheorem
 layout: page
+tags: theorem  statistics
 ---
-tags: #theorem # statistics
-
 # Central Limit Theorem
 
 The central limit theorem intuitively states that if we have a large enough sample, then the [sample mean estimator](202012241544_sampleMeanDefinition) $\bar{X}$

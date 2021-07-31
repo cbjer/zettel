@@ -2,9 +2,8 @@
 title: Linearly Independent Generalized Eigenvectors
 permalink: /zettel/202102221253_linearlyIndependentGeneralizedEigenvectors
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Linearly Independent Generalized Eigenvectors
 
 If we have $\lambda_1, \ldots, \lambda_m$ as **distinct** [eigenvalues](202102120912_eigenvalueDefinition) of $T$ and 

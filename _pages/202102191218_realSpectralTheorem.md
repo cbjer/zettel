@@ -2,9 +2,8 @@
 title: Real Spectral Theorem
 permalink: /zettel/202102191218_realSpectralTheorem
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Real Spectral Theorem
 
 If we have $\mathbf{F} = \mathbf{R}$, and [operator](202102082104_operatorDefinition) $T$, then the following are

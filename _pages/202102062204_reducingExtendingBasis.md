@@ -2,9 +2,8 @@
 title: Reducing or Extending to a Basis
 permalink: /zettel/202102062204_reducingExtendingBasis
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Reducing or Extending to a Basis
 
 - Every [spanning](202102062022_spanDefinition) list of vectors can be reduced to a [basis](202102062154_basisDefinition) of the vector space

@@ -2,9 +2,8 @@
 title: Positive Definite Matrix
 permalink: /zettel/202101091703_positiveDefiniteMatrix
 layout: page
+tags: linear algebra definition
 ---
-tags: #linear #algebra #definition
-
 # Positive Definite Matrix
 
 A **positive definite matrix** is a symmetric matrix $M$ which has the property that for all non-zero $y$,

@@ -2,9 +2,8 @@
 title: Injectivity and the Null Space
 permalink: /zettel/202102071751_injectivityNullSpace
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Injectivity and the Null Space
 
 Say $T$ is a [linear map](202102071416_linearMapDefinition), then $T$ is [injective](202102071749_injectiveDefinition) if and 

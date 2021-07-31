@@ -2,9 +2,8 @@
 title: Forward-view vs Backward-view
 permalink: /zettel/202012061733_forwardViewVsBackwardView
 layout: page
+tags: lambda traces
 ---
-tags: #lambda #traces
-
 # Forward-view vs Backward-view
 
 This terminology is used when discussing implementation of non 1-step returns, eg [n-step returns](202011302230_nstepReturn) 

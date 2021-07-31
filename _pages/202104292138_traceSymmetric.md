@@ -2,9 +2,8 @@
 title: Trace is Symmetric
 permalink: /zettel/202104292138_traceSymmetric
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Trace is Symmetric
 
 If we have square matrices $A$ and $B$ of the same size, then

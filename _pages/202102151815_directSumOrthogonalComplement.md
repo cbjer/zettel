@@ -2,9 +2,8 @@
 title: Direct Sum of Subspace with Orthogonal Complement
 permalink: /zettel/202102151815_directSumOrthogonalComplement
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Direct Sum of Subspace with Orthogonal Complement
 
 If we have $U$ as a finite dimensional [subspace](202102061429_subspaceDefinition) of $V$ then

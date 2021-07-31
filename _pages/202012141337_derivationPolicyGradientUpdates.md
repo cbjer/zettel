@@ -2,9 +2,8 @@
 title: Derivation of Policy Gradient Updates
 permalink: /zettel/202012141337_derivationPolicyGradientUpdates
 layout: page
+tags: update expectation
 ---
-tags: #update #expectation
-
 # Derivation of Policy Gradient Updates
 
 Substituting in the result of the [policy gradient theorem](202012141215_policyGradientTheorem) into 

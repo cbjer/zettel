@@ -2,9 +2,8 @@
 title: Elastic Net Model
 permalink: /zettel/202103281827_elasticNetModel
 layout: page
+tags: model
 ---
-tags: #model
-
 # Elastic Net Model
 
 The **Elastic net model** is a hybrid model between [ridge regression](202103281806_ridgeRegression) and [lasso regression](202103281817_lassoRegression). 

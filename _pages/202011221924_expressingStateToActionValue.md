@@ -2,9 +2,8 @@
 title: Expressing State Value Function in terms of State-Action Value Function 
 permalink: /zettel/202011221924_expressingStateToActionValue
 layout: page
+tags: valuefunction actionvaluefunction \
 ---
-tags: #valuefunction #actionvaluefunction \
-
 # Expressing State Value Function in terms of State-Action Value Function 
 
 We can express the [state-value function](202011221845_valueFunctions) $V_{\pi}(s)$ in terms of the [state-action value function](202011221903_actionValueFunction) 

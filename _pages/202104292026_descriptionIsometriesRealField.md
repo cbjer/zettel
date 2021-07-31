@@ -2,9 +2,8 @@
 title: Description of Isometries when $\mathbf{F} = \mathbf{R}$
 permalink: /zettel/202104292026_descriptionIsometriesRealField
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Description of Isometries when $\mathbf{F} = \mathbf{R}$
 
 If we have $V$ a real [inner product space](202102141708_innerProductSpace) and $S$ an operator, then the 

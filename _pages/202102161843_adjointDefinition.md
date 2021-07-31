@@ -2,9 +2,8 @@
 title: Adjoint Definition
 permalink: /zettel/202102161843_adjointDefinition
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Adjoint Definition
 
 Suppose $T \in \mathcal{L}(V,W)$ is a [linear map](202102071416_linearMapDefinition), then the **adjoint**

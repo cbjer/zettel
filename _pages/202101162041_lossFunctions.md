@@ -2,9 +2,8 @@
 title: Loss Functions
 permalink: /zettel/202101162041_lossFunctions
 layout: page
+tags: supervised learning
 ---
-tags: #supervised #learning
-
 # Loss Functions
 
 A loss function is a measure of how good our prediction compared to the true value is in a [supervised learning setup](TODOs). Formally we can describe it 

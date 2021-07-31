@@ -2,9 +2,8 @@
 title: Orthogonal Decomposition
 permalink: /zettel/202102141731_orthogonalDecomposition
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Orthogonal Decomposition
 
 The following shows we can write any vector $u$ as a sum of two [orthogonal vectors](202102141725_orthogonalDefinition),

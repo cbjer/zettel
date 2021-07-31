@@ -2,9 +2,8 @@
 title: Inner Product Definition
 permalink: /zettel/202102141654_innerProductDefinition
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Inner Product Definition
 
 An **inner product** on $V$ is a function that takes any ordered pair $(u,v)$ of elements of $V$

@@ -2,9 +2,8 @@
 title: Partial Ordering of Policies
 permalink: /zettel/202011252200_partialOrderingPolicies
 layout: page
+tags: optimal behaviour
 ---
-tags: #optimal #behaviour
-
 # Partial Ordering of Policies
 
 We can define a partial ordering over [policies](202011242107_rlPolicy) by

@@ -2,9 +2,8 @@
 title: Multivariate Normal Distribution
 permalink: /zettel/202101091649_multivariateNormalDistribution
 layout: page
+tags: pdf
 ---
-tags: #pdf
-
 # Multivariate Normal Distribution
 
 A multivariate normal distribution is a generalisation of the normal distribution to a multi-dimensional space. $X$ would have

@@ -2,9 +2,8 @@
 title: Minimal Polynomial Definition
 permalink: /zettel/202104241845_minimalPolynomialDefinition
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Minimal Polynomial Definition
 
 Taking an operator $T$. The **minimal polynomial** of $T$ is the unique [monic polynomial](202104241842_monicPolynomialDefinition) 

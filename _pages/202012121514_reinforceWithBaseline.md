@@ -2,9 +2,8 @@
 title: REINFORCE with Baseline
 permalink: /zettel/202012121514_reinforceWithBaseline
 layout: page
+tags: gradient montecarlo
 ---
-tags: #gradient #montecarlo
-
 # REINFORCE with Baseline
 
 We can add a baseline (a function not depending on actions) into our 

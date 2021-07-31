@@ -2,9 +2,8 @@
 title: Null space of the Adjoint if Normal
 permalink: /zettel/202102181715_nullSpaceAdjointNormal
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Null space of the Adjoint if Normal
 
 Using the result that an [operator](202102082104_operatorDefinition) is [normal](202102162200_normalOperatorDefinition) 

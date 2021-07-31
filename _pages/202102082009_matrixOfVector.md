@@ -2,9 +2,8 @@
 title: Matrix of a Vector Definition
 permalink: /zettel/202102082009_matrixOfVector
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Matrix of a Vector Definition
 
 If we have a vector $v \in V$ with $v_1, \ldots, v_n$ as a [basis](202102062154_basisDefinition) for $V$, then 

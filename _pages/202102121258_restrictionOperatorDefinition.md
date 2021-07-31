@@ -2,9 +2,8 @@
 title: Restriction Operator Definition
 permalink: /zettel/202102121258_restrictionOperatorDefinition
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Restriction Operator Definition
 
 The **restriction operator** is simply an [operator](202102082104_operatorDefinition) which is only defined on 

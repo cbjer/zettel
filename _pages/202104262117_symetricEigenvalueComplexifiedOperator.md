@@ -2,9 +2,8 @@
 title: Symmetric Eigenvalue Result for a Complexified Operator
 permalink: /zettel/202104262117_symetricEigenvalueComplexifiedOperator
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Symmetric Eigenvalue Result for a Complexified Operator
 
 If we have a real vector space $V$, $\lambda \in \mathbf{C}$ and $j$ a non-negative integer, then 

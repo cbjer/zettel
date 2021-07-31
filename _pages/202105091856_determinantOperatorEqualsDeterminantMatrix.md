@@ -2,9 +2,8 @@
 title: Determinant Operator Equals Determinant of its Matrix
 permalink: /zettel/202105091856_determinantOperatorEqualsDeterminantMatrix
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Determinant Operator Equals Determinant of its Matrix
 
 If we have an operator $T$, then $\textrm{det} \, T = \textrm{det} \, \mathcal{M}(T)$.

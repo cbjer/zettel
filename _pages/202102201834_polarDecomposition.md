@@ -2,9 +2,8 @@
 title: Polar Decomposition
 permalink: /zettel/202102201834_polarDecomposition
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Polar Decomposition
 
 If we have an [operator](202102082104_operatorDefinition) $T \in \mathcal{L}(V)$, then there exists an

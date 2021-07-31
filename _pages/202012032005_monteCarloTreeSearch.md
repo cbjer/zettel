@@ -2,9 +2,8 @@
 title: Monte Carlo Tree Search
 permalink: /zettel/202012032005_monteCarloTreeSearch
 layout: page
+tags: search games rollout
 ---
-tags: #search #games #rollout
-
 # Monte Carlo Tree Search
 
 A brief overview of this algorithm is made up of 4 key parts.

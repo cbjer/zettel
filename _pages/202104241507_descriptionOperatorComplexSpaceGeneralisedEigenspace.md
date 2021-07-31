@@ -2,9 +2,8 @@
 title: Description of an Operator on a Complex Vector Space into Generalised Eigenspaces
 permalink: /zettel/202104241507_descriptionOperatorComplexSpaceGeneralisedEigenspace
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Description of an Operator on a Complex Vector Space into Generalised Eigenspaces
 
 If we have $V$ as a complex vector space and [operator](202102082104_operatorDefinition) $T$, with 

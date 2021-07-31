@@ -2,9 +2,8 @@
 title: Stochastic Gradient Descent on Value Function Approximators
 permalink: /zettel/202012032217_sgdValueFunction
 layout: page
+tags: descent optimal path
 ---
-tags: #descent #optimal #path
-
 # Stochastic Gradient Descent on Value Function Approximators
 
 Given our functional approximator $\hat{v}(s, \mathbf{w})$ to the [value function](202011221845_valueFunctions), 

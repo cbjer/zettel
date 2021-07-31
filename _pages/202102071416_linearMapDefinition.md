@@ -2,9 +2,8 @@
 title: Linear Map Definition
 permalink: /zettel/202102071416_linearMapDefinition
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Linear Map Definition
 
 A linear map from $V$ to $W$ is a function $T : V \rightarrow W$ with the properties of

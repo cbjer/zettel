@@ -2,9 +2,8 @@
 title: Identity plus Nilpotent has a Square Root
 permalink: /zettel/202104241559_identityPlusNilpotentSquareRoot
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Identity plus Nilpotent has a Square Root
 
 If we have [nilpotent](202102221258_nilpotentOperatorDefinition) operator $N$, then $I + N$

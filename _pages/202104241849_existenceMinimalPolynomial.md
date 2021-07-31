@@ -2,9 +2,8 @@
 title: Existence Minimal Polynomial
 permalink: /zettel/202104241849_existenceMinimalPolynomial
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Existence Minimal Polynomial
 
 Suppose $T$ an operator. Then there is a unique [monic polynomial](202104241842_monicPolynomialDefinition) $p$

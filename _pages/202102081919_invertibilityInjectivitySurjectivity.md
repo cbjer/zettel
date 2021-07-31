@@ -2,9 +2,8 @@
 title: Invertibility Equivalence to Injectivity and Surjectivity
 permalink: /zettel/202102081919_invertibilityInjectivitySurjectivity
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Invertibility Equivalence to Injectivity and Surjectivity
 
 A [linear map](202102071416_linearMapDefinition) is [invertible](202102081851_invertibleMap) if and only if 

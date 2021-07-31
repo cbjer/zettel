@@ -2,9 +2,8 @@
 title: Sum of Subspaces is a Subspace
 permalink: /zettel/202102061457_sumSubspacesIsSubspace
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Sum of Subspaces is a Subspace
 
 A [sum](202102061453_sumOfSubsetsDefinition) of [subspaces](202102061429_subspaceDefinition) $U_1, \ldots, U_m$ of $V$ is a subspace of 

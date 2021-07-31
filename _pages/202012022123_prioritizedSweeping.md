@@ -2,9 +2,8 @@
 title: Prioritized Sweeping
 permalink: /zettel/202012022123_prioritizedSweeping
 layout: page
+tags: focus update
 ---
-tags: #focus #update
-
 # Prioritized Sweeping
 
 In Prioritized Sweeping, the idea is to improve over the [Dyna-Q](202012020018_tabularDynaQ) method 

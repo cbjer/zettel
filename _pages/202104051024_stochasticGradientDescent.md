@@ -2,9 +2,8 @@
 title: Stochastic Gradient Descent
 permalink: /zettel/202104051024_stochasticGradientDescent
 layout: page
+tags: optimisation
 ---
-tags: #optimisation
-
 # Stochastic Gradient Descent
 
 **Stochastic gradient descent** is a form of [gradient descent](202103282312_gradientDescentUpdate) which rather

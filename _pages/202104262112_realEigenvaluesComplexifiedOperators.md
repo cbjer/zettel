@@ -2,9 +2,8 @@
 title: Real Eigenvalues of Complexified Operator
 permalink: /zettel/202104262112_realEigenvaluesComplexifiedOperators
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Real Eigenvalues of Complexified Operator
 
 Say we have $\lambda \in \mathbf{R}$, then $\lambda$ is an [eigenvalue](202102120912_eigenvalueDefinition) of

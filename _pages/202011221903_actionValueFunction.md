@@ -2,9 +2,8 @@
 title: State-Action Value Function
 permalink: /zettel/202011221903_actionValueFunction
 layout: page
+tags: reinforcementLearning statevalue \
 ---
-tags: #reinforcementLearning #statevalue \
-
 # State-Action Value Function
 
 The State-Action value function $q_{\pi} ( s, a ) $ is your [expected return](202011221815_returnsRL) from starting in state $s$, taking 

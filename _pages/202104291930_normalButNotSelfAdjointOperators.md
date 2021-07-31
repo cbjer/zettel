@@ -2,9 +2,8 @@
 title: Normal but not Self-Adjoint Operators
 permalink: /zettel/202104291930_normalButNotSelfAdjointOperators
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Normal but not Self-Adjoint Operators
 
 If we have $V$ as a 2-dimensional real [inner product space](202102141708_innerProductSpace) and $T$ an operator, 

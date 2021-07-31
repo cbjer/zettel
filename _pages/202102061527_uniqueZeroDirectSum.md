@@ -2,9 +2,8 @@
 title: Unique Zero for a Direct Sum Condition
 permalink: /zettel/202102061527_uniqueZeroDirectSum
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Unique Zero for a Direct Sum Condition
 
 We can show a [sum](202102061453_sumOfSubsetsDefinition) is a [direct sum](202102061512_directSumDefinition) by showing that 

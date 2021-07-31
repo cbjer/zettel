@@ -2,9 +2,8 @@
 title: Null Space and the Adjoint
 permalink: /zettel/202102162025_nullspaceRangeAdjoint
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Null Space and the Adjoint
 
 We have the following equivalences between the [adjoint](202102161843_adjointDefinition) and the 

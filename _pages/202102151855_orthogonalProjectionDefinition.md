@@ -2,9 +2,8 @@
 title: Orthogonal Projection Definition
 permalink: /zettel/202102151855_orthogonalProjectionDefinition
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Orthogonal Projection Definition
 
 If we have $U$ as a finite dimensional subspace of $V$, the **orthogonal projection** of $V$ onto $U$ is the [operator](202102082104_operatorDefinition)

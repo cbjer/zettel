@@ -2,9 +2,8 @@
 title: Maximisation Bias
 permalink: /zettel/202011302212_maximisationBias
 layout: page
+tags: bias
 ---
-tags: #bias
-
 # Maximisation Bias
 
 Maximisation bias is the bias that can be introduced from takign 

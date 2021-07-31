@@ -2,9 +2,8 @@
 title: Insertion Sort Algorithm
 permalink: /zettel/202102281125_insertionSortAlgorithm
 layout: page
+tags: 
 ---
-tags: #
-
 # Insertion Sort Algorithm
 
 **Insertion Sort** is a [sorting algorithm](202102281308_sortingAlgorithms) for sorting a unordered array.

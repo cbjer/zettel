@@ -2,9 +2,8 @@
 title: Dimension of a Product Space
 permalink: /zettel/202102082142_dimensionProductSpace
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Dimension of a Product Space
 
 If we have a [product space](202102082137_productSpace) $V_1 \times \cdots \times V_m$, then this space is

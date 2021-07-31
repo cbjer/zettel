@@ -2,9 +2,8 @@
 title: n-step Tree Backup
 permalink: /zettel/202012012205_nstepTreeBackup
 layout: page
+tags: expectation algorithm
 ---
-tags: #expectation #algorithm
-
 # n-step Tree Backup
 
 The n-step Tree Backup algorithm is an [off-policy](202011301312_offPolicyMethods) method 

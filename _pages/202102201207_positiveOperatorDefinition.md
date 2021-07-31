@@ -2,9 +2,8 @@
 title: Positive Operator Definition
 permalink: /zettel/202102201207_positiveOperatorDefinition
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Positive Operator Definition
 
 An [operator](202102082104_operatorDefinition) $T$ is called **positive** if $T$ is [self-adjoint](202102162040_selfAdjointOperator) 

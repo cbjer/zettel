@@ -2,9 +2,8 @@
 title: Equivalences of Isometries 
 permalink: /zettel/202102201252_equivalencesIsometries
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Equivalences of Isometries 
 
 If we have $S \in \mathcal{L}(V)$, then the following are equivalent:

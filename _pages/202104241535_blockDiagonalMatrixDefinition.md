@@ -2,9 +2,8 @@
 title: Block Diagonal Matrix Definition
 permalink: /zettel/202104241535_blockDiagonalMatrixDefinition
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Block Diagonal Matrix Definition
 
 A **block diagonal matrix** is a square matrix of the form 

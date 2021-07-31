@@ -2,9 +2,8 @@
 title: Cayley-Hamilton Theorem
 permalink: /zettel/202104241825_cayleyHamiltonTheorem
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Cayley-Hamilton Theorem
 
 Take $V$ a complex vector space and $T$ an operator. Denote the [characteristic polynomial](202104241811_characteristicPolynomialDefinition) 

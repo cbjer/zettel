@@ -2,9 +2,8 @@
 title: Orthogonal Definition
 permalink: /zettel/202102141725_orthogonalDefinition
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Orthogonal Definition
 
 We say two vector $v, w \in V$ are **orthogonal** if $\langle v, w \rangle = 0$

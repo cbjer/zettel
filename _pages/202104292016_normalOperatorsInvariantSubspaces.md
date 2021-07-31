@@ -2,9 +2,8 @@
 title: Normal Operators and Invariant Subspaces
 permalink: /zettel/202104292016_normalOperatorsInvariantSubspaces
 layout: page
+tags: linear algebra
 ---
-tags: #linear #algebra
-
 # Normal Operators and Invariant Subspaces
 
 Suppose $V$ is an [inner product space](202102141708_innerProductSpace), with $T$ a [normal](202102162200_normalOperatorDefinition)
