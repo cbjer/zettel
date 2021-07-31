@@ -3,6 +3,7 @@ title: Linear Functional Definition
 permalink: /zettel/202102151052_linearFunctionalDefinition
 layout: page
 tags: linear algebra
+
 ---
 # Linear Functional Definition
 

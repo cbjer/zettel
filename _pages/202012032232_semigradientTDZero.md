@@ -3,6 +3,7 @@ title: Semi Gradient TD(0)
 permalink: /zettel/202012032232_semigradientTDZero
 layout: page
 tags: update evaluation 
+
 ---
 # Semi Gradient TD(0)
 

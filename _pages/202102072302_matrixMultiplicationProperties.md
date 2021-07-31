@@ -3,6 +3,7 @@ title: Matrix Multiplication Properties
 permalink: /zettel/202102072302_matrixMultiplicationProperties
 layout: page
 tags: linear algebra
+
 ---
 # Matrix Multiplication Properties
 

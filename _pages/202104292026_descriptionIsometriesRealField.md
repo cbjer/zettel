@@ -3,6 +3,7 @@ title: Description of Isometries when $\mathbf{F} = \mathbf{R}$
 permalink: /zettel/202104292026_descriptionIsometriesRealField
 layout: page
 tags: linear algebra
+
 ---
 # Description of Isometries when $\mathbf{F} = \mathbf{R}$
 

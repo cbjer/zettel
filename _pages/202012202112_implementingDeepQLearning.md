@@ -3,6 +3,7 @@ title: Implementing Deep Q-Learning
 permalink: /zettel/202012202112_implementingDeepQLearning
 layout: page
 tags: control mnih
+
 ---
 # Implementing Deep Q-Learning
 

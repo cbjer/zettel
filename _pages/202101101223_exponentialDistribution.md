@@ -3,6 +3,7 @@ title: Exponential Distribution
 permalink: /zettel/202101101223_exponentialDistribution
 layout: page
 tags: distributions pdf
+
 ---
 # Exponential Distribution
 

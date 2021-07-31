@@ -3,6 +3,7 @@ title: Riesz Representation Theorem
 permalink: /zettel/202102151055_rieszRepresentationTheorem
 layout: page
 tags: linear algebra
+
 ---
 # Riesz Representation Theorem
 

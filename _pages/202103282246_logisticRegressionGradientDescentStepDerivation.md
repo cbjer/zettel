@@ -3,6 +3,7 @@ title: Logistic Regression Gradient Descent Step Derivation
 permalink: /zettel/202103282246_logisticRegressionGradientDescentStepDerivation
 layout: page
 tags: derivation
+
 ---
 # Logistic Regression Gradient Descent Step Derivation
 

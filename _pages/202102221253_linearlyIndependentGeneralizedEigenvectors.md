@@ -3,6 +3,7 @@ title: Linearly Independent Generalized Eigenvectors
 permalink: /zettel/202102221253_linearlyIndependentGeneralizedEigenvectors
 layout: page
 tags: linear algebra
+
 ---
 # Linearly Independent Generalized Eigenvectors
 

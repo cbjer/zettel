@@ -3,6 +3,7 @@ title: Stochastic Gradient Descent on Value Function Approximators
 permalink: /zettel/202012032217_sgdValueFunction
 layout: page
 tags: descent optimal path
+
 ---
 # Stochastic Gradient Descent on Value Function Approximators
 

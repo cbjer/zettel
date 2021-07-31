@@ -2,7 +2,8 @@
 title: Bellman Equation for State-Values
 permalink: /zettel/202011222150_bellmanEquationStateValues
 layout: page
-tags: bellman reinforcementlearning onestep \
+tags: bellman reinforcementlearning onestep
+
 ---
 # Bellman Equation for State-Values
 

@@ -3,6 +3,7 @@ title: Conjugate Priors
 permalink: /zettel/202101161759_conjugatePriors
 layout: page
 tags: bayesian
+
 ---
 # Conjugate Priors
 

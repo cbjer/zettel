@@ -3,6 +3,7 @@ title: Singular Values Definition
 permalink: /zettel/202102201841_singularValuesDefinition
 layout: page
 tags: linear algebra
+
 ---
 # Singular Values Definition
 

@@ -3,6 +3,7 @@ title: Basic Properties of the Norm
 permalink: /zettel/202102141723_basicPropertiesNorm
 layout: page
 tags: linear algebra
+
 ---
 # Basic Properties of the Norm
 

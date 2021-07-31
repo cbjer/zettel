@@ -3,6 +3,7 @@ title: Conjugate Transpose Definition
 permalink: /zettel/202102162035_conjugateTransposeDefinition
 layout: page
 tags: linear algebra
+
 ---
 # Conjugate Transpose Definition
 

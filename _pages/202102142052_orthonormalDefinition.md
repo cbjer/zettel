@@ -3,6 +3,7 @@ title: Orthonormal Definition
 permalink: /zettel/202102142052_orthonormalDefinition
 layout: page
 tags: linear algebra
+
 ---
 # Orthonormal Definition
 

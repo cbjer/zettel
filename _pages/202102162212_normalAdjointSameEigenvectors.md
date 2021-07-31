@@ -3,6 +3,7 @@ title: Normal then Adjoint have Same Eigenvectors
 permalink: /zettel/202102162212_normalAdjointSameEigenvectors
 layout: page
 tags: linear algebra
+
 ---
 # Normal then Adjoint have Same Eigenvectors
 

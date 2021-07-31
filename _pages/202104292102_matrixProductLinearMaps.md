@@ -3,6 +3,7 @@ title: The Matrix of the Product of Linear Maps
 permalink: /zettel/202104292102_matrixProductLinearMaps
 layout: page
 tags: linear algebra
+
 ---
 # The Matrix of the Product of Linear Maps
 

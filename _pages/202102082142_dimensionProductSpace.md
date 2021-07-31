@@ -3,6 +3,7 @@ title: Dimension of a Product Space
 permalink: /zettel/202102082142_dimensionProductSpace
 layout: page
 tags: linear algebra
+
 ---
 # Dimension of a Product Space
 

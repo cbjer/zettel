@@ -3,6 +3,7 @@ title: Characterisation of Normal Operators when $\mathbf{F} = \mathbf{R}$
 permalink: /zettel/202104292022_characterisationNormalOperatorRealField
 layout: page
 tags: linear algebra
+
 ---
 # Characterisation of Normal Operators when $\mathbf{F} = \mathbf{R}$
 

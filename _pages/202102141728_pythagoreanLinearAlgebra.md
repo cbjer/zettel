@@ -3,6 +3,7 @@ title: Pythagorean Theorem Linear Algebra
 permalink: /zettel/202102141728_pythagoreanLinearAlgebra
 layout: page
 tags: linear algebra
+
 ---
 # Pythagorean Theorem Linear Algebra
 

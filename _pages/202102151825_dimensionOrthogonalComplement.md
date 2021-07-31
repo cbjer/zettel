@@ -3,6 +3,7 @@ title: Dimension of the Orthogonal Complement
 permalink: /zettel/202102151825_dimensionOrthogonalComplement
 layout: page
 tags: linear algebra
+
 ---
 # Dimension of the Orthogonal Complement
 

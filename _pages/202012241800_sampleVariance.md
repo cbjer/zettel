@@ -3,6 +3,7 @@ title: Sample Variance
 permalink: /zettel/202012241800_sampleVariance
 layout: page
 tags: definition  statistics
+
 ---
 # Sample Variance
 

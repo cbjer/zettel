@@ -3,6 +3,7 @@ title: Conditions Equivalent to Diagonalizability
 permalink: /zettel/202102141040_conditionsDiagonalizablity
 layout: page
 tags: linear algebra
+
 ---
 # Conditions Equivalent to Diagonalizability
 

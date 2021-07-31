@@ -3,6 +3,7 @@ title: Linear Value Function Approximator
 permalink: /zettel/202012032318_linearValueFunctionApproximator
 layout: page
 tags: simple approximation
+
 ---
 # Linear Value Function Approximator
 

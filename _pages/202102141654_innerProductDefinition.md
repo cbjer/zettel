@@ -3,6 +3,7 @@ title: Inner Product Definition
 permalink: /zettel/202102141654_innerProductDefinition
 layout: page
 tags: linear algebra
+
 ---
 # Inner Product Definition
 

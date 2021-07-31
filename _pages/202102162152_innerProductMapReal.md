@@ -3,6 +3,7 @@ title: Inner Product Real for Self Adjoing Operators
 permalink: /zettel/202102162152_innerProductMapReal
 layout: page
 tags: linear algebra
+
 ---
 # Inner Product Real for Self Adjoing Operators
 

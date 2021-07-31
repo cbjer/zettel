@@ -6,9 +6,9 @@ layout: default
     {{ content }}
   </div>
 
-Tags:
   <div class="tag-links">
   {% assign sorted_tags = page.tags | split: " " | sort %}
+  Tags: 
   {% for tag in sorted_tags %}
   <a href="{{site.baseurl}}/tag-page.html?tag={{tag}}">{{tag}}</a>
   {% endfor %}

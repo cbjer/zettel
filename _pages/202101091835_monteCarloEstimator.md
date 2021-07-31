@@ -3,6 +3,7 @@ title: Monte Carlo Estimator
 permalink: /zettel/202101091835_monteCarloEstimator
 layout: page
 tags: definition sampling
+
 ---
 # Monte Carlo Estimator
 

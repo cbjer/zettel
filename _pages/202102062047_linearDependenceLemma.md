@@ -3,6 +3,7 @@ title: Linear Dependence Lemma
 permalink: /zettel/202102062047_linearDependenceLemma
 layout: page
 tags: linear algebra
+
 ---
 # Linear Dependence Lemma
 

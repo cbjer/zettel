@@ -3,6 +3,7 @@ title: Invertibility Equivalence to Injectivity and Surjectivity
 permalink: /zettel/202102081919_invertibilityInjectivitySurjectivity
 layout: page
 tags: linear algebra
+
 ---
 # Invertibility Equivalence to Injectivity and Surjectivity
 

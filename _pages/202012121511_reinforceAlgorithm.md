@@ -3,6 +3,7 @@ title: REINFORCE Algorithm
 permalink: /zettel/202012121511_reinforceAlgorithm
 layout: page
 tags: gradient
+
 ---
 # REINFORCE Algorithm
 

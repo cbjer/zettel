@@ -3,6 +3,7 @@ title: Determinant of an Operator Definition
 permalink: /zettel/202105091734_determinantOperatorDefinition
 layout: page
 tags: linear algebra
+
 ---
 # Determinant of an Operator Definition
 

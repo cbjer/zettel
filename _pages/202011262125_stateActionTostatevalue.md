@@ -3,6 +3,7 @@ title: Expressing State-Action Value function in terms of State value function
 permalink: /zettel/202011262125_stateActionTostatevalue
 layout: page
 tags: recursive expectation
+
 ---
 # Expressing State-Action Value function in terms of State value function
 

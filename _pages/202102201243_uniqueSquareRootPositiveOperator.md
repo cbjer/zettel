@@ -3,6 +3,7 @@ title: Unique Square Root Positive Operators
 permalink: /zettel/202102201243_uniqueSquareRootPositiveOperator
 layout: page
 tags: linear algebra
+
 ---
 # Unique Square Root Positive Operators
 

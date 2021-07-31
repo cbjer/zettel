@@ -3,6 +3,7 @@ title: Injective Definition
 permalink: /zettel/202102071749_injectiveDefinition
 layout: page
 tags: linear algebra
+
 ---
 # Injective Definition
 

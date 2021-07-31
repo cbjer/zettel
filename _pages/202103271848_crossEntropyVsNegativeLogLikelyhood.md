@@ -3,6 +3,7 @@ title: Cross Entropy vs Negative Log-likelyhood
 permalink: /zettel/202103271848_crossEntropyVsNegativeLogLikelyhood
 layout: page
 tags: loss
+
 ---
 # Cross Entropy vs Negative Log-likelyhood
 

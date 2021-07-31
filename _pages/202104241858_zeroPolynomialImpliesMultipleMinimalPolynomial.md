@@ -3,6 +3,7 @@ title: Zero polynomial implies multiple of Minimal Polynomial
 permalink: /zettel/202104241858_zeroPolynomialImpliesMultipleMinimalPolynomial
 layout: page
 tags: linear algebra
+
 ---
 # Zero polynomial implies multiple of Minimal Polynomial
 

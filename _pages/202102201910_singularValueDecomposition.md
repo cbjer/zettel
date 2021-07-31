@@ -3,6 +3,7 @@ title: Singular Value Decomposition
 permalink: /zettel/202102201910_singularValueDecomposition
 layout: page
 tags: linear algebra
+
 ---
 # Singular Value Decomposition
 

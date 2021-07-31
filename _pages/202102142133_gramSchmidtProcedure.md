@@ -3,6 +3,7 @@ title: Gram-Schmidt Procedure
 permalink: /zettel/202102142133_gramSchmidtProcedure
 layout: page
 tags: linear algebra
+
 ---
 # Gram-Schmidt Procedure
 

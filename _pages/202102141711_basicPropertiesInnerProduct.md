@@ -3,6 +3,7 @@ title: Basic Properties of an Inner Product
 permalink: /zettel/202102141711_basicPropertiesInnerProduct
 layout: page
 tags: linear algebra
+
 ---
 # Basic Properties of an Inner Product
 

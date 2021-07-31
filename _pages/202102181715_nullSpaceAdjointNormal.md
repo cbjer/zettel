@@ -3,6 +3,7 @@ title: Null space of the Adjoint if Normal
 permalink: /zettel/202102181715_nullSpaceAdjointNormal
 layout: page
 tags: linear algebra
+
 ---
 # Null space of the Adjoint if Normal
 

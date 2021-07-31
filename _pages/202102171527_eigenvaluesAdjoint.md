@@ -3,6 +3,7 @@ title: Eigenvalues of the Adjoint
 permalink: /zettel/202102171527_eigenvaluesAdjoint
 layout: page
 tags: linear algebra
+
 ---
 # Eigenvalues of the Adjoint
 

@@ -3,6 +3,7 @@ title: Akaike Information Criterion (AIC)
 permalink: /zettel/202101021446_akaikeInformationCriterionAIC
 layout: page
 tags: model selection
+
 ---
 # Akaike Information Criterion (AIC)
 

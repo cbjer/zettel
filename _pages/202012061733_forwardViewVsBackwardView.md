@@ -3,6 +3,7 @@ title: Forward-view vs Backward-view
 permalink: /zettel/202012061733_forwardViewVsBackwardView
 layout: page
 tags: lambda traces
+
 ---
 # Forward-view vs Backward-view
 

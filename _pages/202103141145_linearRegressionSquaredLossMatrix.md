@@ -3,6 +3,7 @@ title: Linear Regression Squared Loss Matrix Form
 permalink: /zettel/202103141145_linearRegressionSquaredLossMatrix
 layout: page
 tags: matrix form
+
 ---
 # Linear Regression Squared Loss Matrix Form
 

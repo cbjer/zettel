@@ -3,6 +3,7 @@ title: Addition and Scalar Multiplication for Linear Maps
 permalink: /zettel/202102071429_additionScalarMultiplicationScalarMaps
 layout: page
 tags: linear algebra
+
 ---
 # Addition and Scalar Multiplication for Linear Maps
 

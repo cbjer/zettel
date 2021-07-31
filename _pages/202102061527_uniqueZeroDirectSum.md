@@ -3,6 +3,7 @@ title: Unique Zero for a Direct Sum Condition
 permalink: /zettel/202102061527_uniqueZeroDirectSum
 layout: page
 tags: linear algebra
+
 ---
 # Unique Zero for a Direct Sum Condition
 

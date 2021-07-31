@@ -3,6 +3,7 @@ title: Unique Linear Map from Basis of Domain
 permalink: /zettel/202102071423_linearMapBasisDomain
 layout: page
 tags: linear algebra
+
 ---
 # Unique Linear Map from Basis of Domain
 

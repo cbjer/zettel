@@ -3,6 +3,7 @@ title: Sum of Independent Normals is Normal
 permalink: /zettel/202101091512_sumIndependentNormalsNormal
 layout: page
 tags: identity mgfs
+
 ---
 # Sum of Independent Normals is Normal
 

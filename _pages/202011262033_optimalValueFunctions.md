@@ -3,6 +3,7 @@ title: Optimal Value Function
 permalink: /zettel/202011262033_optimalValueFunctions
 layout: page
 tags: optimality definition 
+
 ---
 # Optimal Value Function
 

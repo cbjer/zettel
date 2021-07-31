@@ -3,6 +3,7 @@ title: Span Definition
 permalink: /zettel/202102062022_spanDefinition
 layout: page
 tags: linear algebra
+
 ---
 # Span Definition
 

@@ -3,6 +3,7 @@ title: Block Diagonal Matrix Definition
 permalink: /zettel/202104241535_blockDiagonalMatrixDefinition
 layout: page
 tags: linear algebra
+
 ---
 # Block Diagonal Matrix Definition
 

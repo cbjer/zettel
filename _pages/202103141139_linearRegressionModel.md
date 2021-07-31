@@ -3,6 +3,7 @@ title: Linear Regression Model
 permalink: /zettel/202103141139_linearRegressionModel
 layout: page
 tags: machine learning
+
 ---
 # Linear Regression Model
 

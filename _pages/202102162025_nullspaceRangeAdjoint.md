@@ -3,6 +3,7 @@ title: Null Space and the Adjoint
 permalink: /zettel/202102162025_nullspaceRangeAdjoint
 layout: page
 tags: linear algebra
+
 ---
 # Null Space and the Adjoint
 

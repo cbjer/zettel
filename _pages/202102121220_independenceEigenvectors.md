@@ -3,6 +3,7 @@ title: Linearly Independent Eigenvectors
 permalink: /zettel/202102121220_independenceEigenvectors
 layout: page
 tags: linear algebra
+
 ---
 # Linearly Independent Eigenvectors
 

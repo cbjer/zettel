@@ -2,7 +2,8 @@
 title: Recursive relation for returns
 permalink: /zettel/202011222109_recursiveReturns
 layout: page
-tags: reinforcementlearning rewards returns \
+tags: reinforcementlearning rewards returns
+
 ---
 # Recursive relation for returns
 

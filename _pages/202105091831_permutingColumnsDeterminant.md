@@ -3,6 +3,7 @@ title: Permuting Columns in a Matrix Determinant
 permalink: /zettel/202105091831_permutingColumnsDeterminant
 layout: page
 tags: linear algebra
+
 ---
 # Permuting Columns in a Matrix Determinant
 

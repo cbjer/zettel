@@ -3,6 +3,7 @@ title: Trace of an Operator
 permalink: /zettel/202104292131_traceOperatorDefinition
 layout: page
 tags: linear algebra
+
 ---
 # Trace of an Operator
 

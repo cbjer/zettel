@@ -3,6 +3,7 @@ title: Linear Map Definition
 permalink: /zettel/202102071416_linearMapDefinition
 layout: page
 tags: linear algebra
+
 ---
 # Linear Map Definition
 

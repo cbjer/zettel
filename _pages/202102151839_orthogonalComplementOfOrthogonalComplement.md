@@ -3,6 +3,7 @@ title: Orthogonal Complement of the Orthogonal Complement
 permalink: /zettel/202102151839_orthogonalComplementOfOrthogonalComplement
 layout: page
 tags: linear algebra
+
 ---
 # Orthogonal Complement of the Orthogonal Complement
 

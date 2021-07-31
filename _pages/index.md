@@ -3,6 +3,7 @@ title: Home
 permalink: /zettel/index
 layout: page
 
+
 ---
 # Home
 

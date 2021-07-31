@@ -3,6 +3,7 @@ title: Loss Functions
 permalink: /zettel/202101162041_lossFunctions
 layout: page
 tags: supervised learning
+
 ---
 # Loss Functions
 

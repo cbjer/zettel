@@ -3,6 +3,7 @@ title: Tabular TD(0)
 permalink: /zettel/202011302050_tabularTDZero
 layout: page
 tags: bootstrap temporaldifference prediction
+
 ---
 # Tabular TD(0)
 

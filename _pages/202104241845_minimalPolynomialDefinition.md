@@ -3,6 +3,7 @@ title: Minimal Polynomial Definition
 permalink: /zettel/202104241845_minimalPolynomialDefinition
 layout: page
 tags: linear algebra
+
 ---
 # Minimal Polynomial Definition
 

@@ -3,6 +3,7 @@ title: Equivalences of Positive Operators
 permalink: /zettel/202102201218_equivalencesPositiveOperator
 layout: page
 tags: linear algebra
+
 ---
 # Equivalences of Positive Operators
 

@@ -3,6 +3,7 @@ title: Jordan Basis Definition
 permalink: /zettel/202104251012_jordanBasisDefinition
 layout: page
 tags: linear algebra
+
 ---
 # Jordan Basis Definition
 

@@ -3,6 +3,7 @@ title: Symmetric Eigenvalue Result for a Complexified Operator
 permalink: /zettel/202104262117_symetricEigenvalueComplexifiedOperator
 layout: page
 tags: linear algebra
+
 ---
 # Symmetric Eigenvalue Result for a Complexified Operator
 

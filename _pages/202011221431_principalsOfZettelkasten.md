@@ -2,7 +2,8 @@
 title: Principals of Zettelkasten
 permalink: /zettel/202011221431_principalsOfZettelkasten
 layout: page
-tags: notetaking memory cognition\
+tags: notetaking memory cognition
+
 ---
 # Principals of Zettelkasten
 

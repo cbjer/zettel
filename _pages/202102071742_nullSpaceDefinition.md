@@ -3,6 +3,7 @@ title: Null Space Definition
 permalink: /zettel/202102071742_nullSpaceDefinition
 layout: page
 tags: linear algebra
+
 ---
 # Null Space Definition
 

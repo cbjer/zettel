@@ -3,6 +3,7 @@ title: Restriction Operator Definition
 permalink: /zettel/202102121258_restrictionOperatorDefinition
 layout: page
 tags: linear algebra
+
 ---
 # Restriction Operator Definition
 

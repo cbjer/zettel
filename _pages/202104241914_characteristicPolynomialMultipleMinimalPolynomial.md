@@ -3,6 +3,7 @@ title: Characteristic Polynomial is a multiple of Minimal Polynomial
 permalink: /zettel/202104241914_characteristicPolynomialMultipleMinimalPolynomial
 layout: page
 tags: linear algebra
+
 ---
 # Characteristic Polynomial is a multiple of Minimal Polynomial
 

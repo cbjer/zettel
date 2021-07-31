@@ -3,6 +3,7 @@ title: Covariance Definition
 permalink: /zettel/202012221554_covarianceDefinition
 layout: page
 tags: definition
+
 ---
 # Covariance Definition
 

@@ -3,6 +3,7 @@ title: Trace is Symmetric
 permalink: /zettel/202104292138_traceSymmetric
 layout: page
 tags: linear algebra
+
 ---
 # Trace is Symmetric
 

@@ -3,6 +3,7 @@ title: Every Subspace Has a Direct Sum Forming V
 permalink: /zettel/202102062211_directSumToVectorSpace
 layout: page
 tags: linear algebra
+
 ---
 # Every Subspace Has a Direct Sum Forming V
 

@@ -3,6 +3,7 @@ title: Trace of a Matrix Definition
 permalink: /zettel/202104292137_traceMatrixDefinition
 layout: page
 tags: linear algebra
+
 ---
 # Trace of a Matrix Definition
 

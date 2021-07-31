@@ -3,6 +3,7 @@ title: Normal but not Self-Adjoint Operators
 permalink: /zettel/202104291930_normalButNotSelfAdjointOperators
 layout: page
 tags: linear algebra
+
 ---
 # Normal but not Self-Adjoint Operators
 

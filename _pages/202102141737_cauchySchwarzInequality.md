@@ -3,6 +3,7 @@ title: Cauchy-Schwarz Inequality
 permalink: /zettel/202102141737_cauchySchwarzInequality
 layout: page
 tags: linear algebra
+
 ---
 # Cauchy-Schwarz Inequality
 

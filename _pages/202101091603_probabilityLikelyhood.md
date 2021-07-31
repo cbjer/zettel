@@ -3,6 +3,7 @@ title: Likelihood
 permalink: /zettel/202101091603_probabilityLikelyhood
 layout: page
 tags: definition statistics
+
 ---
 # Likelihood
 

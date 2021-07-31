@@ -3,6 +3,7 @@ title: First Visit Monte Carlo Prediction
 permalink: /zettel/202011301143_firstVisitMonteCarloPrediction
 layout: page
 tags: sampling evaluation episodic algorithm
+
 ---
 # First Visit Monte Carlo Prediction
 

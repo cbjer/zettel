@@ -3,6 +3,7 @@ title: Equivalences of Isometries
 permalink: /zettel/202102201252_equivalencesIsometries
 layout: page
 tags: linear algebra
+
 ---
 # Equivalences of Isometries 
 

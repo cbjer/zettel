@@ -3,6 +3,7 @@ title: Actor-Critic with Eligibility Traces (Continuing)
 permalink: /zettel/202012121516_actorCriticEligibilityTracesContinuing
 layout: page
 tags: gradient
+
 ---
 # Actor-Critic with Eligibility Traces (Continuing)
 

@@ -3,6 +3,7 @@ title: Softmax in Action Preferences
 permalink: /zettel/202012141156_softmaxActionPreferences
 layout: page
 tags: policy
+
 ---
 # Softmax in Action Preferences
 

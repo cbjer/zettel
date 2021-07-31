@@ -2,7 +2,8 @@
 title: Off-policy n-step Q($\sigma$)
 permalink: /zettel/202012012214_offPolicynstepQSigma
 layout: page
-tags: algorithm advanced []
+tags: algorithm advanced
+
 ---
 # Off-policy n-step Q($\sigma$)
 

@@ -3,6 +3,7 @@ title: Episodic Semi-Gradient Sarsa
 permalink: /zettel/202012052205_episodicSemiGradientSarsa
 layout: page
 tags: terminal discounting
+
 ---
 # Episodic Semi-Gradient Sarsa
 

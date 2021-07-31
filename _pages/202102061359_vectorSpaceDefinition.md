@@ -3,6 +3,7 @@ title: Vector Space Definition
 permalink: /zettel/202102061359_vectorSpaceDefinition
 layout: page
 tags: linear algebra
+
 ---
 # Vector Space Definition
 

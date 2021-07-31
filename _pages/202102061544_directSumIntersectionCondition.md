@@ -3,6 +3,7 @@ title: Direct Sum Intersection Condition
 permalink: /zettel/202102061544_directSumIntersectionCondition
 layout: page
 tags: linear algebra
+
 ---
 # Direct Sum Intersection Condition
 

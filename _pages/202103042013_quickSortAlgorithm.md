@@ -3,6 +3,7 @@ title: Quicksort Algorithm
 permalink: /zettel/202103042013_quickSortAlgorithm
 layout: page
 tags: 
+
 ---
 # Quicksort Algorithm
 

@@ -3,6 +3,7 @@ title: Matrix of a Nilpotent Operator
 permalink: /zettel/202102221301_matrixNilpotentOperator
 layout: page
 tags: linear algebra
+
 ---
 # Matrix of a Nilpotent Operator
 

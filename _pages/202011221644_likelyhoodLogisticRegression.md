@@ -2,7 +2,8 @@
 title: Log-likelihood of a Logistic Regression Model
 permalink: /zettel/202011221644_likelyhoodLogisticRegression
 layout: page
-tags: logisticregression likelyhood \
+tags: logisticregression likelyhood
+
 ---
 # Log-likelihood of a Logistic Regression Model
 

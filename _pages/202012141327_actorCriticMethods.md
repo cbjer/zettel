@@ -3,6 +3,7 @@ title: Actor-Critic Methods
 permalink: /zettel/202012141327_actorCriticMethods
 layout: page
 tags: control simultaneous
+
 ---
 # Actor-Critic Methods
 

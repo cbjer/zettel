@@ -3,6 +3,7 @@ title: Matrix of a Linear Map
 permalink: /zettel/202102072233_matrixLinearMap
 layout: page
 tags: linear algebra
+
 ---
 # Matrix of a Linear Map
 

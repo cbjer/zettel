@@ -3,6 +3,7 @@ title: Orthogonal Definition
 permalink: /zettel/202102141725_orthogonalDefinition
 layout: page
 tags: linear algebra
+
 ---
 # Orthogonal Definition
 

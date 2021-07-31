@@ -3,6 +3,7 @@ title: Selection Sort Algorithm
 permalink: /zettel/202103061231_selectionSort
 layout: page
 tags: 
+
 ---
 # Selection Sort Algorithm
 

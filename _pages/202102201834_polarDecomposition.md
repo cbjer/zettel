@@ -3,6 +3,7 @@ title: Polar Decomposition
 permalink: /zettel/202102201834_polarDecomposition
 layout: page
 tags: linear algebra
+
 ---
 # Polar Decomposition
 

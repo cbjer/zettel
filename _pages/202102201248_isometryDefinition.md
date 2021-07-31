@@ -3,6 +3,7 @@ title: Isometry Definition
 permalink: /zettel/202102201248_isometryDefinition
 layout: page
 tags: linear algebra
+
 ---
 # Isometry Definition
 

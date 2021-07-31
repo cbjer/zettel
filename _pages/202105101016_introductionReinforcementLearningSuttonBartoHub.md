@@ -3,6 +3,7 @@ title: Introduction to Reinforcement Learning - Sutton & Barto - Hub
 permalink: /zettel/202105101016_introductionReinforcementLearningSuttonBartoHub
 layout: page
 tags: reinfocement learning
+
 ---
 # Introduction to Reinforcement Learning - Sutton & Barto - Hub
 

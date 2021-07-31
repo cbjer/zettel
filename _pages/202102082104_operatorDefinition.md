@@ -3,6 +3,7 @@ title: Operator Definition
 permalink: /zettel/202102082104_operatorDefinition
 layout: page
 tags: linear algebra
+
 ---
 # Operator Definition
 

@@ -3,6 +3,7 @@ title: Block Diagonal Matrix with Upper-Triangular Blocks
 permalink: /zettel/202104241548_blockDiagonalUpperTriangularBlocks
 layout: page
 tags: linear algebra
+
 ---
 # Block Diagonal Matrix with Upper-Triangular Blocks
 

@@ -3,6 +3,7 @@ title: Isometries have Determinant with Absolute Value 1
 permalink: /zettel/202105091902_isometriesDeterminant
 layout: page
 tags: linear algebra
+
 ---
 # Isometries have Determinant with Absolute Value 1
 

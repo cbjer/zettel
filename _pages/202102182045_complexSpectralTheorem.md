@@ -3,6 +3,7 @@ title: Complex Spectral Theorem
 permalink: /zettel/202102182045_complexSpectralTheorem
 layout: page
 tags: linear algebra
+
 ---
 # Complex Spectral Theorem
 

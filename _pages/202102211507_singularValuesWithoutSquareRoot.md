@@ -3,6 +3,7 @@ title: Singular Values without taking Square Root of Operator
 permalink: /zettel/202102211507_singularValuesWithoutSquareRoot
 layout: page
 tags: linear algebra
+
 ---
 # Singular Values without taking Square Root of Operator
 

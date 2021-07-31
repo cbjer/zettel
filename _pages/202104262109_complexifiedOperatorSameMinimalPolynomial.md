@@ -3,6 +3,7 @@ title: Complexified Operator has same Minimal Polynomial
 permalink: /zettel/202104262109_complexifiedOperatorSameMinimalPolynomial
 layout: page
 tags: linear algebra
+
 ---
 # Complexified Operator has same Minimal Polynomial
 

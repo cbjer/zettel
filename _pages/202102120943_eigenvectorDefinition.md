@@ -3,6 +3,7 @@ title: Eigenvector Definition
 permalink: /zettel/202102120943_eigenvectorDefinition
 layout: page
 tags: linear algebra
+
 ---
 # Eigenvector Definition
 

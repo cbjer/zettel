@@ -3,6 +3,7 @@ title: Eligibility Traces
 permalink: /zettel/202012061733_eligibilityTraces
 layout: page
 tags: assignment credit lambda
+
 ---
 # Eligibility Traces
 

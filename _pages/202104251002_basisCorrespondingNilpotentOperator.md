@@ -3,6 +3,7 @@ title: Basis Corresponding to a Nilpotent Operator
 permalink: /zettel/202104251002_basisCorrespondingNilpotentOperator
 layout: page
 tags: linear algebra
+
 ---
 # Basis Corresponding to a Nilpotent Operator
 

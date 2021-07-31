@@ -3,6 +3,7 @@ title: Transformation Sampling Technique
 permalink: /zettel/202101101211_transformationSamplingTechnique
 layout: page
 tags: sampling
+
 ---
 # Transformation Sampling Technique
 

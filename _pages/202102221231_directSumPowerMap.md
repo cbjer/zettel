@@ -3,6 +3,7 @@ title: Direct Sum of Space with Power Map
 permalink: /zettel/202102221231_directSumPowerMap
 layout: page
 tags: linear algebra
+
 ---
 # Direct Sum of Space with Power Map
 

@@ -3,6 +3,7 @@ title: Equality in the Sequence of Null Spaces
 permalink: /zettel/202102221219_equalitySequenceNullSpaces
 layout: page
 tags: linear algebra
+
 ---
 # Equality in the Sequence of Null Spaces
 

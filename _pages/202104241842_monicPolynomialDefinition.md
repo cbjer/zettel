@@ -3,6 +3,7 @@ title: Monic Polynomial Definition
 permalink: /zettel/202104241842_monicPolynomialDefinition
 layout: page
 tags: linear algebra
+
 ---
 # Monic Polynomial Definition
 

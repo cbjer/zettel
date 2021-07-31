@@ -3,6 +3,7 @@ title: n-step Semi Gradient TD
 permalink: /zettel/202012032327_nstepSemiGradientTD
 layout: page
 tags: bootstrap evaluation
+
 ---
 # n-step Semi Gradient TD
 

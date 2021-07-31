@@ -3,6 +3,7 @@ title: Complexification of an Operator
 permalink: /zettel/202104251532_complexificationOperator
 layout: page
 tags: linear algebra
+
 ---
 # Complexification of an Operator
 

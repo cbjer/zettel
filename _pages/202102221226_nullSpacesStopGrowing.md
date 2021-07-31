@@ -3,6 +3,7 @@ title: Null Spaces Stop Growing
 permalink: /zettel/202102221226_nullSpacesStopGrowing
 layout: page
 tags: linear algebra
+
 ---
 # Null Spaces Stop Growing
 

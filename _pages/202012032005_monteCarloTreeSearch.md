@@ -3,6 +3,7 @@ title: Monte Carlo Tree Search
 permalink: /zettel/202012032005_monteCarloTreeSearch
 layout: page
 tags: search games rollout
+
 ---
 # Monte Carlo Tree Search
 

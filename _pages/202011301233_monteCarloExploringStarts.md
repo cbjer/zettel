@@ -3,6 +3,7 @@ title: Monte Carlo with Exploring Starts
 permalink: /zettel/202011301233_monteCarloExploringStarts
 layout: page
 tags: algorithm sampling control
+
 ---
 # Monte Carlo with Exploring Starts
 

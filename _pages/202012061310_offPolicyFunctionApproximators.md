@@ -3,6 +3,7 @@ title: Off Policy Methods with Function Approximators
 permalink: /zettel/202012061310_offPolicyFunctionApproximators
 layout: page
 tags: sampling gradient sgd
+
 ---
 # Off Policy Methods with Function Approximators
 

@@ -3,6 +3,7 @@ title: Properties of the Orthogonal Projection
 permalink: /zettel/202102151928_propertiesOrthogonalProjection
 layout: page
 tags: linear algebra
+
 ---
 # Properties of the Orthogonal Projection
 

@@ -3,6 +3,7 @@ title: Orthogonal Decomposition
 permalink: /zettel/202102141731_orthogonalDecomposition
 layout: page
 tags: linear algebra
+
 ---
 # Orthogonal Decomposition
 

@@ -3,6 +3,7 @@ title: Orthogonal Projection Definition
 permalink: /zettel/202102151855_orthogonalProjectionDefinition
 layout: page
 tags: linear algebra
+
 ---
 # Orthogonal Projection Definition
 

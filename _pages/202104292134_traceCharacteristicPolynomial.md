@@ -3,6 +3,7 @@ title: Trace and Characteristic Polynomial
 permalink: /zettel/202104292134_traceCharacteristicPolynomial
 layout: page
 tags: linear algebra
+
 ---
 # Trace and Characteristic Polynomial
 

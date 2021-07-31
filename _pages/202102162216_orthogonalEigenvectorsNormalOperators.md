@@ -3,6 +3,7 @@ title: Orthogonal Eigenvectors for Normal Operators
 permalink: /zettel/202102162216_orthogonalEigenvectorsNormalOperators
 layout: page
 tags: linear algebra
+
 ---
 # Orthogonal Eigenvectors for Normal Operators
 

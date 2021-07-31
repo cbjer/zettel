@@ -3,6 +3,7 @@ title: Matrix of a Vector Definition
 permalink: /zettel/202102082009_matrixOfVector
 layout: page
 tags: linear algebra
+
 ---
 # Matrix of a Vector Definition
 

@@ -3,6 +3,7 @@ title: Sample Mean Definition
 permalink: /zettel/202012241544_sampleMeanDefinition
 layout: page
 tags: definition
+
 ---
 # Sample Mean Definition
 

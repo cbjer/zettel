@@ -3,6 +3,7 @@ title: Variance Definition
 permalink: /zettel/202012241415_varianceDefinition
 layout: page
 tags: definition
+
 ---
 # Variance Definition
 

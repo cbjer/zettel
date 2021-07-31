@@ -3,6 +3,7 @@ title: Multiplying Two 2-Digit Numbers Quickly
 permalink: /zettel/202101241725_multiplyingTwoDigitNumbers
 layout: page
 tags: mental maths
+
 ---
 # Multiplying Two 2-Digit Numbers Quickly
 

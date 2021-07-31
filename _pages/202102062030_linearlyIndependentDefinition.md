@@ -3,6 +3,7 @@ title: Linearly Independent Definition
 permalink: /zettel/202102062030_linearlyIndependentDefinition
 layout: page
 tags: linear algebra
+
 ---
 # Linearly Independent Definition
 

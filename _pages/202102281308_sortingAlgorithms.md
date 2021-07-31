@@ -3,6 +3,7 @@ title: Sorting Algorithms
 permalink: /zettel/202102281308_sortingAlgorithms
 layout: page
 tags: 
+
 ---
 # Sorting Algorithms
 

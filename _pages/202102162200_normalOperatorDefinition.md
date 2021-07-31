@@ -3,6 +3,7 @@ title: Normal Operator Definition
 permalink: /zettel/202102162200_normalOperatorDefinition
 layout: page
 tags: linear algebra
+
 ---
 # Normal Operator Definition
 

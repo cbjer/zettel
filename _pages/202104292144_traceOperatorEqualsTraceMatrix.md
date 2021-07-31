@@ -3,6 +3,7 @@ title: Trace of an Operator Equals Trace of its Matrix
 permalink: /zettel/202104292144_traceOperatorEqualsTraceMatrix
 layout: page
 tags: linear algebra
+
 ---
 # Trace of an Operator Equals Trace of its Matrix
 

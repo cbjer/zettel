@@ -3,6 +3,7 @@ title: Bias Definition
 permalink: /zettel/202012241553_biasDefinition
 layout: page
 tags: definition statistics
+
 ---
 # Bias Definition
 

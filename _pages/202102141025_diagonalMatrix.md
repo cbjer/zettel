@@ -3,6 +3,7 @@ title: Diagonal Matrix
 permalink: /zettel/202102141025_diagonalMatrix
 layout: page
 tags: linear algebra
+
 ---
 # Diagonal Matrix
 

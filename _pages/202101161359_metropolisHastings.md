@@ -3,6 +3,7 @@ title: Metropolis Hastings Algorithm
 permalink: /zettel/202101161359_metropolisHastings
 layout: page
 tags: sampling posterior intractable
+
 ---
 # Metropolis Hastings Algorithm
 

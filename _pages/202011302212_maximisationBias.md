@@ -3,6 +3,7 @@ title: Maximisation Bias
 permalink: /zettel/202011302212_maximisationBias
 layout: page
 tags: bias
+
 ---
 # Maximisation Bias
 

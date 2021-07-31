@@ -3,6 +3,7 @@ title: Surjective Definition
 permalink: /zettel/202102071809_surjectiveDefinition
 layout: page
 tags: linear algebra
+
 ---
 # Surjective Definition
 

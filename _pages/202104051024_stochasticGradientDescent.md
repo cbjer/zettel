@@ -3,6 +3,7 @@ title: Stochastic Gradient Descent
 permalink: /zettel/202104051024_stochasticGradientDescent
 layout: page
 tags: optimisation
+
 ---
 # Stochastic Gradient Descent
 

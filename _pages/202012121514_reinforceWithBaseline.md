@@ -3,6 +3,7 @@ title: REINFORCE with Baseline
 permalink: /zettel/202012121514_reinforceWithBaseline
 layout: page
 tags: gradient montecarlo
+
 ---
 # REINFORCE with Baseline
 

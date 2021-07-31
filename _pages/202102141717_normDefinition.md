@@ -3,6 +3,7 @@ title: Norm Definition
 permalink: /zettel/202102141717_normDefinition
 layout: page
 tags: linear algebra
+
 ---
 # Norm Definition
 

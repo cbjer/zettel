@@ -3,6 +3,7 @@ title: Nilpotent Operator Definition
 permalink: /zettel/202102221258_nilpotentOperatorDefinition
 layout: page
 tags: linear algebra
+
 ---
 # Nilpotent Operator Definition
 

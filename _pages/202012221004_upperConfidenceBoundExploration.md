@@ -3,6 +3,7 @@ title: Upper Confidence Bound Exploration
 permalink: /zettel/202012221004_upperConfidenceBoundExploration
 layout: page
 tags: greedy exploration
+
 ---
 # Upper Confidence Bound Exploration
 

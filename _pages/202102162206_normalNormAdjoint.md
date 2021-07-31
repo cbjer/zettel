@@ -3,6 +3,7 @@ title: Normal if Norm of Adjoint Equal
 permalink: /zettel/202102162206_normalNormAdjoint
 layout: page
 tags: linear algebra
+
 ---
 # Normal if Norm of Adjoint Equal
 

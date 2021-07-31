@@ -3,6 +3,7 @@ title: Bayesian Inference
 permalink: /zettel/202101161711_bayesianInference
 layout: page
 tags: bayes
+
 ---
 # Bayesian Inference
 

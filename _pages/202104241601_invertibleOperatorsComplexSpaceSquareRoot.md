@@ -3,6 +3,7 @@ title: Invertible Operators on a Complex Space have a Square Root
 permalink: /zettel/202104241601_invertibleOperatorsComplexSpaceSquareRoot
 layout: page
 tags: linear algebra
+
 ---
 # Invertible Operators on a Complex Space have a Square Root
 

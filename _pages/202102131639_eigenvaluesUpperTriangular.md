@@ -3,6 +3,7 @@ title: Eigenvalues of an Upper Triangular Matrix
 permalink: /zettel/202102131639_eigenvaluesUpperTriangular
 layout: page
 tags: linear algebra
+
 ---
 # Eigenvalues of an Upper Triangular Matrix
 

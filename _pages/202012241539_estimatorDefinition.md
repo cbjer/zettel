@@ -3,6 +3,7 @@ title: Estimator Definition
 permalink: /zettel/202012241539_estimatorDefinition
 layout: page
 tags: definition  statistics
+
 ---
 # Estimator Definition
 

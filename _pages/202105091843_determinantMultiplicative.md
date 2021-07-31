@@ -3,6 +3,7 @@ title: Determinant is Multiplicative
 permalink: /zettel/202105091843_determinantMultiplicative
 layout: page
 tags: linear algebra
+
 ---
 # Determinant is Multiplicative
 

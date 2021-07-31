@@ -3,6 +3,7 @@ title: Random Sample Definition
 permalink: /zettel/202012241510_sampleDefinition
 layout: page
 tags: definition statistics
+
 ---
 # Random Sample Definition
 

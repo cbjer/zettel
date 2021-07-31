@@ -3,6 +3,7 @@ title: Orthonormal List is Linearly Independent
 permalink: /zettel/202102142103_orthonormalLinearlyIndependent
 layout: page
 tags: linear algebra
+
 ---
 # Orthonormal List is Linearly Independent
 

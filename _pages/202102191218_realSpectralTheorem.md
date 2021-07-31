@@ -3,6 +3,7 @@ title: Real Spectral Theorem
 permalink: /zettel/202102191218_realSpectralTheorem
 layout: page
 tags: linear algebra
+
 ---
 # Real Spectral Theorem
 

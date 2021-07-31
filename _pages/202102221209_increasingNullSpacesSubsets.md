@@ -3,6 +3,7 @@ title: Increasing Null Spaces Subsets
 permalink: /zettel/202102221209_increasingNullSpacesSubsets
 layout: page
 tags: linear algebra
+
 ---
 # Increasing Null Spaces Subsets
 

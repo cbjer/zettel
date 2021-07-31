@@ -3,6 +3,7 @@ title: Basis Definition
 permalink: /zettel/202102062154_basisDefinition
 layout: page
 tags: linear algebra
+
 ---
 # Basis Definition
 

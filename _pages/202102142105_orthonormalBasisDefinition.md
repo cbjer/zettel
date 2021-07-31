@@ -3,6 +3,7 @@ title: Orthonormal Basis Definition
 permalink: /zettel/202102142105_orthonormalBasisDefinition
 layout: page
 tags: linear algebra
+
 ---
 # Orthonormal Basis Definition
 

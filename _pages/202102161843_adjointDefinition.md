@@ -3,6 +3,7 @@ title: Adjoint Definition
 permalink: /zettel/202102161843_adjointDefinition
 layout: page
 tags: linear algebra
+
 ---
 # Adjoint Definition
 

@@ -3,6 +3,7 @@ title: The Norm of an Orthonormal Linear Combination
 permalink: /zettel/202102142057_normOrthonormalLinearCombination
 layout: page
 tags: linear algebra
+
 ---
 # The Norm of an Orthonormal Linear Combination
 

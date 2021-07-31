@@ -3,6 +3,7 @@ title: $T v$ Orthogonal to $v$
 permalink: /zettel/202102162149_tvOrthogonalv
 layout: page
 tags: linear algebra
+
 ---
 # $T v$ Orthogonal to $v$
 

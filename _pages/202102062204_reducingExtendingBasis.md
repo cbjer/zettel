@@ -3,6 +3,7 @@ title: Reducing or Extending to a Basis
 permalink: /zettel/202102062204_reducingExtendingBasis
 layout: page
 tags: linear algebra
+
 ---
 # Reducing or Extending to a Basis
 

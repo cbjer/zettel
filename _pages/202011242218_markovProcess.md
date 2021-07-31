@@ -2,7 +2,8 @@
 title: Markov Process
 permalink: /zettel/202011242218_markovProcess
 layout: page
-tags: markov memoryless \
+tags: markov memoryless 
+
 ---
 # Markov Process
 

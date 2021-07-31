@@ -3,6 +3,7 @@ title: Eigenvalue Definition
 permalink: /zettel/202102120912_eigenvalueDefinition
 layout: page
 tags: linear algebra
+
 ---
 # Eigenvalue Definition
 

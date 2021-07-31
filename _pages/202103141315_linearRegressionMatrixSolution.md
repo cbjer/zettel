@@ -3,6 +3,7 @@ title: Linear Regression Matrix Solution
 permalink: /zettel/202103141315_linearRegressionMatrixSolution
 layout: page
 tags: 
+
 ---
 # Linear Regression Matrix Solution
 

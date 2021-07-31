@@ -3,6 +3,7 @@ title: Minimising the Distance to a Subspace
 permalink: /zettel/202102151948_minimisingDistanceSubspace
 layout: page
 tags: linear algebra
+
 ---
 # Minimising the Distance to a Subspace
 

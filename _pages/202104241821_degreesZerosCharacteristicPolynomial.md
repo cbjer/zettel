@@ -3,6 +3,7 @@ title: Degree and Zeros of Characteristic Polynomial
 permalink: /zettel/202104241821_degreesZerosCharacteristicPolynomial
 layout: page
 tags: linear algebra
+
 ---
 # Degree and Zeros of Characteristic Polynomial
 

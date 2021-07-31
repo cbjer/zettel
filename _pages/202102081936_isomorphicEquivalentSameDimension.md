@@ -3,6 +3,7 @@ title: Isomorphic Equivalent to Same Dimension
 permalink: /zettel/202102081936_isomorphicEquivalentSameDimension
 layout: page
 tags: linear algebra
+
 ---
 # Isomorphic Equivalent to Same Dimension
 

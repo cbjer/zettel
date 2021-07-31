@@ -3,6 +3,7 @@ title: Eigenvalues of Self-Adjoint Operator
 permalink: /zettel/202102162043_eigenvaluesSelfAdjointOperater
 layout: page
 tags: linear algebra
+
 ---
 # Eigenvalues of Self-Adjoint Operator
 

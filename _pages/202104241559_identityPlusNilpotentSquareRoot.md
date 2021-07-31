@@ -3,6 +3,7 @@ title: Identity plus Nilpotent has a Square Root
 permalink: /zettel/202104241559_identityPlusNilpotentSquareRoot
 layout: page
 tags: linear algebra
+
 ---
 # Identity plus Nilpotent has a Square Root
 

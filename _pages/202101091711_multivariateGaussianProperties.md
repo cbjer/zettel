@@ -3,6 +3,7 @@ title: Multivariate Gaussian Properties
 permalink: /zettel/202101091711_multivariateGaussianProperties
 layout: page
 tags: multivariate normal
+
 ---
 # Multivariate Gaussian Properties
 

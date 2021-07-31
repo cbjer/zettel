@@ -3,6 +3,7 @@ title: Gradient Descent Update
 permalink: /zettel/202103282312_gradientDescentUpdate
 layout: page
 tags: optimisation
+
 ---
 # Gradient Descent Update
 

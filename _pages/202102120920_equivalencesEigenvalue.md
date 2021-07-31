@@ -3,6 +3,7 @@ title: Equivalences for Eigenvalue
 permalink: /zettel/202102120920_equivalencesEigenvalue
 layout: page
 tags: linear algebra
+
 ---
 # Equivalences for Eigenvalue
 

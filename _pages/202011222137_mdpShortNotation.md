@@ -3,6 +3,7 @@ title: Markov Decision Process Short-hand notation
 permalink: /zettel/202011222137_mdpShortNotation
 layout: page
 tags: markov bellman mdp
+
 ---
 # Markov Decision Process Short-hand notation
 

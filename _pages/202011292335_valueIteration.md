@@ -3,6 +3,7 @@ title: Value Iteration
 permalink: /zettel/202011292335_valueIteration
 layout: page
 tags: update algorithm improvement
+
 ---
 # Value Iteration
 

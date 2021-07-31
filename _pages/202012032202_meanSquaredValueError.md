@@ -3,6 +3,7 @@ title: Mean Squared Value Error
 permalink: /zettel/202012032202_meanSquaredValueError
 layout: page
 tags: error update loss
+
 ---
 # Mean Squared Value Error
 

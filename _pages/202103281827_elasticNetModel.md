@@ -3,6 +3,7 @@ title: Elastic Net Model
 permalink: /zettel/202103281827_elasticNetModel
 layout: page
 tags: model
+
 ---
 # Elastic Net Model
 

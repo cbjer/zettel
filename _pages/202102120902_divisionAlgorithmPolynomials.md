@@ -3,6 +3,7 @@ title: Division Algorithm for Polynomials
 permalink: /zettel/202102120902_divisionAlgorithmPolynomials
 layout: page
 tags: linear algebra
+
 ---
 # Division Algorithm for Polynomials
 

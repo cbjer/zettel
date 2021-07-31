@@ -3,6 +3,7 @@ title: Ridge Regression
 permalink: /zettel/202103281806_ridgeRegression
 layout: page
 tags: 
+
 ---
 # Ridge Regression
 

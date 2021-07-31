@@ -3,6 +3,7 @@ title: Inner Product Space
 permalink: /zettel/202102141708_innerProductSpace
 layout: page
 tags: linear algebra
+
 ---
 # Inner Product Space
 

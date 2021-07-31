@@ -2,7 +2,8 @@
 title: Sigmoid Function
 permalink: /zettel/202011221535_sigmoidFunction
 layout: page
-tags: activationfunctions logisticregression \
+tags: activationfunctions logisticregression
+
 ---
 # Sigmoid Function
 

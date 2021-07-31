@@ -2,7 +2,8 @@
 title: Logistic Regression
 permalink: /zettel/202011221613_logisticRegression
 layout: page
-tags: classification linearmodels \
+tags: classification linearmodels
+
 ---
 # Logistic Regression
 

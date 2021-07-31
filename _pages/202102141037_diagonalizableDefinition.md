@@ -3,6 +3,7 @@ title: Diagonalizable Definition
 permalink: /zettel/202102141037_diagonalizableDefinition
 layout: page
 tags: linear algebra
+
 ---
 # Diagonalizable Definition
 

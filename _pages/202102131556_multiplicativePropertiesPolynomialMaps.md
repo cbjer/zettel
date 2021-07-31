@@ -3,6 +3,7 @@ title: Multiplicative Properties of Polynomial Maps
 permalink: /zettel/202102131556_multiplicativePropertiesPolynomialMaps
 layout: page
 tags: linear algebra
+
 ---
 # Multiplicative Properties of Polynomial Maps
 

@@ -3,6 +3,7 @@ title: Variance of a sum of Independent Random Variables
 permalink: /zettel/202012241806_varianceSumIndependentRVs
 layout: page
 tags: identity
+
 ---
 # Variance of a sum of Independent Random Variables
 

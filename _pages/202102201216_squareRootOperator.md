@@ -3,6 +3,7 @@ title: Square Root Operator
 permalink: /zettel/202102201216_squareRootOperator
 layout: page
 tags: linear algebra
+
 ---
 # Square Root Operator
 

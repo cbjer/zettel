@@ -3,6 +3,7 @@ title: Enough Eigenvalues Implies Diagonalizability
 permalink: /zettel/202102141049_enoughEigenvaluesDiagonalizability
 layout: page
 tags: linear algebra
+
 ---
 # Enough Eigenvalues Implies Diagonalizability
 

@@ -3,6 +3,7 @@ title: Rejection Sampling
 permalink: /zettel/202101101505_rejectionSampling
 layout: page
 tags: sampling
+
 ---
 # Rejection Sampling
 

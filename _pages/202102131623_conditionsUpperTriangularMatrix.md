@@ -3,6 +3,7 @@ title: Conditions for Upper-Triangular Matrix
 permalink: /zettel/202102131623_conditionsUpperTriangularMatrix
 layout: page
 tags: linear algebra
+
 ---
 # Conditions for Upper-Triangular Matrix
 

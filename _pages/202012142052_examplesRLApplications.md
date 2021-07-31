@@ -3,6 +3,7 @@ title: Examples of RL Applications
 permalink: /zettel/202012142052_examplesRLApplications
 layout: page
 tags: alpha strategy games
+
 ---
 # Examples of RL Applications
 

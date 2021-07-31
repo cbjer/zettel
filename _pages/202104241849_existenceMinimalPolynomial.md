@@ -3,6 +3,7 @@ title: Existence Minimal Polynomial
 permalink: /zettel/202104241849_existenceMinimalPolynomial
 layout: page
 tags: linear algebra
+
 ---
 # Existence Minimal Polynomial
 

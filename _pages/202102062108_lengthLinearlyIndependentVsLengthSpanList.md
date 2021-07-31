@@ -3,6 +3,7 @@ title: Length of a Linearly Independent List vs Length of a Spanning List
 permalink: /zettel/202102062108_lengthLinearlyIndependentVsLengthSpanList
 layout: page
 tags: linear algebra
+
 ---
 # Length of a Linearly Independent List vs Length of a Spanning List
 

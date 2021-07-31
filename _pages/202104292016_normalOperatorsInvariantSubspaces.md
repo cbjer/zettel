@@ -3,6 +3,7 @@ title: Normal Operators and Invariant Subspaces
 permalink: /zettel/202104292016_normalOperatorsInvariantSubspaces
 layout: page
 tags: linear algebra
+
 ---
 # Normal Operators and Invariant Subspaces
 

@@ -3,6 +3,7 @@ title: Predictive Distribution
 permalink: /zettel/202101161857_predictiveDistribution
 layout: page
 tags: bayesian updating
+
 ---
 # Predictive Distribution
 

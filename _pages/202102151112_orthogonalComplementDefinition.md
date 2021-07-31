@@ -3,6 +3,7 @@ title: Orthogonal Complement
 permalink: /zettel/202102151112_orthogonalComplementDefinition
 layout: page
 tags: linear algebra
+
 ---
 # Orthogonal Complement
 

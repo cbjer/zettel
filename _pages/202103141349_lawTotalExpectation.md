@@ -3,6 +3,7 @@ title: Law of Total Expectation
 permalink: /zettel/202103141349_lawTotalExpectation
 layout: page
 tags: conditional
+
 ---
 # Law of Total Expectation
 

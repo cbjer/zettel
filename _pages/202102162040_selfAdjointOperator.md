@@ -3,6 +3,7 @@ title: Self Adjoint Operator
 permalink: /zettel/202102162040_selfAdjointOperator
 layout: page
 tags: linear algebra
+
 ---
 # Self Adjoint Operator
 

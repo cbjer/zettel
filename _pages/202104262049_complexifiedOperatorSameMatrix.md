@@ -3,6 +3,7 @@ title: Complexified Operator has Same Matrix
 permalink: /zettel/202104262049_complexifiedOperatorSameMatrix
 layout: page
 tags: linear algebra
+
 ---
 # Complexified Operator has Same Matrix
 

@@ -3,6 +3,7 @@ title: Injectivity and the Null Space
 permalink: /zettel/202102071751_injectivityNullSpace
 layout: page
 tags: linear algebra
+
 ---
 # Injectivity and the Null Space
 

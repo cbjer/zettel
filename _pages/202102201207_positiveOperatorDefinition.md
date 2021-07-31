@@ -3,6 +3,7 @@ title: Positive Operator Definition
 permalink: /zettel/202102201207_positiveOperatorDefinition
 layout: page
 tags: linear algebra
+
 ---
 # Positive Operator Definition
 

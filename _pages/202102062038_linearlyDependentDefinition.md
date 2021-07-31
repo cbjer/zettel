@@ -3,6 +3,7 @@ title: Linearly Dependent Definition
 permalink: /zettel/202102062038_linearlyDependentDefinition
 layout: page
 tags: linear algebra
+
 ---
 # Linearly Dependent Definition
 

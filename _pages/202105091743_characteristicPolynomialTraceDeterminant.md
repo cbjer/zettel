@@ -3,6 +3,7 @@ title: Characteristic Polynomial, Trace and Determinant
 permalink: /zettel/202105091743_characteristicPolynomialTraceDeterminant
 layout: page
 tags: linear algebra
+
 ---
 # Characteristic Polynomial, Trace and Determinant
 

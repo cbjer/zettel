@@ -3,6 +3,7 @@ title: Vector as a Linear Combination of an Orthonormal Basis
 permalink: /zettel/202102142128_linearCombinationOrthonomalBasis
 layout: page
 tags: linear algebra
+
 ---
 # Vector as a Linear Combination of an Orthonormal Basis
 

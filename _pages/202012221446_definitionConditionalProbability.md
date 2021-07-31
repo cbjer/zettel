@@ -3,6 +3,7 @@ title: Definition of Conditional Probability
 permalink: /zettel/202012221446_definitionConditionalProbability
 layout: page
 tags: bayes
+
 ---
 # Definition of Conditional Probability
 

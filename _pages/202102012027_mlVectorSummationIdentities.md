@@ -3,6 +3,7 @@ title: Machine Learning Vector Summation Identities
 permalink: /zettel/202102012027_mlVectorSummationIdentities
 layout: page
 tags: identity matrix sum
+
 ---
 # Machine Learning Vector Summation Identities
 

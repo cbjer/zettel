@@ -3,6 +3,7 @@ title: Dot Product Definition
 permalink: /zettel/202102141650_dotProductDefinition
 layout: page
 tags: linear algebra
+
 ---
 # Dot Product Definition
 
