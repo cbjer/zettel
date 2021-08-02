@@ -24,4 +24,3 @@ Links: [Monte Carlo with Exploring Starts](202011301233_monteCarloExploringStart
 
 References: Introduction to Reinforcement Learning - Sutton and Barto
 
-[Return to Index](index)

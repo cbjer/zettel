@@ -17,4 +17,3 @@ Links:
 
 References: Axler P246. Ref 8.11
 
-[Return to Index](index)

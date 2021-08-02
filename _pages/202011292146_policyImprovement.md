@@ -28,4 +28,3 @@ Links: []
 
 References: Introduction to Reinforcment Learning - Sutton and Barto (p78)
 
-[Return to Index](index)

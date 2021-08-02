@@ -19,4 +19,3 @@ Links:
 
 References: Axler P243. Ref 8.5
 
-[Return to Index](index)

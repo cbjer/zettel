@@ -17,4 +17,3 @@ Links: [One-step Actor Critic](202012121514_oneStepActorCritic), [Actor-critic w
 
 References: Introduction to Reinforcement Learning - Sutton and Barto
 
-[Return to Index](index)

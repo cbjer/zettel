@@ -17,4 +17,3 @@ Links:
 
 References: Ref 5.26
 
-[Return to Index](index)

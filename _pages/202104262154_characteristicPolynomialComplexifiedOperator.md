@@ -13,4 +13,3 @@ Links: [Complexified Operator](202104251532_complexificationOperator)
 
 References: 
 
-[Return to Index](index)

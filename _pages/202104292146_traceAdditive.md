@@ -13,4 +13,3 @@ Links: [Trace](202104292131_traceOperatorDefinition), [Trace Definitions Equival
 
 References: 
 
-[Return to Index](index)

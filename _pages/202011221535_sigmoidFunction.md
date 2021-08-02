@@ -29,4 +29,3 @@ Links: [Logistic Regression](202011221613_logisticRegression)
 
 References: Hundred-Page Machine Learning Book - Andrey Burkov
 
-[Return to Index](index)

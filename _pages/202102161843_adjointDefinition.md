@@ -21,4 +21,3 @@ Links: [Inner Product](202102141654_innerProductDefinition) [Basic Properties of
 
 References: 
 
-[Return to Index](index)

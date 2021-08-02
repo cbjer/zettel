@@ -18,4 +18,3 @@ Links:
 
 References: Axler P23
 
-[Return to Index](index)

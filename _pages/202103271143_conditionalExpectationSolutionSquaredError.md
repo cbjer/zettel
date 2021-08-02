@@ -42,4 +42,3 @@ Links:
 
 References: Elements of Statistical Learning - p18
 
-[Return to Index](index)

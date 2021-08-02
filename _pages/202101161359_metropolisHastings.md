@@ -28,4 +28,3 @@ Links: [Metropolis Hastings Five Minute Stats](https://stephens999.github.io/fiv
 
 References: 
 
-[Return to Index](index)

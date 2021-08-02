@@ -18,4 +18,3 @@ Links: [Trace](202104292131_traceOperatorDefinition), [Determinant](202105091734
 
 References: 
 
-[Return to Index](index)

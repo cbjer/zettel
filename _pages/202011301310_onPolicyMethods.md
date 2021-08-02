@@ -16,4 +16,3 @@ Links:
 
 References: Introduction to Reiforcement Learning - Sutton and Barto
 
-[Return to Index](index)

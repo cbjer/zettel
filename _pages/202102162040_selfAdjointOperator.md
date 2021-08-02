@@ -20,4 +20,3 @@ Links: [Inner Product](202102141654_innerProductDefinition)
 
 References: 
 
-[Return to Index](index)

@@ -19,4 +19,3 @@ Links: [Eigenspaces](202102141026_eigenspaceDefinition), [Adjoint](202102161843_
 
 References: 
 
-[Return to Index](index)

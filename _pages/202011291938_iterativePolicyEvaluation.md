@@ -30,4 +30,3 @@ Links: []
 
 References: Introduction to Reinforcement Learning - Sutton and Barto (page 75)
 
-[Return to Index](index)

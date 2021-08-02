@@ -20,4 +20,3 @@ Links: [Log-likelihood of a Logistic Regression Model](202011221644_likelyhoodLo
 
 References: Hundred-Page machine learning book - Andrey Burkov
 
-[Return to Index](index)

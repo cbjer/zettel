@@ -19,4 +19,3 @@ Links: [Basic Properties of an Inner Product](202102141711_basicPropertiesInnerP
 
 References: 
 
-[Return to Index](index)

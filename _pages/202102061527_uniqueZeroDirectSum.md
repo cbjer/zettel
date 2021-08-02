@@ -16,4 +16,3 @@ Links:
 
 References: Proof P23 of Axler
 
-[Return to Index](index)

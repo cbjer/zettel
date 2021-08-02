@@ -23,4 +23,3 @@ Links: [Lei Mao Blog Post](https://leimao.github.io/blog/Multivariate-Gaussian-C
 
 References: 
 
-[Return to Index](index)

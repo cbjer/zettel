@@ -1,22 +1,11 @@
 ---
-title: Home
+title: Notes
 permalink: /zettel/index
 layout: page
 
 
 ---
-# Home
-
-The home of my Zettels
-
-Index page containing a list of all notes. 
-
-Styles:
-
-- This page is the main index.
-- In the future we can incorporate hubs to group similiar topics/ideas.
-
-## Notes
+# Notes
 
 [Principals of Zettelkasten](202011221431_principalsOfZettelkasten)
 

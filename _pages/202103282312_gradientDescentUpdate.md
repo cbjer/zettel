@@ -45,4 +45,3 @@ Links:
 
 References: [Optimising Gradient Descent Article](https://ruder.io/optimizing-gradient-descent/) [Intro to Optimisation](https://blog.paperspace.com/intro-to-optimization-in-deep-learning-gradient-descent/)
 
-[Return to Index](index)

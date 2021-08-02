@@ -14,4 +14,3 @@ Links:
 
 References: Axler 9.8 p279
 
-[Return to Index](index)

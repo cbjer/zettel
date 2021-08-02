@@ -20,4 +20,3 @@ Links:
 
 References: Axler Ref 5.6
 
-[Return to Index](index)

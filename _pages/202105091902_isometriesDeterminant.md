@@ -14,4 +14,3 @@ Links: [Determinant](202105091734_determinantOperatorDefinition)
 
 References: 
 
-[Return to Index](index)

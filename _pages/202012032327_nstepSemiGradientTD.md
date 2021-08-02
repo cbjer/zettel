@@ -23,4 +23,3 @@ Links: [n-step TD](202011302226_nStepTD)
 
 References: Introduction to Reinforcement Learning - Sutton and Barto
 
-[Return to Index](index)

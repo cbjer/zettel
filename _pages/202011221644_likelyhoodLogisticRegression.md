@@ -33,4 +33,3 @@ Links: []
 
 References: Hundred-page machine learning book - Andrey Burkov
 
-[Return to Index](index)

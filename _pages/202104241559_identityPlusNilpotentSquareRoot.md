@@ -14,4 +14,3 @@ Links:
 
 References: Axler 8.31
 
-[Return to Index](index)

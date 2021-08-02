@@ -31,4 +31,3 @@ Links: [Expressing State-Action value function in terms of State value function]
 
 References: Introduction to Reinforcement Learning - Sutton and Barto
 
-[Return to Index](index)

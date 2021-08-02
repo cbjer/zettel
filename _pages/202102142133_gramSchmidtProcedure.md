@@ -26,4 +26,3 @@ Links:
 
 References: P183 Axler. 6.31
 
-[Return to Index](index)

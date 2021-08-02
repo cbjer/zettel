@@ -20,4 +20,3 @@ Links: [Matrix of Linear Map](202102072233_matrixLinearMap)
 
 References: 
 
-[Return to Index](index)

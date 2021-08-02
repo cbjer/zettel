@@ -37,4 +37,3 @@ Links: [Bellman equation for state-action values](202011242151_bellmanStateActio
 
 References: Introduction to Reinforcement Learning - Sutton and Barto
 
-[Return to Index](index)

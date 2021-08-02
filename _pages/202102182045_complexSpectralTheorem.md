@@ -27,4 +27,3 @@ Links: [Real Spectral Theorem](202102191218_realSpectralTheorem)
 
 References: 
 
-[Return to Index](index)

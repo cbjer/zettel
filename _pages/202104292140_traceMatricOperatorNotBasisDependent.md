@@ -16,4 +16,3 @@ Links: [Trace Matrix](202104292137_traceMatrixDefinition), [Trace operator](2021
 
 References: 
 
-[Return to Index](index)

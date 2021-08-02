@@ -26,4 +26,3 @@ Links: [Linear Regression Squared Loss Matrix Form](202103141145_linearRegressio
 
 References: 
 
-[Return to Index](index)

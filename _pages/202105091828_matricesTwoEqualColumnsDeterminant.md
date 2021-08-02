@@ -13,4 +13,3 @@ Links: [Determinant of a Matrix](202105091818_determinantMatrix)
 
 References: 
 
-[Return to Index](index)

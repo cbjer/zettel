@@ -29,4 +29,3 @@ Links: [Gradient Monte Carlo](202012032231_gradientMonteCarlo)
 
 References: Introduction to Reinforcement Learning - Sutton and Barto
 
-[Return to Index](index)

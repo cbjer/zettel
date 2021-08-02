@@ -29,4 +29,3 @@ Links:
 
 References: Proof p63 Axler
 
-[Return to Index](index)

@@ -24,4 +24,3 @@ Links: [TD(Lambda)](202012061731_tdLambda)
 
 References: Introduction to Reinforcement Learning - Sutton and Barto
 
-[Return to Index](index)

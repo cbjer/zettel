@@ -24,4 +24,3 @@ Links: []
 
 References: David Silver UCL RL Lecture 9
 
-[Return to Index](index)

@@ -19,4 +19,3 @@ Links: [Deep Reinforcement Learning with Double Q-Learning](https://arxiv.org/ab
 
 References: Introduction to Reinforcement Learning - Sutton and Barto
 
-[Return to Index](index)

@@ -14,4 +14,3 @@ Links: [Trace of an Operator](202104292131_traceOperatorDefinition)
 
 References: 
 
-[Return to Index](index)

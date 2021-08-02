@@ -18,4 +18,3 @@ Links:
 
 References: Proof p54 Axler
 
-[Return to Index](index)

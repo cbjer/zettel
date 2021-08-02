@@ -24,4 +24,3 @@ Links: [Square Root Operator](202102201216_squareRootOperator), [Adjoint](202102
 
 References: 
 
-[Return to Index](index)

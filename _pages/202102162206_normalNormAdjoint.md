@@ -19,4 +19,3 @@ Links: [Norm](202102141717_normDefinition) [Adjoint](202102161843_adjointDefinit
 
 References: 
 
-[Return to Index](index)

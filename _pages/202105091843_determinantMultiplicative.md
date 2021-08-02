@@ -19,4 +19,3 @@ Links: [Determinant of Matrix](202105091818_determinantMatrix)
 
 References: 
 
-[Return to Index](index)

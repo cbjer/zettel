@@ -18,4 +18,3 @@ Links: [Bayes Rule](202012221450_bayesRules)
 
 References: 
 
-[Return to Index](index)

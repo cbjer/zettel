@@ -24,4 +24,3 @@ Links: [Invertibility Equivalence to Injectivity and Surjectivity](202102081919_
 
 References: 
 
-[Return to Index](index)

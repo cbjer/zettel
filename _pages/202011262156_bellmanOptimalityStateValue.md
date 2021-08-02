@@ -31,4 +31,3 @@ Links: [Bellman Optimality Equation for State-action Values](202011291755_bellma
 
 References: Introduction to Reinforcement Learning - Sutton and Barto
 
-[Return to Index](index)

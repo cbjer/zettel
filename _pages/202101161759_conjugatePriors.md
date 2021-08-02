@@ -18,4 +18,3 @@ Links: [Lei Mao Blog Post](https://leimao.github.io/blog/Conjugate-Priors/) [Con
 
 References: 
 
-[Return to Index](index)

@@ -32,4 +32,3 @@ Links: [Semi-Gradient TD(0)](202012032232_semigradientTDZero) [Gradient Monte Ca
 
 References: Introduction to Reinforcement Learning - Sutton and Barto
 
-[Return to Index](index)

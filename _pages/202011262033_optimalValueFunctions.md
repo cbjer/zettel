@@ -27,4 +27,3 @@ Links: [Bellman Optimality Equation for State Values](202011262156_bellmanOptima
 
 References: [Reinforcent Learning Markov Decision Process](https://towardsdatascience.com/reinforcement-learning-markov-decision-process-part-2-96837c936ec3)
 
-[Return to Index](index)

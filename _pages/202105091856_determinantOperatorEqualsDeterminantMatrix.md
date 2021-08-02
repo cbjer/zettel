@@ -15,4 +15,3 @@ Links: [Determinant of Operator](202105091734_determinantOperatorDefinition), [D
 
 References: 
 
-[Return to Index](index)

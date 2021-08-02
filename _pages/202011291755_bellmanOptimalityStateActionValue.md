@@ -31,4 +31,3 @@ Links: [Bellman Optimality Equation for State Value Function](202011262156_bellm
 
 References: []
 
-[Return to Index](index)

@@ -18,4 +18,3 @@ Links: [Restricted operator](202102121258_restrictionOperatorDefinition)
 
 References: 
 
-[Return to Index](index)

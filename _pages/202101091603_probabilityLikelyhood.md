@@ -45,4 +45,3 @@ Links: [Cross Entropy vs Negative Log Likelihood](202103271848_crossEntropyVsNeg
 
 References: 
 
-[Return to Index](index)

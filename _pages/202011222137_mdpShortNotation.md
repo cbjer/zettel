@@ -21,4 +21,3 @@ Links: [Bellman equation for state-values](202011222150_bellmanEquationStateValu
 
 References: Introduction to Reinforcement Learning - Sutton and Barto
 
-[Return to Index](index)

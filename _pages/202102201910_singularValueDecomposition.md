@@ -34,4 +34,3 @@ Links:
 
 References: Axler p237. Ref 7.51
 
-[Return to Index](index)

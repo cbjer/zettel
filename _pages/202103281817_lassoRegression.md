@@ -24,4 +24,3 @@ Links: [Elastic Net](202103281827_elasticNetModel)
 
 References: 
 
-[Return to Index](index)

@@ -21,4 +21,3 @@ Links: [State-value function](202011221845_valueFunctions), [Expressing state va
 
 References: Introduction to Reinforcement Learning - Sutton and Barto
 
-[Return to Index](index)

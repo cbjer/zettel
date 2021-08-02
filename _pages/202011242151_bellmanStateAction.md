@@ -36,4 +36,3 @@ Links: [Bellman equation for value function](202011222150_bellmanEquationStateVa
 
 References: Reinforcement Learning - Sutton and Barto
 
-[Return to Index](index)

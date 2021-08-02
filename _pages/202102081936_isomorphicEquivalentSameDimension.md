@@ -12,4 +12,3 @@ they have the same [dimension](202102062253_dimensionDefinition).
 
 References: 
 
-[Return to Index](index)

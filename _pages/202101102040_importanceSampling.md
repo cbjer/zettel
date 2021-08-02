@@ -30,4 +30,3 @@ Links: [Importance Sampling](https://bookdown.org/rdpeng/advstatcomp/importance-
 
 References: 
 
-[Return to Index](index)

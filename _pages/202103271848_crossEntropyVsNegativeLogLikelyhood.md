@@ -54,4 +54,3 @@ Links: [Likelihood](202101091603_probabilityLikelyhood), [Cross Entropy](2021032
 
 References: [Connections: Log Likelihood, Cross Entropy, KL Divergence, Logistic Regression, and Neural Networks](https://glassboxmedicine.com/2019/12/07/connections-log-likelihood-cross-entropy-kl-divergence-logistic-regression-and-neural-networks/)
 
-[Return to Index](index)

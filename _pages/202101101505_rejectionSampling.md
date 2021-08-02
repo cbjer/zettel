@@ -32,4 +32,3 @@ Links: [Rejection Sampling Method](https://www.sciencedirect.com/topics/mathemat
 
 References: 
 
-[Return to Index](index)

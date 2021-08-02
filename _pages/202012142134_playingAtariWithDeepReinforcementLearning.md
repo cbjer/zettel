@@ -30,4 +30,3 @@ Links: [Arxiv Paper](https://arxiv.org/pdf/1312.5602.pdf)
 
 References:
 
-[Return to Index](index)

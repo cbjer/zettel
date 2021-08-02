@@ -15,4 +15,3 @@ Links: [Markov Reward Process](TODOs), [Markov Decision Process](TODOs)
 
 References: []
 
-[Return to Index](index)

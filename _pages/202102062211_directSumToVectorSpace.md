@@ -17,4 +17,3 @@ Links:
 
 References: Proof p42 Axler
 
-[Return to Index](index)

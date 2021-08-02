@@ -21,4 +21,3 @@ Links: [Stanford Cheat Sheet](https://stanford.edu/~shervine/teaching/cme-106/ch
 
 References: 
 
-[Return to Index](index)

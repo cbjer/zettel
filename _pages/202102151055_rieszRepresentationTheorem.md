@@ -30,4 +30,3 @@ Links:
 
 References: Axler P188. Ref 6.42
 
-[Return to Index](index)

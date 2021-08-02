@@ -17,4 +17,3 @@ Links:
 
 References: Proof p34 Axler
 
-[Return to Index](index)

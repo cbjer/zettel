@@ -19,4 +19,3 @@ Links: []
 
 References: [Zettelkasten Principles](https://thinktool.io/blog/zettelkasten-principles.html)
 
-[Return to Index](index)

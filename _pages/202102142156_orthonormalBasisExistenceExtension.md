@@ -15,4 +15,3 @@ Links:
 
 References: Axler 6.34, 6.35
 
-[Return to Index](index)

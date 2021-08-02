@@ -19,4 +19,3 @@ Links:
 
 References: Proof criterion p39 Axler
 
-[Return to Index](index)

@@ -23,4 +23,3 @@ Links: [State-Action value function](202011221903_actionValueFunction)
 
 References: Introduction to Reinforcement Learning - Sutton and Barto
 
-[Return to Index](index)

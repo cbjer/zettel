@@ -15,4 +15,3 @@ Links:
 
 References: Axler P247. Ref 8.13
 
-[Return to Index](index)

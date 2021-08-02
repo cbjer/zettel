@@ -19,4 +19,3 @@ Links:
 
 References: 8.4 Axler
 
-[Return to Index](index)

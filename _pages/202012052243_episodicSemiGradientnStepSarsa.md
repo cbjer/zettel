@@ -22,4 +22,3 @@ Links: []
 
 References: Introduction to Reinforcement Learning - Sutton and Barto
 
-[Return to Index](index)

@@ -21,4 +21,3 @@ Links:
 
 References: 
 
-[Return to Index](index)

@@ -16,4 +16,3 @@ Links: [Matrix of Operator](202102072233_matrixLinearMap), [Determinant of Matri
 
 References: 
 
-[Return to Index](index)

@@ -22,4 +22,3 @@ Links: [Complex Spectral Theorem](202102182045_complexSpectralTheorem)
 
 References: Axler P221. Ref 7.29
 
-[Return to Index](index)

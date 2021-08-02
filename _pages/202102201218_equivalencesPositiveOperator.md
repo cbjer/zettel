@@ -24,4 +24,3 @@ Links: [Adjoint](202102161843_adjointDefinition)
 
 References: 
 
-[Return to Index](index)

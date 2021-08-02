@@ -18,4 +18,3 @@ Links:
 
 References: Axler 8.40 p263
 
-[Return to Index](index)

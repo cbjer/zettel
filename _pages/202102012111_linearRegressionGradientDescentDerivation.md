@@ -30,4 +30,3 @@ Links: [Logistic Regression Gradient Descent Update](202103282246_logisticRegres
 
 References: 
 
-[Return to Index](index)
