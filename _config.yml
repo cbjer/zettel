@@ -81,7 +81,7 @@ include:
 header_pages:
   - _pages/index.md 
   - tag_index.md
-  - tag_all_pages.md
+  - tag_page.md
   - about.md
 
 

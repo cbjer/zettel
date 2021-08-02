@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tag Page
+title: Pages
 permalink: tag-page.html
 ---
 
