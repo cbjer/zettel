@@ -746,3 +746,5 @@ layout: page
 [Linear Algebra Done Right - Axler - Hub](202105100955_linearAlgebraAxlerHub)
 
 [Introduction to Reinforcement Learning - Sutton & Barto - Hub](202105101016_introductionReinforcementLearningSuttonBartoHub)
+
+[Row Dot Product Identity](202108261356_rowDotProductIdentity)

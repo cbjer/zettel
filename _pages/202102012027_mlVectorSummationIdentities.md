@@ -7,7 +7,10 @@ tags: identity matrix sum
 ---
 # Machine Learning Vector Summation Identities
 
-For a set of training examples $\{\mathbf{x}_i \}_{i=1}^n$, where each $\mathbf{x} \in \mathbb{R}^p$, we define the **data matrix** $\mathrm{X} \in \mathbb{R}^{n x p}$ as 
+For a set of training examples 
+$$\{ \mathbf{x}_i \}_{i=1}^n$$
+Where each $\mathbf{x} \in \mathbb{R}^p$, we define the **data matrix** $\mathrm{X} \in \mathbb{R}^{np}$ as 
+
 $$
 \mathrm{X} = 
 \begin{pmatrix}
