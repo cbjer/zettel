@@ -16,6 +16,8 @@ $$
 \textrm{for all} \, v, w \in V
 $$
 
+For real matrices, self-adjoint is equivalent to being symmetric, ie $A^T = A$.
+
 Links: [Inner Product](202102141654_innerProductDefinition) 
 
 References: 

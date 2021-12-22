@@ -8,7 +8,7 @@ tags: policy
 # Softmax in Action Preferences
 
 Common parameterisation of the [policy](202011242107_rlPolicy) for [policy gradient methods](202012141139_policyGradientMethods)
-is in the form of a [softmax distribution](TODOs).
+is in the form of a [softmax distribution](202112161920_SoftmaxFunction).
 
 $$
 \pi(a|s,\boldsymbol{\theta}) = \frac{e^{h(s,a,\boldsymbol{\theta})}}{\sum_b e^{h(s, b, \boldsymbol{\theta})}}

@@ -16,9 +16,11 @@ $$
 
 Note some references also use the name **positive semi-definite operator** for a positive operator.
 
-We have the following [equivalences for positive operators](202102201218_equivalencesPositiveOperator)
+We have the following [equivalences for positive operators](202102201218_equivalencesPositiveOperator).
 
-Links: 
+We can show this definition [is equivalent to the definition of a positive semi-definite matrix](202108302054_equivalencePositiveSemiDefiniteMatrixPositiveOperator).
+
+Links: [Positive Semi-Definite Matrix](202101091703_positiveDefiniteMatrix)
 
 References: 
 

@@ -20,8 +20,8 @@ $$
 \frac{\partial^2 J}{\partial \mathbf{w}^2} = \frac{2}{N} \mathrm{X}^T \mathrm{X}
 $$
 
-Which is a [positive semi definite matrix](202101091703_positiveDefiniteMatrix). This implies we have a unique minimum 
-to our loss expression. (TODO: Which part of LA implies this?)
+Which is a [positive semi definite matrix](202101091703_positiveDefiniteMatrix). This means the [Hessian](202111060003_HessianMatrix) is positive 
+semi definite [which implies the problem is convex](202111061115_ConvexEquivalentPositiveSemiDefinite) and [thus has a unique global minimum](202111061045_ConvexFunction).
 
 Setting our first derivate expression to zero and assuming $\mathrm{X}^T \mathrm{X}$ is [invertible](202102081851_invertibleMap) we get
 $$

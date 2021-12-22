@@ -15,7 +15,7 @@ $$
 \textrm{AIC} = 2 k - 2 \ln ( \hat{L} )
 $$
 
-We choose the model with the minimum AIC.
+We choose the model with the minimum AIC. Used to compare different models, taking consideration of their complexities (proxied by number of parameters)
 
 Links: 
 

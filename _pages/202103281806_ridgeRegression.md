@@ -7,7 +7,7 @@ tags:
 ---
 # Ridge Regression
 
-**Ridge regression** is a modification on the [linear regression](202011221622_linearRegression) model where instead of
+**Ridge regression** is a modification on the [linear regression](202103141139_linearRegressionModel) model where instead of
 minimising the usual [mean squared error](202101162041_lossFunctions), we add an extra $L_2$ regularisation term.
 
 $$

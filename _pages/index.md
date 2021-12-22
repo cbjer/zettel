@@ -748,3 +748,155 @@ layout: page
 [Introduction to Reinforcement Learning - Sutton & Barto - Hub](202105101016_introductionReinforcementLearningSuttonBartoHub)
 
 [Row Dot Product Identity](202108261356_rowDotProductIdentity)
+
+[Equivalence of Positive Semi-Definite Matrix and Positive Operator](202108302054_equivalencePositiveSemiDefiniteMatrixPositiveOperator)
+
+[Singular Matrix Definition](202110302116_singularMatrixDefinition)
+
+[K-Nearest Neighbors Algorithm](202110302142_kNearestNeighbors)
+
+[Hessian Matrix](202111060003_HessianMatrix)
+
+[Leibniz Integral Rule](202111060005_LeibnizIntegralRule)
+
+[Markov Chain Monte Carlo](202111060011_MarkovChainMonteCarlo)
+
+[Confidence Interval](202111060012_ConfidenceInterval)
+
+[Convex Function](202111061045_ConvexFunction)
+
+[Gradient Definition](202111061109_GradientDefinition)
+
+[Convex Equivalent to Positive Semi-Definite](202111061115_ConvexEquivalentPositiveSemiDefinite)
+
+[Conditional Expectation Solution to Absolute Error Loss](202111061420_ConditionalExpectationSolutiontoAbsoluteErrorLoss)
+
+[Optimal Bayes Classifier](202111061451_OptimalBayesClassifier)
+
+[Supervised Learning Setup](202111061519_SupervisedLearningSetup)
+
+[Elements of Statistical Learning Summary](202111061723_ElementsofStatisticalLearningSummary)
+
+[Cholesky Decomposition](202111061758_CholeskyDecomposition)
+
+[QR Decomposition](202111061805_QRDecomposition)
+
+[Computational Considerations for Least Squares Regression](202111061813_ComputationalConsiderationsforLeastSquaresRegression)
+
+[Linear Discriminant Analysis](202111062039_LinearDiscriminantAnalysis)
+
+[Quadratic Discriminant Analysis](202111062100_QuadraticDiscriminantAnalysis)
+
+[LDA vs Logistic Regression](202111062241_LDAvsLogisticRegression)
+
+[Cubic Spline](202111070933_CubicSpline)
+
+[Log Odds to Sigmoid Relationship](202111070951_LogOddstoSigmoidRelationship)
+
+[Kernal Density Estimation](202111071109_KernalDensityEstimation)
+
+[Gaussian Kernel](202111071112_GaussianKernel)
+
+[Kernel Density Classification](202111071123_KernelDensityClassification)
+
+[Naive Bayes Classifier](202111071133_NaiveBayesClassifier)
+
+[Maximum Likelyhood Estimation](202111071235_MaximumLikelyhoodEstimation)
+
+[Gaussian Mixture Models](202111071240_GaussianMixtureModels)
+
+[EM Algorithm](202111071246_EMAlgorithm)
+
+[Bayesian Information Criterion (BIC)](202111071320_BayesianInformationCriterionBIC)
+
+[Bayes Factor](202111092205_BayesFactor)
+
+[Score Function](202111211323_ScoreFunction)
+
+[Information Matrix](202111211330_InformationMatrix)
+
+[Fisher Information](202111211335_FisherInformation)
+
+[Maximum Likelyhood Estimator Tends to Normal](202111211350_MaximumLikelyhoodEstimatorTendstoNormal)
+
+[Posterior Distribution](202111211359_PosteriorDistribution)
+
+[Mixture Models](202111251547_MixtureModels)
+
+[Gaussian Mixture Models](202111251547_GaussianMixtureModels)
+
+[KL Divergence](202111251549_KLDivergence)
+
+[EM Algorithm for Gaussian Mixture Models](202111251549_EMAlgorithmforGaussianMixtureModels)
+
+[EM Algorithm Steps using KL-Divergence](202111251825_EMAlgorithmStepsusingKLDivergence)
+
+[Gibbs Sampling](202111252015_GibbsSampling)
+
+[Bagging](202111252019_Bagging)
+
+[Bayesian Model Averaging](202111252244_BayesianModelAveraging)
+
+[Bumping](202111252245_Bumping)
+
+[Generalised Additive Models](202112132023_GeneralisedAdditiveModels)
+
+[CART Algorithm](202112161612_CARTAlgorithm)
+
+[Regression Trees](202112161631_RegressionTrees)
+
+[Tree Pruning](202112161653_TreePruning)
+
+[Gini Impurity](202112161744_GiniImpurity)
+
+[Classification Trees](202112161745_ClassificationTrees)
+
+[Loss Matrix](202112161754_LossMatrix)
+
+[Tree Based Models](202112161800_TreeBasedModels)
+
+[Sensitivity and Specificity](202112161806_SensitivityandSpecificity)
+
+[ROC Curves](202112161812_ROCCurves)
+
+[Computational Complexity of Tree Fitting](202112161824_ComputationalComplexityofTreeFitting)
+
+[Missing Data](202112161825_MissingData)
+
+[AdaBoost Model](202112161827_AdaBoostModel)
+
+[Boosting](202112161834_Boosting)
+
+[Gradient Boosting](202112161853_GradientBoosting)
+
+[Shrinkage](202112161900_Shrinkage)
+
+[Softmax Function](202112161920_SoftmaxFunction)
+
+[Activation Functions](202112161926_ActivationFunctions)
+
+[Regularisation Techniques for Neural Networks](202112161930_RegularisationTechniquesforNeuralNetworks)
+
+[Back-propagation Derivation](202112161932_BackpropagationDerivation)
+
+[Issues with Training Neural Networks](202112161935_IssueswithTrainingNeuralNetworks)
+
+[Convolutional Layers](202112161943_ConvolutionalLayers)
+
+[XGBoost Model](202112171216_XGBoostModel)
+
+[Random Forest Model](202112171623_RandomForestModel)
+
+[Ensemble Learning](202112211939_EnsembleLearning)
+
+[Stacking](202112211941_Stacking)
+
+[Support Vector Classifier](202112212024_SupportVectorClassifier)
+
+[Kernel Spaces](202112212026_KernelSpaces)
+
+[Support Vector Machine Methods](202112212028_SupportVectorMachineMethods)
+
+[Lagrangian Multipliers](202112212043_LagrangianMultipliers)
+
+[Non-Separable Support Vector Classifier](202112212147_NonSeparableSupportVectorClassifier)

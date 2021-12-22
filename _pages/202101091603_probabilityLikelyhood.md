@@ -14,6 +14,8 @@ $$
 L ( \theta | \mathbf{x} ) = f( \mathbf{x} | \theta )
 $$
 
+If we are working in a discrete space, we instead work with the discrete probability distribution $p(\mathbf{x} \vert \theta)$.
+
 The key idea here is that, rather than thinking "given some parameters, what is the probability...", we are instead viewing
 as: given a sample, how likely is it that the parameters were some $\theta$. That is we are viewing as a function of the parameters given the data, not as a 
 probability of the data, given some parameters.
@@ -40,6 +42,16 @@ $$
 p(Y_i = y_i \vert X_i = x_i)
 $$
 So don't get confused between $x_i$ as an observed input in the ML framework, and as a sample in the classical statistics framework.
+
+For probabilistic Machine learning, the log likelyhood often takes the form:
+$$
+\begin{aligned}
+l(\theta) &= \sum_{i=1}^n \log p(\mathbf{x}_i, y_i \vert \theta) \\
+&= \sum_{i=1}^n \big[ \log p(\mathbf{x}_i \vert y_i, \theta) + \log p(y_i \vert \theta) \big]
+\end{aligned}
+$$
+
+Ie we are using the full joint distribution over $X$ and $Y$ and have made used of the [conditional probability formula](202012221446_definitionConditionalProbability).
 
 Links: [Cross Entropy vs Negative Log Likelihood](202103271848_crossEntropyVsNegativeLogLikelyhood)
 

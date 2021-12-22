@@ -17,6 +17,8 @@ $$
 
 There isn't a closed form solution to minimising this expression.
 
+With regularisation, we typically do not penalise the intercept term.
+
 Lasso regression has the advantage that it will force the weights for unimportant features to $0$. Ie
 it is doing a type of automatic feature selection.
 

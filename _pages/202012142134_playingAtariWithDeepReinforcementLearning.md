@@ -17,7 +17,7 @@ reliance on human-picked features, but simply from the raw pixel input
 - Made heavy use of [experience replay](TODOs), which basically adds tuples $(S_t, A_t, R_{t+1}, S_{t+1})$ to a buffer, which we then 
   sample from uniformly at random to learn from. This breaks the high amounts correlation between subsequent steps, which is required for the usual
   supervised learning setup. 
-- Made use of an deep architecture composing of 3 hidden [convolutional layers](TODOs) with [ReLU](TODOs) activation functions and a 
+- Made use of an deep architecture composing of 3 hidden [convolutional layers](202112161943_ConvolutionalLayers) with [ReLU](202112161926_ActivationFunctions) activation functions and a 
   final fully connected layer. 
 - Provided normalisation of scoring between games, simply giving +1 reward if the game score increased, and -1 if it decreased. This 
   avoids scale issues of the different game scores when selecting hyperparameters.

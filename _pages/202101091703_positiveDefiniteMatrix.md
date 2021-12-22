@@ -18,7 +18,9 @@ $$
 y^T M y \geq 0 \quad \forall y
 $$
 
-Links: 
+We can show this definition [is equivalent to the definition of a positive operator](202108302054_equivalencePositiveSemiDefiniteMatrixPositiveOperator).
+
+Links: [Positive Operator](202102201207_positiveOperatorDefinition)
 
 References: 
 
